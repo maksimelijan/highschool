@@ -52,7 +52,7 @@ Potrebbe essere molto comodo per acquistare qualcosa al ritorno dal lavoro...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0 && f.Lingua!=3"]
+[if exp="f.Lingua>0 && f.Lingua!=3 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -106,7 +106,7 @@ Vieni qui! Subito![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0 && f.Lingua!=3"]
+[if exp="f.Lingua>0 && f.Lingua!=3 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -134,7 +134,7 @@ Get over here! Now![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="008_EMPORIO.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="GO&nbsp;CLOSE"  _clickable_img=""  target="*Avvicinati"  ]
@@ -172,7 +172,7 @@ Get over here! Now![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="008_EMPORIO.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="BUY&nbsp;SOMETHING"  _clickable_img=""  target="*Oggetti_In_Vendita"  ]
@@ -222,10 +222,21 @@ Non male questa ragazza roscia![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+[tb_start_text mode=1 ]
+#ZACK
+ВАУ...[p]
+Неплохая рыженькая![p]
+[_tb_end_text]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -305,7 +316,7 @@ Come posso aiutarti?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0 && f.Lingua!=3"]
+[if exp="f.Lingua>0 && f.Lingua!=3 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -330,7 +341,7 @@ How can I help you?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="008_EMPORIO.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="BUY&nbsp;SOMETHING"  _clickable_img=""  target="*Oggetti_In_Vendita"  ]
@@ -373,10 +384,22 @@ How can I help you?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+[tb_start_text mode=1 ]
+#ZACK
+(Ничего себе... Жена Педро такая красавица...)[p]
+(Как этот ангел может жить с таким грубым и отвратительным громилой?)[p]
+(Может, лучше прогуляться со мной, красотка-рыжуля? ХЕ-ХЕ-ХЕ!!!)[p]
+[_tb_end_text]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -429,7 +452,7 @@ How can I help you?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="008_EMPORIO.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="BUY&nbsp;SOMETHING"  _clickable_img=""  target="*Oggetti_In_Vendita"  ]
@@ -563,7 +586,7 @@ Merda... Non ho abbastanza soldi...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0 && f.Lingua!=3"]
+[if exp="f.Lingua>0 && f.Lingua!=3 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -631,7 +654,7 @@ Merda... Non ho abbastanza soldi...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0 && f.Lingua!=3"]
+[if exp="f.Lingua>0 && f.Lingua!=3 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -699,7 +722,7 @@ Merda... Non ho abbastanza soldi...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0 && f.Lingua!=3"]
+[if exp="f.Lingua>0 && f.Lingua!=3 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -767,7 +790,7 @@ Merda... Non ho abbastanza soldi...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0 && f.Lingua!=3"]
+[if exp="f.Lingua>0 && f.Lingua!=3 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -835,7 +858,7 @@ Merda... Non ho abbastanza soldi...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0 && f.Lingua!=3"]
+[if exp="f.Lingua>0 && f.Lingua!=3 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -903,7 +926,7 @@ Merda... Non ho abbastanza soldi...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0 && f.Lingua!=3"]
+[if exp="f.Lingua>0 && f.Lingua!=3 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -971,7 +994,7 @@ Merda... Non ho abbastanza soldi...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0 && f.Lingua!=3"]
+[if exp="f.Lingua>0 && f.Lingua!=3 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1039,7 +1062,7 @@ Merda... Non ho abbastanza soldi...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0 && f.Lingua!=3"]
+[if exp="f.Lingua>0 && f.Lingua!=3 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1107,7 +1130,7 @@ Merda... Non ho abbastanza soldi...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0 && f.Lingua!=3"]
+[if exp="f.Lingua>0 && f.Lingua!=3 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1167,7 +1190,7 @@ Posso offrirti un campione omaggio del nostro nuovo detergente per occhiali?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0 && f.Lingua!=3"]
+[if exp="f.Lingua>0 && f.Lingua!=3 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1219,7 +1242,7 @@ Posso offrirti un campione omaggio del nostro nuovo collirio rinfrescante?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0 && f.Lingua!=3"]
+[if exp="f.Lingua>0 && f.Lingua!=3 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1271,7 +1294,7 @@ Posso offrirti un campione omaggio delle nostre nuove lenti a contatto usa e get
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0 && f.Lingua!=3"]
+[if exp="f.Lingua>0 && f.Lingua!=3 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1300,7 +1323,7 @@ May I offer you a free sample of our new disposable contact lenses?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="008_EMPORIO.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="OH,&nbsp;YES...&nbsp;THANK&nbsp;YOU!"  _clickable_img=""  target="*Accetta"  ]
@@ -1347,7 +1370,7 @@ Torna pure a trovarmi per qualsiasi necessità![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0 && f.Lingua!=3"]
+[if exp="f.Lingua>0 && f.Lingua!=3 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]

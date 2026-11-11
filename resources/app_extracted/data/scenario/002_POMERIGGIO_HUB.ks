@@ -48,7 +48,21 @@
 [button  storage="005_MAPPA_SCUOLA.ks"  target=""  graphic="Icone_Gioco/Mappa.png"  width="100"  height="100"  x="0"  y="300"  _clickable_img=""  name="img_7"  ]
 [button  storage="002_POMERIGGIO_HUB.ks"  target="*Pranzo"  graphic="Icone_Gioco/Carne.png"  width="100"  height="100"  y="400"  ]
 [button  storage="GUIDA.ks"  target=""  graphic="Icone_Gioco/Elenco.png"  width="100"  height="100"  y="500"  name="img_12"  ]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+[tb_ptext_show  x="974"  y="5"  size="40"  color="0xfa8805"  time="1000"  face="animeace2_reg"  text="ДЕНЬ"  edge="0x000000"  shadow="undefined"  anim="true"  fadeout="false"  wait="false"  in_effect="swing"  out_effect="fadeOut"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua!=3"]
+[_tb_end_tyrano_code]
 [tb_ptext_show  x="974"  y="5"  size="40"  color="0xfa8805"  time="1000"  face="animeace2_reg"  text="AFTERNOON"  edge="0x000000"  shadow="undefined"  anim="true"  fadeout="false"  wait="false"  in_effect="swing"  out_effect="fadeOut"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 [s  ]
 *Pranzo
 

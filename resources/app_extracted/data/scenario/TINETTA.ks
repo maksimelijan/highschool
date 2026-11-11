@@ -1378,7 +1378,7 @@ Tu non preoccuparti, mi avvicinerò per vedere se è tra quelli sotto il tuo ban
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1392,6 +1392,22 @@ You don't worry, I'll get closer to see if it's among those under your desk![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+О боже... Жёлтые...[p]
+Какие же они красивые...[p]
+Чёрт, если она услышит, как я ползу под столом...[p]
+Может, мне лучше остановиться...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1416,7 +1432,7 @@ Ma cosa...?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1427,6 +1443,22 @@ What the...?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот чёрт...[p]
+Я мог бы целыми днями целовать эту девушку с головы до ног...[p]
+И ни разу не остановиться...[p]
+Я почти чувствую её нежный вкус на языке![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1450,7 +1482,7 @@ Non muoverti, Tinetta... L'ho quasi preso!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1463,6 +1495,23 @@ Don't move, Tinetta... I almost got it!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт... Не могу смириться с тем, что такая добрая и милая девушка постоянно грустит...)[p]
+(Мне нужно найти способ заставить её раскрыться...)[p]
+(Но что я могу ей сказать... Я ведь всего лишь учитель...)[p]
+(Эта работа школьного психолога меня доконает!!!!)[p]
+(Или Лиза меня прикончит, если узнает, что в этой школе у меня всё время стоит как стальной!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1496,7 +1545,7 @@ Don't move, Tinetta... I almost got it!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1510,6 +1559,34 @@ Don't move, Tinetta... I almost got it!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+О, профессор...[p]
+Извините, я немного задремала...[p]
+Потому что очень устала...[p]
+Пожалуйста, не говорите директору...[p]
+#ZACK
+(Она явно врёт!)[p]
+Почему ты мне врёшь, Тинетта?[p]
+Ты ведь явно плакала...[p]
+Позволь мне помочь...[p]
+#TINETTA
+Нет, клянусь вам...[p]
+Я просто спала...[p]
+Это не слёзы...[p]
+Это просто...[p]
+Ух...[p]
+(Всхлипывает!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1535,7 +1612,7 @@ Mi sembra una cosa inopportuna!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1547,6 +1624,20 @@ This seems inappropriate to me!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+Что?[p]
+Но... профессор...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1609,7 +1700,7 @@ Arrivederci!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1625,6 +1716,22 @@ Goodbye!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+Почему вы всегда так плохо ко мне относитесь...[p]
+Я думала, что хотя бы на вас могу рассчитывать...[p]
+Я ведь почти решилась...[p]
+(Всхлипывает!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1651,7 +1758,7 @@ Goodbye!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1662,6 +1769,22 @@ Goodbye!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Постой, Тинетта, не убегай![p]
+Чёрт...[p]
+Какой же я придурок!!![p]
+Зачем я так с ней поступил?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1687,7 +1810,7 @@ Goodbye!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1699,6 +1822,21 @@ Goodbye!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Вау... Какая потрясающая улыбка!!!)[p]
+(Её глаза проникают прямо в сердце...)[p]
+(Хотя должен признать, что и мой член тоже попал под их чары!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1739,7 +1877,7 @@ Goodbye!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1751,6 +1889,23 @@ Goodbye!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+О, профессор...[p]
+Вы всегда так добры ко мне...[p]
+Я вижу, что вам не всё равно...[p]
+От ваших слов моё сердце всегда начинает биться быстрее!!![p]
+Спасибо![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1785,7 +1940,7 @@ Ero solo distratto da alcuni pensieri...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1800,6 +1955,26 @@ I was just distracted by some thoughts...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+Боже, как же мне стыдно!!![p]
+Простите меня, профессор!!![p]
+#ZACK
+Постой, Тинетта, не убегай!!![p]
+(Чёрт... Мне ещё никогда не дарили такого нежного поцелуя...)[p]
+(Это было почти так, словно Тинетта...)[p]
+(Вот чёрт, эта школа меня доконает!!!)[p]
+(Как мне теперь избавиться от этой эрекции?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1821,7 +1996,7 @@ I was just distracted by some thoughts...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1833,6 +2008,21 @@ I was just distracted by some thoughts...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ух... Некоторые девушки тренируются...[p]
+Чёрт...[p]
+В такой крошечной спортивной форме они выглядят просто огненно![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1857,7 +2047,7 @@ I was just distracted by some thoughts...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1868,6 +2058,21 @@ I was just distracted by some thoughts...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+ВАУ!!![p]
+Лучше уйти отсюда...[p]
+У меня сейчас член порвёт штаны![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1892,7 +2097,7 @@ I was just distracted by some thoughts...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1903,6 +2108,22 @@ I was just distracted by some thoughts...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Лучше вернуться в кабинет...[p]
+Такие горячие девушки доведут меня до неприятностей!!![p]
+Хорошо, что Лиза об этом не знает.[p]
+Эй... А это кто?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1931,7 +2152,7 @@ I was just distracted by some thoughts...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1943,6 +2164,21 @@ I was just distracted by some thoughts...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Это Тинетта...[p]
+Чёрт... Наверное, она только что закончила урок тенниса...[p]
+Я чувствую, как мой член растёт с сверхзвуковой скоростью!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1971,7 +2207,7 @@ La sua carezza è proprio quello che serviva per sollevare il mio umore![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1984,6 +2220,19 @@ Your caress is just what was needed to lift my mood![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт... Какая сочная сосковая горошинка!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2012,7 +2261,7 @@ Ci vediamo presto!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2029,6 +2278,19 @@ See you soon!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+А?..[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2073,7 +2335,7 @@ Beh... Aggressiva![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2091,6 +2353,20 @@ Well... Aggressive![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+Профессор!!![p]
+Я как раз думала о вас!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2121,7 +2397,7 @@ Forse, potrei...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2134,6 +2410,20 @@ Maybe, I could...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Вот чёрт... Мне совершенно не нужны такие поощрения!!!)[p]
+(Я и так возбуждён как кабан...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2162,7 +2452,7 @@ Avrei dato volentieri una sbirciatina!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2174,6 +2464,25 @@ I would have gladly taken a peek!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+Мне очень нужна ваша помощь, Зак!!![p]
+Я хотела бы почитать эту книгу, которая мне так нравится!!![p]
+Но никак не могу найти тихое место!!![p]
+Можно мне приходить читать её в комнату для наказаний?[p]
+#ZACK
+(Что???)[p]
+(Похоже, это опасная затея... Чертовски опасная!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2217,7 +2526,7 @@ Come mi piacerebbe essere stritolato tra quelle gambe muscolose!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2232,6 +2541,22 @@ How I would love to be squeezed between those muscular legs!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+О, спасибо, Зак!!!![p]
+Вот увидите...[p]
+Я сумею отблагодарить вас!!![p]
+Вы не пожалеете!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2278,7 +2603,7 @@ Anche se mi sento un po' in colpa per Lisa...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2292,6 +2617,23 @@ Although I feel a little guilty about Lisa....[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+О...[p]
+Ладно...[p]
+Тогда в следующий раз...[p]
+Всё равно спасибо...[p]
+Вздох...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2328,7 +2670,7 @@ Ci è mancato davvero poco!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2344,6 +2686,23 @@ That was really close!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(О БОЖЕ... Какая же она красивая...)[p]
+(Но не понимаю, почему она не переоделась перед тем, как прийти сюда...)[p]
+(Она просто такая наивная и невинная?)[p]
+(Или у неё есть какой-то план?)[p]
+(И справлюсь ли я с этой ситуацией?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2371,7 +2730,7 @@ Cosa dovrei fare?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2384,6 +2743,19 @@ What am I supposed to do?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+ХЕ-ХЕ-ХЕ!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2417,7 +2789,7 @@ Ma anche un'occasione così ghiotta!!!...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2430,6 +2802,21 @@ But also such a golden opportunity!!!...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ох, чёрт...[p]
+(Отсюда действительно всё прекрасно видно!)[p]
+(Смогу ли я не попасться?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2457,7 +2844,7 @@ Di che colore saranno le sue mutandine?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2469,6 +2856,20 @@ Which color her panties will be?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Интересно, что она читает...[p]
+(Похоже, она полностью погрузилась в книгу...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]

@@ -2252,6 +2252,21 @@ Don't make me regret it, understand?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Пожалуйста, не заставляй меня беспокоиться из-за твоего поведения![p]
+Я лично поручилась за тебя, чтобы ты получил эту работу![p]
+Не заставляй меня пожалеть об этом, ясно?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -2294,6 +2309,21 @@ Maybe you should go to her...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Доброе утро, профессор...[p]
+Я слышала, мисс Марлен вас искала...[p]
+Может, вам стоит к ней зайти...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -2334,6 +2364,23 @@ Class is about to start, and the science teacher is very strict![p]
 #ZACK
 (A science professor--I should be the one!)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TONINA
+Ох, нам очень жаль, профессор...[p]
+Но нам уже действительно пора...[p]
+Скоро начнётся урок, а учитель естественных наук очень строгий![p]
+#ZACK
+(Учитель естественных наук? Вообще-то это должен быть я!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -2386,6 +2433,23 @@ You should be in your office right now![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Эй, Зак...[p]
+Что ты здесь делаешь?[p]
+Ты сейчас должен быть у себя в кабинете![p]
+#ZACK
+(Чёрт!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -2429,6 +2493,24 @@ Well... See you later...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+Здравствуйте, профессор!!![p]
+Тсс!!!! Тише!!![p]
+Директор очень злится, когда кто-нибудь мешает во время собрания!!![p]
+#ZACK
+Спасибо, Тинетта![p]
+Ладно... До встречи...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -2466,6 +2548,21 @@ Well... See you later...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт... У Потти такие длинные, мускулистые ноги!!!)[p]
+(Плавание сделало её фигуру по-настоящему модельной!!!)[p]
+(А такие короткие юбки уж точно ничего не скрывают!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -2501,6 +2598,21 @@ Well... See you later...[p]
 (I don't feel like listening to that bitch Olympia's rants now!)[p]
 (Better sneak away right now before she sees me!)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт!!!)[p]
+(Меньше всего мне сейчас хочется выслушивать ворчание этой стервы Олимпии!)[p]
+(Лучше поскорее улизнуть, пока она меня не заметила!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -2554,6 +2666,28 @@ IH IH IH!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Эй, Закки-Закки!!!![p]
+Рада тебя видеть!!!![p]
+Не могу дождаться сегодняшнего вечера...[p]
+Ведь я знаю, что ты будешь дома!!![p]
+И-хи-хи!!![p]
+#ZACK
+(Чёрт... Я никогда не знаю, как реагировать, когда Лилли так себя ведёт!!!)[p]
+(Она действительно со мной флиртует?)[p]
+(Или это мне просто хочется так думать???)[p]
+(Я скоро сойду с ума... Или у меня раньше член взорвётся!!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -2595,6 +2729,23 @@ Unfortunately, I have some bad news for you....[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Доброе утро, Зак!!![p]
+Спасибо, что пришёл так рано...[p]
+К сожалению, у меня для тебя плохие новости...[p]
+#ZACK
+(Чёрт!!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -2626,6 +2777,21 @@ Unfortunately, tax irregularities have been found with your contract position...
 This puts your salary at risk....[p]
 I'm afraid we won't be able to pay you![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+К сожалению, в оформлении твоей должности обнаружились налоговые нарушения...[p]
+Из-за этого возникли проблемы с выплатой твоей зарплаты...[p]
+Боюсь, мы не сможем тебе платить![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -2672,6 +2838,23 @@ Let me look for a solution...[p]
 You know I have a soft spot for you![p]
 EH EH EH!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Что ж...[p]
+Подожди минутку...[p]
+Дай мне поискать выход...[p]
+Ты же знаешь, что я к тебе неравнодушна![p]
+ХЕ-ХЕ-ХЕ!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

@@ -1299,6 +1299,19 @@ But... Actually I...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Но... Вообще-то я...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1334,6 +1347,22 @@ You have every right to, since you work at Ben Dover's!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+О нет, профессор...[p]
+Я вовсе не хотела вас смущать...[p]
+Простите![p]
+Вы ведь имеете полное право плавать здесь, раз работаете в «Бен Доверс»!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1364,6 +1393,20 @@ You have every right to, since you work at Ben Dover's!!![p]
 (Shit... This girl has a really gorgeous face!!!)[p]
 (If She were not so shy...)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт... У этой девушки невероятно красивое лицо!!!)[p]
+(Если бы она не была такой застенчивой...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -1398,6 +1441,21 @@ You have every right to, since you work at Ben Dover's!!![p]
 ( She can' t look anyone in the eye...)[p]
 (Although sometimes she seems to be looking down at something instead...)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Она снова опустила взгляд...)[p]
+(Она не может смотреть людям в глаза...)[p]
+(Хотя иногда кажется, что она смотрит вниз на что-то конкретное...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -1515,6 +1573,20 @@ You have every right to, since you work at Ben Dover's!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Вот чёрт... Её купальник съехал...)[p]
+(Кажется, кое-что видно...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1560,6 +1632,21 @@ You have every right to, since you work at Ben Dover's!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Вот чёрт... Только не сейчас!!!)[p]
+(Нет, пожалуйста!!!)[p]
+(В этом купальнике мне не скрыть эрекцию...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1592,6 +1679,19 @@ You have every right to, since you work at Ben Dover's!!![p]
 #ZACK
 (Shit... She seems to be looking right there!!!)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт... Кажется, она смотрит прямо туда!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

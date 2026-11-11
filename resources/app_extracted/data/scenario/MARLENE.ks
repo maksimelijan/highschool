@@ -92,7 +92,7 @@ Do you understand?[p]
 [tb_start_text mode=1 ]
 #ZACK
 (Какого чёрта?)[p]
-(Мarlene отчитывает ученика!)[p]
+(Марлен отчитывает ученика!)[p]
 #MARLENE
 Ты понял?[p]
 [_tb_end_text]
@@ -541,6 +541,27 @@ I can't take it anymore![p]
 I see...[p]
 [_tb_end_text]
 
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+К сожалению, каждый день моей жизни проходит рядом с этими чёртовыми детьми...[p]
+Ты даже не представляешь, как это раздражает...[p]
+Их глупые проблемы, вся эта чушь![p]
+Их вечное нытьё...[p]
+Каждый чёртов день![p]
+Я больше не выдерживаю![p]
+#ZACK
+Понимаю...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -585,6 +606,26 @@ I'm so glad to finally have an adult to compare myself to![p]
 #ZACK
 (Is she flirting with me?)[p]
 [_tb_end_text]
+
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Но теперь ты здесь![p]
+#ZACK
+Что...?[p]
+#MARLENE
+Я так рада, что наконец-то рядом есть взрослый человек, с которым можно поговорить на равных![p]
+#ZACK
+(Она со мной флиртует?) [p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -632,6 +673,28 @@ If you know what I mean... EH EH EH!!![p]
 (I wonder what Lisa would fucking think of that?)[p]
 [_tb_end_text]
 
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+С кем я могла бы быть самой собой![p]
+С кем можно было бы кое-чем заняться...[p]
+Ну... По-взрослому![p]
+Если ты понимаешь, о чём я... Хе-хе-хе!!![p]
+#ZACK
+(Ох, чёрт...)[p]
+(Похоже, она именно это и имеет в виду!)[p]
+(У меня уже встаёт от одной мысли об этом!)[p]
+(Интересно, что Лиза скажет, если узнает?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -678,6 +741,23 @@ But the door seems to be open...[p]
 Maybe the person inside forgot to close it.....[p]
 [_tb_end_text]
 
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Уф... Похоже, туалет занят...[p]
+Изнутри доносятся какие-то звуки...[p]
+Но дверь, кажется, открыта...[p]
+Возможно, человек внутри просто забыл её закрыть...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -722,6 +802,22 @@ Maybe the person inside forgot to close it.....[p]
 (A goddess!!!)[p]
 (But am I sure I want to risk it and keep spying on her?)[p]
 [_tb_end_text]
+
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Вот чёрт, это же Марлен!!!)[p]
+(Настоящая богиня!!!)[p]
+(Но стоит ли рисковать и продолжать за ней подглядывать?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -780,6 +876,20 @@ Maybe the person inside forgot to close it.....[p]
 (Wow... She looks like a fashion model rather than a secretary!)[p]
 [_tb_end_text]
 
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Вау... Она больше похожа на фотомодель, чем на секретаря!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -829,6 +939,22 @@ Maybe the person inside forgot to close it.....[p]
 (But these... I can't take my eyes off them!!!)[p]
 (I'd like to... kiss them...)[p]
 [_tb_end_text]
+
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Что со мной такое? Меня никогда не привлекали женские ноги...)[p]
+(Но эти... Я не могу отвести от них взгляд!!!)[p]
+(Мне хочется... поцеловать их...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

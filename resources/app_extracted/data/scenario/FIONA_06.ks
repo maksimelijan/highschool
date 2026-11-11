@@ -35,6 +35,21 @@ Yes, Zack, please come in.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ты хотела меня видеть, Анджела?[p]
+#ANGELA
+Да, Зак, пожалуйста, заходи.[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -81,6 +96,27 @@ Gee, have they been up to something again?[p]
 Of course![p]
 The situation is quite serious, and I can't let those two, even if they love each other, continue to set bad examples.[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Профессор, мне очень нужна ваша помощь. Отправляйтесь в комнату наказаний, куда я только что отправила Фиону и Десмонда.[p]
+
+#ZACK
+Ничего себе, они опять что-то натворили?[p]
+(Эти двое постоянно создают проблемы. Что они на этот раз устроили?)[p]
+
+#ANGELA
+Именно![p]
+Ситуация довольно серьёзная, и я не могу позволить этим двоим, даже если они любят друг друга, продолжать подавать дурной пример.[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -143,6 +179,20 @@ Go now, and solve the problem![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+Это школа преимущественно для девушек, как вы уже наверняка заметили. Сюда обращаются семьи определённого социального положения.[p]
+Я не могу допустить, чтобы репутация моей школы пострадала.[p]
+Идите и решите эту проблему![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -172,6 +222,20 @@ Go now, and solve the problem![p]
 (Shit...)[p]
 (Not only do I have this fucking job.... But I also have to risk it because of two rabbits in heat who can't regulate themselves...)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт...)[p]
+(Мало того, что у меня эта чёртова работа... Так я ещё и рискую ею из-за двух кроликов в брачный период, которые не умеют себя контролировать...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -213,6 +277,21 @@ You and I, at their age, were also full of passion, don't you remember?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ну же, Анджела, не думаешь, что можно немного ослабить поводья этим двоим?[p]
+В конце концов, они любят друг друга.[p]
+Мы с тобой в их возрасте тоже были полны страсти, помнишь?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -243,6 +322,20 @@ Io sono sempre stata una ragazza irreprensibile e non ho mai fatto nulla di poco
 Don't even joke about it, Zack![p]
 I have always been a blameless girl and have never done anything shady.[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Даже не шути об этом, Зак![p]
+Я всегда была безупречной девушкой и никогда не занималась ничем предосудительным.[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

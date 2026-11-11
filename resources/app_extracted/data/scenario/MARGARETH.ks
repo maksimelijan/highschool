@@ -27,10 +27,27 @@ Oh cazzo... Che succede???[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ЖЕНСКИЙ_ГОЛОС
+АААААХХХХХХ!!!!![p]
+ПОМОГИТЕ!!!![p]
+#ZACK
+Ох, чёрт... Что происходит???[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -60,10 +77,25 @@ Ti prego!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Помоги, Зак!!![p]
+Прошу тебя!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -97,10 +129,27 @@ Lilly, che succede?[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Зак!!!![p]
+#ZACK
+Что такое...?[p]
+Лилли, что случилось?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -132,10 +181,25 @@ Nello spogliatoio!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Зак... Помоги нам...[p]
+В раздевалке!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -166,10 +230,27 @@ Altrimenti non posso aiutarti!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Спокойно, Лилли...[p]
+Я здесь...[p]
+Но объясни, что произошло...[p]
+Иначе я не смогу тебе помочь!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -201,10 +282,26 @@ Ha rubato tutte le nostre...[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Вор!!![p]
+Нас ограбили, Зак!!![p]
+Он украл все наши...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -236,10 +333,27 @@ Ma che cazz......?[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Трусики!!!![p]
+#ZACK
+Что...?[p]
+Да какого чёрта......?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -269,7 +383,7 @@ What the fuck......?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="MARGARETH.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="HELP&nbsp;HER!"  _clickable_img=""  target="*Aiutala"  ]
@@ -305,10 +419,25 @@ Quello stronzo ci ha rubato le mutandine ancora una volta![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#NANCY
+Вот же ублюдок!!!![p]
+Этот придурок опять украл наши трусики![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -338,10 +467,27 @@ E gli romperò il culo![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#NANCY
+А теперь он, наверное, дрочит на наше бельё...[p]
+Представляя наши маленькие киски![p]
+Но в следующий раз я поймаю его с поличным...[p]
+И надеру ему задницу![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -377,10 +523,26 @@ E' molto imbarazzante![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#POTTY
+Это несправедливо... [p]
+Опять то же самое...[p]
+Как же неловко![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -410,10 +572,26 @@ E costano un sacco di soldi!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#POTTY
+К тому же мои трусики особенные...[p]
+Специально созданы для таких спортсменок, как я!!![p]
+И стоят кучу денег!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -448,10 +626,26 @@ Mi sento così a disagio, senza mutandine...[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+О боже, девочки...[p]
+Мне так неловко...[p]
+Я чувствую себя такой неуютно без трусиков...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -482,10 +676,27 @@ Oh no!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+Я чувствую прохладный воздух...[p]
+Прямо там...[p]
+Под юбкой...[p]
+О нет!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -520,10 +731,25 @@ Questo stronzo ha rubato le mie mutandine preferite...[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARGARETH
+Я тоже злюсь не меньше вас, девочки...[p]
+Этот подонок украл мои любимые трусики...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -553,10 +779,27 @@ Non dobbiamo condannarlo prima di sapere tutta la verità!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARGARETH
+Но, возможно...[p]
+Если он это сделал...[p]
+На то была веская причина...[p]
+Не стоит осуждать его, пока мы не узнаем всей правды!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -595,10 +838,31 @@ We must not condemn him before we know the whole truth!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт... Кто бы это мог быть?)[p]
+(Скорее всего, какой-нибудь озабоченный студент...)[p]
+(Который сейчас нюхает трусики этих потрясающих девушек...)[p]
+(В конце концов, как я могу его осуждать..?)[p]
+(Когда я сам был студентом, я никогда не делал ничего подобного...)[p]
+(Но, может быть... Если бы я мог вернуться в прошлое...)[p]
+(Чёрт... Одно только представление об этих свеженьких кисках без трусиков...)[p]
+(Заставляет меня захотеть заглянуть... Но это так рискованно...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -661,10 +925,26 @@ Invece di aiutarmi![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#NANCY
+Эй, профессор!!![p]
+Вы меня смущаете...[p]
+Вместо того чтобы помочь![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -714,10 +994,27 @@ Instead of helping me![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Эй... Что-то тут не сходится...)[p]
+(На самом деле на Маргарет трусики...)[p]
+(Хотя она вместе с остальными жалуется на кражу!)[p]
+(Какого чёрта здесь происходит?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -776,10 +1073,26 @@ Invece di aiutarmi![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+Эй, профессор!!![p]
+Вы меня смущаете...[p]
+Вместо того чтобы помочь![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -834,10 +1147,26 @@ Invece di aiutarmi![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+Эй, профессор!!![p]
+Вы меня смущаете...[p]
+Вместо того чтобы помочь![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -874,10 +1203,27 @@ Instead of helping me![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Ммм... Какая странная ситуация...)[p]
+(И к тому же очень возбуждающая...)[p]
+(Может, стоит помочь девушкам разобраться...)[p]
+(Но боюсь, это принесёт мне одни неприятности!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -918,10 +1264,24 @@ Ehy... C'è la folla oggi in mensa![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй... Сегодня в столовой полно народу![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -976,10 +1336,27 @@ E poi... Me le ha regalate... Lui!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#POTTY
+Проклятые кроссовки... Пора бы мне их уже сменить...[p]
+Шнурки постоянно развязываются![p]
+Но для тренировок они такие удобные...[p]
+К тому же... Их подарил мне... Он!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1024,10 +1401,26 @@ Mi hai spaventato![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#POTTY
+Ох... Профессор...[p]
+Я не услышала, как вы подошли...[p]
+Вы меня напугали![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1069,10 +1462,28 @@ Chissà cosa ha combinato?[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Что за....?[p]
+Тинетта спит сидя за столом в столовой??[p]
+При таком-то шуме?[p]
+Должно быть, она очень устала![p]
+Интересно, чем она занималась?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1107,10 +1518,25 @@ Who knows what she's been up to?[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт... Я знаю, что это очень рискованно...)[p]
+(Но я не могу этого не сделать!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1150,10 +1576,26 @@ Mi hai spaventato![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+Ох... Профессор...[p]
+Я не услышала, как вы подошли...[p]
+Вы меня напугали![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1195,10 +1637,27 @@ You scared me![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Эта девушка всегда такая загадочная...)[p]
+(Она словно постоянно витает где-то в облаках...)[p]
+(Даже сейчас... Всего лишь выбирает напиток...)[p]
+(Зато какие у неё сексуальные ножки!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1231,10 +1690,24 @@ You scared me![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Да что за чёрт...?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1269,10 +1742,26 @@ You scared me![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Я вообще ничего не понимаю... Что, чёрт возьми, она делает?)[p]
+(Ледяной напиток... Прямо там... Прижатый к её...)[p]
+(Вагине...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1305,10 +1794,26 @@ Che paura!!! IH IH IH IH IH!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARGARETH
+О, профессор!![p]
+Я вас не заметила!!![p]
+Как же вы меня напугали!!! ХИ-ХИ-ХИ-ХИ-ХИ!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1338,7 +1843,7 @@ How scary!!! IH IH IH IH!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="MARGARETH.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="SORRY,&nbsp;DIDN'T&nbsp;MEAN&nbsp;TO&nbsp;SCARE&nbsp;YOU!"  _clickable_img=""  target="*Risposta_Generica_02"  ]
@@ -1365,10 +1870,25 @@ Buona giornata professore![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARGARETH
+ХИ-ХИ-ХИ-ХИ-ХИ!!![p]
+Хорошего дня, профессор![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1398,10 +1918,27 @@ Have a great day professor![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Не могу поверить своим глазам!)[p]
+(Эта студентка только что украла напиток прямо у меня на глазах...)[p]
+(Спрятав его между ног, прижав к своей вагине...)[p]
+(А теперь она неуклюже идёт, стараясь не привлекать внимания окружающих!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1443,10 +1980,28 @@ Anche tu![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARGARETH
+Доброе утро, профессор![p]
+Хорошего вам дня![p]
+#ZACK
+Спасибо, Маргарет![p]
+И тебе![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1477,10 +2032,25 @@ You too![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт... Какая странная походка!)[p]
+(Будто она чуть не описалась!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]

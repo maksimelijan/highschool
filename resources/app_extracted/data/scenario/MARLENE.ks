@@ -35,6 +35,21 @@ I'm sick of your shit![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Чёрт возьми![p]
+Вы, тупые малолетки, уже достали![p]
+С меня хватит ваших выходок![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -69,6 +84,22 @@ Hai capito?[p]
 #MARLENE
 Do you understand?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Какого чёрта?)[p]
+(Мarlene отчитывает ученика!)[p]
+#MARLENE
+Ты понял?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -117,6 +148,28 @@ Grow a pair![p]
 #ZACK
 (Damn...)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#DESMOND
+Да... Да, мисс Марлен...[p]
+Я понял![p]
+Я...[p]
+#MARLENE
+Что?[p]
+Я тебя не слышу![p]
+Говори громче, чёрт возьми![p]
+Будь мужиком![p]
+#ZACK
+(Вот чёрт...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -209,6 +262,22 @@ Forgive me, I'll be right with you![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Уф...[p]
+Что...?[p]
+Зак, ты уже здесь?[p]
+Прости, я сейчас подойду![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -245,6 +314,22 @@ You're an adult now![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+А теперь уходи...[p]
+Мы поговорим об этом позже![p]
+И начни уже пользоваться своими мозгами![p]
+Ты уже взрослый![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -277,6 +362,20 @@ Mi dispiace tu abbia dovuto assistere a questo![p]
 Forgive me, Zack...[p]
 I'm sorry you had to witness this![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Прости меня, Зак...[p]
+Мне жаль, что тебе пришлось это увидеть![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -337,6 +436,20 @@ Get out of my mouth![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Мне так жаль, что тебе пришлось выслушивать все эти ужасные слова...[p]
+Что-то я не то говорю![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -367,6 +480,20 @@ Get out of my mouth![p]
 (That mouth... Those juicy lips!)[p]
 (If I just imagine them tight around my penis...).[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+(Этот рот... Эти сочные губы!)[p]
+(Стоит только представить, как они обхватывают мой член...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

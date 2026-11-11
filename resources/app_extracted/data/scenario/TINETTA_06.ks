@@ -391,6 +391,25 @@ But that doesn't explain why you did that research.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+Это... сложно.[p]
+Я... я люблю своего парня... И...[p]
+
+#MC
+(Бедная девушка, она кажется такой невинной. И всё же в ней есть что-то невероятно притягательное.)[p]
+Я понимаю, Тинетта.[p]
+Но это не объясняет, зачем ты проводила эти поиски.[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -432,6 +451,24 @@ Good enough in what, Tinetta?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+Он... он хочет меня бросить.[p]
+Говорит, что я... что я недостаточно хороша для него.[p]
+
+#MC
+(Что он имеет в виду под «недостаточно хороша»? Тут явно что-то ещё.)[p]
+В чём именно недостаточно хороша, Тинетта?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -463,6 +500,20 @@ Lui dice che non sono... esperta.[p]
 I... I don't know how to say it.[p]
 He says I'm not... experienced.[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+Я... я не знаю, как сказать.[p]
+Он говорит, что я... недостаточно опытная.[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

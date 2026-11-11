@@ -3325,6 +3325,22 @@ Please help me!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+Это не моя вина, Марлен...[p]
+Ну, может, самую малость...[p]
+Но что я могу поделать, если я постоянно такая рассеянная?!!![p]
+Пожалуйста, помоги мне!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -3360,6 +3376,23 @@ But do you realize what you're asking me?[p]
 Hmm...[p]
 That sounds interesting![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Не может быть, чтобы ты вечно витала в облаках!!![p]
+Ты хоть понимаешь, о чём меня просишь?[p]
+#ZACK
+Хм...[p]
+Звучит интересно![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -3445,6 +3478,25 @@ Your fresh butterfly is all loose?!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Ты издеваешься?!!![p]
+Ты забыла дома трусики!!![p]
+Ты понимаешь, что будет, если директор узнает, что под юбкой твоей формы...[p]
+У тебя там всё нараспашку?!!![p]
+#ZACK
+(Что????)[p]
+(Я правильно всё понял???)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -3488,6 +3540,26 @@ Lend me your panties, please!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+Именно поэтому мне и нужна твоя помощь!!![p]
+Если я наклонюсь... Или подамся вперёд...[p]
+Другие ученики увидят мои маленькие губки...[p]
+Совсем обнажёнными!!![p]
+Я умру от стыда!!![p]
+Одолжи мне свои трусики, пожалуйста!!![p]
+#ZACK
+(Вот чёрт... Мне хватило одних этих слов, чтобы член в штанах стал каменным!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -3529,6 +3601,25 @@ One of the students forgot them in the bathroom...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Ох, хватит...[p]
+Я больше не могу слушать твоё нытьё...[p]
+На, держи...[p]
+Не знаю, чьи они...[p]
+Кто-то из учениц забыл их в ванной...[p]
+#ZACK
+(Что??? Не могу в это поверить!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -3568,6 +3659,25 @@ But I really have no choice!!![p]
 (But is there really no one sane left in this school???)[p]
 (Certainly not me, if I keep getting excited like this every day!!!)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+Спасибо, Марлен...[p]
+Ты меня спасла...[p]
+Хотя мне немного противно надевать трусики, найденные в коробке потерянных вещей!!![p]
+Но выбора у меня действительно нет!!![p]
+#ZACK
+(Неужели в этой школе совсем не осталось нормальных людей???)[p]
+(Хотя уж точно не мне об этом говорить, если я каждый день так завожусь!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -3660,6 +3770,19 @@ OMFG!!![p]
 #ZACK
 (Shit... It's a miracle she hasn't seen me yet while I'm standing here spying on her...)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт... Просто чудо, что она до сих пор не заметила меня, пока я стою здесь и подглядываю за ней...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

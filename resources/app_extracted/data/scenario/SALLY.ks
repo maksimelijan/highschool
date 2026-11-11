@@ -7068,6 +7068,19 @@ AAAAAHHHHH!!!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+AAAAAHHHHH!!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
 [if exp="f.Lingua==3"]
 [_tb_end_tyrano_code]
 
@@ -7084,24 +7097,24 @@ AAAAAHHHHH!!!!![p]
 [endif]
 [_tb_end_tyrano_code]
 
+[tb_hide_message_window  ]
+[bg  time="500"  method="crossfade"  storage="SALLY/Sally_05_48.jpg"  ]
+[tb_show_message_window  ]
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==0"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#SALLY
-AAAAAHHHHH!!!!![p]
+#PROF. FAHRENHEIT
+Mmm....?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
-[tb_hide_message_window  ]
-[bg  time="500"  method="crossfade"  storage="SALLY/Sally_05_48.jpg"  ]
-[tb_show_message_window  ]
 [tb_start_tyrano_code]
-[if exp="f.Lingua==0"]
+[if exp="f.Lingua>0"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -7121,19 +7134,6 @@ Mmm....?[p]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
-
-[tb_start_tyrano_code]
-[endif]
-[_tb_end_tyrano_code]
-
-[tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
-[_tb_end_tyrano_code]
-
-[tb_start_text mode=1 ]
-#PROF. FAHRENHEIT
-Mmm....?[p]
-[_tb_end_text]
 
 [tb_start_tyrano_code]
 [endif]

@@ -21,6 +21,24 @@ Proverai un piacere che non hai mai provato prima in vita tua![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+Добро пожаловать ко мне домой, милый...[p]
+Хочешь немного расслабиться?[p]
+Я позабочусь об этом![p]
+Доверься нежным рукам Мэй Лей — и уйдёшь отсюда полностью удовлетворённым![p]
+Ты испытаешь удовольствие, которого никогда прежде не знал![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -87,6 +105,20 @@ Cosa vuoi che faccia per te, tesorino?[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+Что бы ты хотел, чтобы я для тебя сделала, милый?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -104,11 +136,50 @@ What do you want me to do for you, sweetheart?[p]
 
 [tb_hide_message_window  ]
 [bg  time="0"  method="crossfade"  storage="MEILEI/MeiLei_Intro_11.jpg"  ]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+[glink  color="btn_17_black"  storage="MEILEI.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="ХОЧУ&nbsp;ОТТРАХАТЬ&nbsp;ТЕБЕ&nbsp;РОТ"  _clickable_img=""  target="*Scopa_Bocca"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+[tb_start_tyrano_code]
+[if exp="f.Lingua!=3"]
+[_tb_end_tyrano_code]
 [glink  color="btn_17_black"  storage="MEILEI.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="I&nbsp;WANT&nbsp;TO&nbsp;FUCK&nbsp;YOUR&nbsp;MOUTH"  _clickable_img=""  target="*Scopa_Bocca"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 [tb_ptext_show  x="575"  y="30"  size="30"  color="0xfff700"  time="0"  text="250$"  face="animeace2_reg"  anim="true"  edge="0x000000"  shadow="undefined"  fadeout="false"  wait="false"  in_effect="flash"  out_effect="fadeOut"  ]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+[glink  color="btn_17_black"  storage="MEILEI.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="ХОЧУ&nbsp;ОТТРАХАТЬ&nbsp;ТВОЮ&nbsp;ПОПКУ"  _clickable_img=""  target="*Scopa_Culo"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+[tb_start_tyrano_code]
+[if exp="f.Lingua!=3"]
+[_tb_end_tyrano_code]
 [glink  color="btn_17_black"  storage="MEILEI.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="I&nbsp;WANT&nbsp;TO&nbsp;FUCK&nbsp;YOUR&nbsp;ASS"  _clickable_img=""  target="*Scopa_Culo"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 [tb_ptext_show  x="575"  y="90"  size="30"  color="0xfff700"  time="0"  text="300$"  face="animeace2_reg"  anim="true"  edge="0x000000"  shadow="undefined"  fadeout="false"  wait="false"  in_effect="flash"  out_effect="fadeOut"  ]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+[glink  color="btn_17_black"  storage="003_SERA_HUB.ks"  size="20"  text="Я&nbsp;ПЕРЕДУМАЛ.&nbsp;СПОКОЙНОЙ&nbsp;НОЧИ"  x="700"  y="140"  width="580"  height=""  _clickable_img=""  target="*Back"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+[tb_start_tyrano_code]
+[if exp="f.Lingua!=3"]
+[_tb_end_tyrano_code]
 [glink  color="btn_17_black"  storage="003_SERA_HUB.ks"  size="20"  text="I&nbsp;CHANGED&nbsp;MY&nbsp;MIND.&nbsp;GOODNIGHT"  x="700"  y="140"  width="580"  height=""  _clickable_img=""  target="*Back"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 [tb_image_show  time="0"  storage="default/Portafoglio.png"  width="100"  height="100"  y="0"  name="img_58"  ]
 [tb_start_tyrano_code]
 [ptext layer=1 page=fore text=&f.Soldi size=16 x=100 y=10 color=yellow bold=true ]
@@ -139,6 +210,22 @@ Scusa se ti ho fatto perdere tempo...[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Извини...[p]
+Но у меня с собой недостаточно денег...[p]
+Прости, что зря потратил твоё время...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -196,6 +283,20 @@ Sei proprio un porcellino, non è vero?[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+Ну ты и озорник, правда?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -226,6 +327,21 @@ Ma ora ci penso io, ci metterò un bel tappo!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Этот дерзкий ротик заслуживает хорошего урока, ХЕ-ХЕ-ХЕ!!![p]
+Но теперь я сам займусь им — заткну его как следует!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -258,6 +374,22 @@ Strozzami col tuo cazzo!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+О да, милый...[p]
+Вставь свой большой член мне в ротик!!![p]
+Заткни мне горло своим членом!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -305,6 +437,23 @@ Mettimelo in bocca, amore![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+ВАУ!!![p]
+Как же это приятно!![p]
+Не могу дождаться, когда почувствую его вкус!!![p]
+Дай мне его в рот, любимый![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -358,6 +507,24 @@ Certo amore, come vuoi tu![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ох, чёрт...[p]
+Какой язычок!!![p]
+Не останавливайся![p]
+#MEILEI
+Конечно, милый, как скажешь![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -412,6 +579,23 @@ Leccami la punta!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+ААААААХХХХ!!!!!!![p]
+#ZACK
+ААА!!! ДА!! Умница!!![p]
+Оближи мне головку!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -455,6 +639,23 @@ Tutto quello che vuoi, amore mio!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Открой для меня свой сладкий ротик!!![p]
+Сейчас я наполню его!!![p]
+#MEILEI
+Всё, что пожелаешь, любимый!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -539,6 +740,22 @@ E' fantastico!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+ОХ, ЧЁРТ ВОЗЬМИ!!!![p]
+Я чувствую, как головка моего члена упирается тебе в горло!!!![p]
+Это невероятно!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -597,6 +814,26 @@ Adesso voglio che tu...[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Умница, малышка...[p]
+Чувствуешь его у себя в горле?[p]
+Он горячий?[p]
+#MEI LEI
+Мммммхххх....[p]
+#ZACK
+А теперь я хочу, чтобы ты...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -654,6 +891,22 @@ Ora sputa tutto sulle tue tette, tesoro![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт... У меня не хватает денег на это![p]
+В следующий раз приду с наличными![p]
+А теперь выплесни всё себе на грудь, милая![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -793,6 +1046,23 @@ Anche se mi sento un po' in colpa per aver tradito Lisa![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вау!!![p]
+Я и правда нашёл настоящий скрытый бриллиант!!![p]
+Драгоценное сокровище для моего гарема![p]
+Хотя мне немного стыдно за измену Лизе![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -857,6 +1127,22 @@ Scusa se ti ho fatto perdere tempo...[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Извини...[p]
+Но у меня с собой недостаточно денег...[p]
+Прости, что зря потратил твоё время...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -916,6 +1202,22 @@ EH EH!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+Ты разве не знаешь, что попка — это моё сокровенное местечко?[p]
+Неужели ты хочешь нарушить неприкосновенность моего ароматного цветочка?[p]
+ХЕ-ХЕ!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -950,6 +1252,22 @@ Fino in fondo!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ещё как хочу!!![p]
+Я хочу хорошенько оттрахать твою попку![p]
+До самого конца!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -984,6 +1302,23 @@ Mi prometti che sarai delicato?[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+О да, милый...[p]
+Только не торопись...[p]
+Там так тесно!!![p]
+Обещаешь быть нежным?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1028,6 +1363,20 @@ Il mio sederino è qui che ti aspetta, tesoro!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+Моя попочка уже ждёт тебя, милый!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1065,6 +1414,21 @@ Mi raccomando fai piano![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+Она готова для тебя, любимый![p]
+Только, пожалуйста, не спеши![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1098,6 +1462,21 @@ Nessuno ha mai violato il mio posticino segreto prima!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+Я делаю это только ради тебя!!![p]
+До тебя никто ещё не бывал в моём сокровенном местечке!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1144,6 +1523,20 @@ Ecco una bella dose di lubrificante naturale per te![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот тебе хорошая порция натуральной смазки![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1184,6 +1577,21 @@ Ora sembra scivoloso per bene![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Отлично![p]
+Теперь всё как следует скользит![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1228,6 +1636,21 @@ E' così stretto!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+НННХХХФФФ....[p]
+Как же тесно!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1262,6 +1685,20 @@ Sei dentro, tesorino!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+Ты уже внутри, милый!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1350,6 +1787,22 @@ Meglio sborrare ora![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт...[p]
+У меня не хватает денег на это![p]
+Лучше кончить прямо сейчас![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1414,6 +1867,23 @@ E' così difficile resistere!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+ВАУ!!![p]
+Это потрясающе!!![p]
+Я чувствую, как её анус сжимается вокруг моего члена!!!![p]
+Так трудно сдерживаться!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1449,6 +1919,21 @@ Lo sento tutto dentro!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+О боже...[p]
+Я чувствую его целиком внутри!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1484,6 +1969,23 @@ AAAAHHHH!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+ААААХХХ!!!![p]
+Чёрт... Я больше не могу сдерживаться!!!![p]
+#MEILEI
+ААААХХХ!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1532,6 +2034,22 @@ Meglio sborrare ora![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт...[p]
+У меня не хватает денег на это![p]
+Лучше кончить прямо сейчас![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1595,6 +2113,22 @@ Per favore...[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+Ух...[p]
+Пожалуйста, нежнее, милый...[p]
+Прошу тебя...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1626,6 +2160,20 @@ AAAAHHHHH!!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+АААААХХХХХ!!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1668,6 +2216,21 @@ Oh mio dio!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+АААААХХХХХ!!!!![p]
+О боже!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1698,6 +2261,20 @@ Lo sento dentro alla pancia!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+Я чувствую это внутри живота!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1755,6 +2332,22 @@ Meglio sborrare ora![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт...[p]
+У меня не хватает денег на это![p]
+Лучше кончить прямо сейчас![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1815,6 +2408,21 @@ Non la dimenticherò facilmente!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт... Вот это зрелище!!![p]
+Я нескоро его забуду!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1866,6 +2474,25 @@ Spero che non le faccia troppo male![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт возьми!!![p]
+Я сейчас взорвусь!!![p]
+Сам не понимаю, как продержался так долго!!![p]
+Хочу загнать его ей в задницу до самого конца, прежде чем кончить!!![p]
+Помогу рукой протолкнуть его поглубже!!!![p]
+Надеюсь, ей не будет слишком больно![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1905,6 +2532,22 @@ E' dentro il mio intestino!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+УУУУГХХХХ!!!![p]
+Ты с ума сошёл?[p]
+Он уже у меня в кишечнике!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1943,6 +2586,22 @@ Devo sborrare subito, non posso resistere!!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+ААААААХХХХХХХХ!!!!![p]
+О БОЖЕ!!!![p]
+Мне нужно кончить прямо сейчас, я больше не выдержу!!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -2026,6 +2685,22 @@ Meglio sborrare ora![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт...[p]
+У меня не хватает денег на это![p]
+Лучше кончить прямо сейчас![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -2109,6 +2784,22 @@ Meglio sborrare ora![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт...[p]
+У меня не хватает денег на это![p]
+Лучше кончить прямо сейчас![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -2177,6 +2868,21 @@ Stupendo!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+О БОЖЕ!!!![p]
+Потрясающе!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -2212,6 +2918,23 @@ La tua fidanzata non si prende cura delle tue belle palline???[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+Эй...[p]
+Да сколько же в тебе было всего?[p]
+Похоже, ты очень давно не кончал!!![p]
+Твоя девушка совсем не заботится о твоих драгоценностях?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -2249,6 +2972,23 @@ Doesn't your girlfriend take care of your pretty little balls???[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт...)[p]
+(Эта шлюха и правда невероятна...)[p]
+(Но мне так стыдно перед Лизой...)[p]
+(Она не заслуживает таких измен!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -2323,6 +3063,21 @@ E' così stretto!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+НННХХХФФФ....[p]
+Как же тесно!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -2358,6 +3113,23 @@ Per favore, bagnalo con la saliva, altrimenti sanguinerà!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MEILEI
+АААААААХХХХХХХХ!!!![p]
+О нет, прошу тебя!!![p]
+Там слишком сухо, так нельзя!!![p]
+Пожалуйста, смочи его слюной, иначе будет кровь!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]

@@ -68,6 +68,16 @@
 [glink  color="btn_17_black"  storage="002_POMERIGGIO_HUB.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="COME&nbsp;BACK&nbsp;LATER"  _clickable_img=""  ]
 [glink  color="btn_17_black"  storage="SALLY.ks"  size="20"  target="*Rimani"  text="STAY&nbsp;TO&nbsp;WATCH"  x="700"  y="80"  width="580"  ]
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[glink  color="btn_17_black"  storage="002_POMERIGGIO_HUB.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="ЗАЙТИ&nbsp;ПОЗЖЕ"  _clickable_img=""  ]
+[glink  color="btn_17_black"  storage="SALLY.ks"  size="20"  target="*Rimani"  text="ОСТАТЬСЯ&nbsp;ПОСМОТРЕТЬ"  x="700"  y="80"  width="580"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -385,6 +395,16 @@ I want you to show me...[p]
 
 [glink  color="btn_17_black"  storage="SALLY.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="YOUR&nbsp;BRA"  _clickable_img=""  target="*Reggiseno"  ]
 [glink  color="btn_17_black"  storage="SALLY.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="YOUR&nbsp;PANTY"  _clickable_img=""  target="*Mutande"  ]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[glink  color="btn_17_black"  storage="SALLY.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="ТВОЙ&nbsp;БЮСТГАЛЬТЕР"  _clickable_img=""  target="*Reggiseno"  ]
+[glink  color="btn_17_black"  storage="SALLY.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="ТВОИ&nbsp;ТРУСИКИ"  _clickable_img=""  target="*Mutande"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -1241,7 +1261,7 @@ Ugh...?[p]
 Профессор![p]
 Я и не знала, что вы плаваете в школьном бассейне!!![p]
 #ZACK
-А...? [p]
+А...?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]

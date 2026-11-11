@@ -24,7 +24,7 @@
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -36,6 +36,21 @@
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Эй... Что там происходит внизу???)[p]
+(Похоже на... двух учениц...)[p]
+(Что мне делать???)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -51,7 +66,7 @@
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="ANGELA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="APPROACH&nbsp;SILENTLY"  _clickable_img=""  target="*Avvicinati"  ]
@@ -81,10 +96,28 @@ IH IH IH... Sono così imbarazzata!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#VOCI FEMMINILE
+Итак... Готова к нашему эксперименту?[p]
+Закроем глаза и представим, что перед нами стоит парень...[p]
+Хи-хи-хи... Может, Десмонд!!![p]
+Тише-тише... Закрой глаза и приготовься к первому поцелую![p]
+Погоди... Дай увлажнить губы![p]
+Хи-хи-хи... Мне так неловко!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -99,6 +132,24 @@ IH IH IH... I'm so embarrassed!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#FEMALE VOICES
+Итак. Ты готова к нашему эксперименту?[p]
+Давай закроем глаза и представим, что перед нами парень...[p]
+Хи-хи-хи... Может, Десмонд!!![p]
+Тише-тише... Закрой глаза и приготовься к первому поцелую![p]
+Погоди... Дай увлажнить губы![p]
+Хи-хи-хи... Мне так неловко!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -135,7 +186,7 @@ Oh merda!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -145,6 +196,19 @@ Oh shit!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+О чёрт!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -171,7 +235,7 @@ Lo giuriamo, professore!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -184,6 +248,22 @@ We swear, professor!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+О нет... Какой позор!!![p]
+#TINETTA
+Мы ничего не делали!!![p]
+Клянёмся, профессор!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -212,7 +292,7 @@ Questa aula è sempre vuota...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -229,6 +309,26 @@ This classroom is always empty....[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ладно, девочки...[p]
+Давайте сделаем вид, что ничего не произошло...[p]
+#TINETTA
+Извините нас, профессор...[p]
+Мы не знали, что кто-то придёт в этот кабинет...[p]
+#SALLY
+Это правда...[p]
+В этом кабинете всегда пусто...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -259,7 +359,7 @@ Grazie!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -279,6 +379,29 @@ Thank you!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Не переживайте...[p]
+Но вам стоит быть осторожнее...[p]
+Если бы вместо меня сюда вошла директор...[p]
+Или если бы она была со мной...[p]
+Я бы уже не смог сохранить вашу тайну...[p]
+И мне пришлось бы вас наказать!!![p]
+#SALLY
+О нет!!!![p]
+#TINETTA
+Вот это да!!![p]
+Спасибо!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -361,7 +484,7 @@ O sarà difficile mantenere il nostro segreto!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -373,6 +496,21 @@ Or it will be hard to keep our secret!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ну всё, девочки, вам пора идти...[p]
+Только будьте осторожны![p]
+Иначе сохранить нашу тайну будет непросто!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -397,7 +535,7 @@ IH IH IH IH!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -411,6 +549,23 @@ IH IH IH!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+О, спасибо, профессор!!![p]
+Вы такой добрый!!! Хи-хи-хи!!![p]
+#SALLY
+Теперь мы у вас в долгу, профессор!!![p]
+Хи-хи-хи!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -443,7 +598,7 @@ Non dovrei utilizzare il bagno degli studenti, ma...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -456,6 +611,22 @@ I shouldn't be using the student bathroom, but...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот уж сумасшедшая школа![p]
+Если бы я не знал, что гублю свою карьеру...[p]
+То почти сказал бы, что мне здесь нравится... Хе-хе-хе!!![p]
+Мне не следовало бы пользоваться ученическим туалетом, но...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -483,7 +654,7 @@ Ma cosa cazzo sta succedendo in quel bagno???[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -500,6 +671,26 @@ What the fuck is going on in that bathroom?!!?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй... Что?..[p]
+#MALE VOICE
+Продолжай... Не останавливайся!!![p]
+#MALE VOICE
+Мы не можем продолжать![p]
+Нас же обнаружат!!![p]
+#ZACK
+Какого чёрта происходит в этом туалете?!!?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -521,7 +712,7 @@ Cosa dovrei fare ora?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -532,6 +723,20 @@ What am I supposed to do now?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Два ученика... Внутри того туалета...[p]
+Что мне теперь делать?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -547,7 +752,7 @@ What am I supposed to do now?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="003_SERA_HUB.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="BETTER&nbsp;GO&nbsp;AWAY..."  _clickable_img=""  ]
@@ -577,10 +782,27 @@ Oh si... Subito, professore... Ci scusi!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй, вы...[p]
+А ну прекратили![p]
+Живо в класс, если не хотите серьёзных неприятностей!![p]
+#MALE VOICE
+Да-да... Уже идём, профессор... Простите!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -594,6 +816,23 @@ Oh yeah... Right away, professor... Sorry![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй, вы...[p]
+Хватит![p]
+Марш в класс, если не хотите крупных неприятностей!!![p]
+#MALE VOICE
+Да... Уже уходим, профессор... Извините![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -614,7 +853,7 @@ Come sono caduto in basso![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -625,6 +864,20 @@ How I have fallen so low![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт...[p]
+До чего же я докатился![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -649,7 +902,7 @@ Mi nasconderò nel bagno accanto per capire cosa stanno facendo...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -660,6 +913,20 @@ I'm going to hide in the next bathroom to figure out what they are doing....[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Мне всё это совсем не нравится...[p]
+Я спрячусь в соседнем туалете и выясню, что они там делают...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -694,7 +961,7 @@ Andiamocene prima che qualcuno ci scopra![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -719,6 +986,34 @@ Let's get out of here before someone catches us![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MALE VOICE
+Давай, протолкни ещё немного!!![p]
+#MALE VOICE
+Я уже не могу сильнее...[p]
+Отверстие слишком узкое![p]
+#MALE VOICE
+Ты уже внутри?[p]
+#MALE VOICE
+Ты шутишь? Скоро я вылезу с другой стороны![p]
+#ZACK
+ЧЁРТ!!![p]
+Не могу поверить![p]
+Они занимаются... анальным сексом???[p]
+#MALE VOICE
+Хватит... Я больше не могу...[p]
+Слишком тяжело![p]
+Уходим, пока нас кто-нибудь не застукал![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -740,7 +1035,7 @@ Non pensavo potesse succedere una cosa del genere in questa scuola![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -752,6 +1047,21 @@ I didn't think something like this could happen at this school![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт...[p]
+Мне так неловко...[p]
+Не думал, что в этой школе может твориться такое![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -773,7 +1083,7 @@ Non posso crederci!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -785,6 +1095,21 @@ I can't believe it!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+ЧТООО????[p]
+Какого чёрта...?[p]
+Не могу поверить!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -806,7 +1131,7 @@ Scommetto che volevano riuscire a sbirciare nel bagno delle ragazze![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -818,6 +1143,21 @@ I bet they wanted to be able to peek into the girls bathroom![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Так они не занимались сексом...[p]
+Они сверлили дыру в стене!!![p]
+Спорим, они хотели устроить себе подсмотр в женский туалет?![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]

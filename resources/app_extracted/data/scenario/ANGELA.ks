@@ -2685,7 +2685,7 @@ This job is...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2701,6 +2701,21 @@ This job is...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Какого чёрта?[p]
+Кто-то занимается сексом прямо на столе директора????[p]
+Но это действительно Анджела???[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2724,7 +2739,7 @@ Scusami ancora...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2738,6 +2753,27 @@ Sorry again...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+ААА!!! ДА!!!![p]
+Трахни меня, Десмонд!!![p]
+Вот так, сильнее, не останавливайся!!!![p]
+ДА!!!!![p]
+Я поставлю тебе хорошие оценки, но постарайся сильнее!!![p]
+ААААА!!!![p]
+#ZACK
+(О БОЖЕ!!!)[p]
+(Не могу поверить своим глазам!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2758,7 +2794,7 @@ Ough...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2768,6 +2804,20 @@ Ough...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт!!![p]
+Она скачет на нём, словно безумная амазонка!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2804,7 +2854,7 @@ Angela... La preside... Cugina di Lisa...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2820,6 +2870,22 @@ Angela... The principal... Lisa's cousin...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#DESMOND
+ААААХ...[p]
+Профессор...[p]
+Я больше не выдерживаю!!![p]
+Я больше не могу сдерживаться!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2841,7 +2907,7 @@ Sarebbe troppo grave![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2853,6 +2919,23 @@ That would be too serious![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Нет![p]
+Я сказала, что ты должен сдерживаться![p]
+Твоя директорша приказывает тебе терпеть, сопляк![p]
+Даже не вздумай кончить в меня![p]
+Я не принимаю таблетки!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2872,7 +2955,7 @@ Anche se la tentazione di sbirciare un po è forte...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2882,6 +2965,20 @@ Although the temptation to peek a little is strong....[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#DESMOND
+Я правда не могу!!![p]
+Простите!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2903,7 +3000,7 @@ Cazzo come vorrei guardare, prima di chiudere il buco...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2915,6 +3012,22 @@ Damn how I'd like to look before I shut the hole....[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Какого чёрта ты творишь? Дурак![p]
+Ты залил спермой мою вагину!!![p]
+#ZACK
+(АХАХА!!! Вот что бывает, когда связываешься с неопытными, Анджела!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2930,7 +3043,7 @@ Damn how I'd like to look before I shut the hole....[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="ANGELA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="PEEK&nbsp;A&nbsp;LITTLE..."  _clickable_img=""  target="*Sbircia"  ]
@@ -2961,10 +3074,26 @@ Quella è...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Если женщина говорит, что не хочет, чтобы ты кончал в неё...[p]
+Ты должен её слушать![p]
+А теперь я научу тебя, каково это...[p]
+Получить чужую сперму, когда совсем этого не хочешь![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2977,6 +3106,22 @@ Is that...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Но что она собирается делать?[p]
+Бедный Десмонд...[p]
+Не знаю, жертва ли он...[p]
+Или самый везучий парень в мире![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -3029,7 +3174,7 @@ Ma con chi cazzo sta parlando???[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3043,6 +3188,24 @@ Who the fuck is she talking to?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#DESMOND
+Нет, профессор... Пожалуйста!!![p]
+В следующий раз я буду осторожнее!!![p]
+Я не смог сдержаться, потому что моя девушка, Фиона...[p]
+Она часто доводит меня до возбуждения, но нас кто-нибудь застукивает, и она не заканчивает...[p]
+Я был слишком заведён!!![p]
+Простите меня!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -3067,7 +3230,7 @@ Ma quello è uno studente?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3081,6 +3244,22 @@ Is that a student?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Заткнись...[p]
+И открой рот!!![p]
+#ZACK
+Ух...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -3263,7 +3442,7 @@ LICKY LICKY LICKY...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="ANGELA.ks"  size="20"  target="*Top_Animazione_Lingua"  text="A&nbsp;LITTLE&nbsp;LICKY&nbsp;LICKY&nbsp;MORE..."  x="700"  y="20"  width="580"  ]
@@ -3295,10 +3474,25 @@ Ma quello è...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+АХАХА!!![p]
+Ну как тебе?[p]
+Нравится???[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3309,6 +3503,22 @@ But that's...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+ААА!!![p]
+Да!!! Выпей всё до конца!!![p]
+Боже мой!!! Это так возбуждает!!![p]
+Я сейчас кончу!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -3333,7 +3543,7 @@ E avrai ottimi voti quest'anno!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3347,6 +3557,23 @@ And you'll have great grades this year!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Вот чёрт!!! Да она настоящая извращенка!!!!)[p]
+(Будь я человеком похитрее, то нашёл бы способ добыть доказательства её проделок...)[p]
+(Тогда, если бы мне грозило увольнение...)[p]
+(Или кто-нибудь узнал бы о моих собственных проступках...)[p]
+(У меня был бы способ шантажировать её и спасти свою шкуру!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -3370,7 +3597,7 @@ Ma non credo che sia la prima volta che Angela fa qualcosa del genere![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3383,6 +3610,21 @@ But I don't think this is the first time Angela has done something like this![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ух...[p]
+Что происходит???[p]
+Я вижу обнажённые тела![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -3555,7 +3797,7 @@ Gnam!!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="ANGELA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="KEEP&nbsp;SUCKING!"  _clickable_img=""  target="*Vedi_Z_Angela05"  ]
@@ -3584,10 +3826,25 @@ AAAAHHHHHH.....[p]
 [glink  color="btn_17_black"  storage="ANGELA.ks"  size="20"  target="*Sul_Petto"  text="UNA&nbsp;BELLA&nbsp;COLLANA&nbsp;DI&nbsp;PERLE..."  x="700"  y="80"  width="580"  ]
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Хм...[p]
+Похоже, ситуацию невозможно истолковать неправильно...[p]
+Анджела снова пользуется положением и домогается Десмонда![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="ANGELA.ks"  size="20"  target="*In_Faccia"  text="A&nbsp;GOOD&nbsp;FACIAL..."  x="700"  y="20"  width="580"  ]
@@ -3624,10 +3881,26 @@ Che spreco!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ну...[p]
+Я просто не могу считать его жертвой...[p]
+Такая красивая и страстная девушка, как Фиона...[p]
+И весь этот секс с великолепной женщиной вроде Анджелы...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3644,6 +3917,21 @@ What a waste!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ну что?[p]
+Сколько мне ещё ждать?[p]
+Ты собираешься заняться этим пальцем или нет?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -3684,7 +3972,7 @@ Che spreco!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3701,6 +3989,22 @@ What a waste!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Молодец, Десмонд![p]
+Именно такой урок у нас сегодня![p]
+То, что сейчас у тебя на пальце...[p]
+Это вкус похоти!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -3737,7 +4041,7 @@ Che puttana![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3755,6 +4059,22 @@ What a bitch![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Попробуй, Десмонд![p]
+Вкуси похоть...[p]
+Ты ведь это заслужил![p]
+И всё это благодаря тебе! Хе-хе-хе!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -3792,7 +4112,7 @@ Non voglio più smettere![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3804,6 +4124,23 @@ I don't want to stop anymore![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Вот чёрт!!! Да она настоящая извращенка!!!!)[p]
+(Будь я человеком похитрее, то нашёл бы способ добыть доказательства её проделок...)[p]
+(Тогда, если бы мне грозило увольнение...)[p]
+(Или кто-нибудь узнал бы о моих собственных проступках...)[p]
+(У меня был бы способ шантажировать её и спасти свою шкуру!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -3825,7 +4162,7 @@ E tu cosa faresti al posto mio, caro giocatore?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3835,6 +4172,24 @@ And what would you do in my place, dear player?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Да!!![p]
+Продолжай!!![p]
+Не останавливайся![p]
+Продолжай ласкать меня языком![p]
+#ZACK
+Какого чёрта?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -3850,7 +4205,7 @@ And what would you do in my place, dear player?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="ANGELA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="PEEK&nbsp;BIG&nbsp;TIME!!!"  _clickable_img=""  target="*Sbircia_07"  ]
@@ -3891,10 +4246,28 @@ C'è qualcuno!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+АААА!!![p]
+Ты так хороша, дорогая!!![p]
+#ZACK
+Хороша???[p]
+Что за...?[p]
+Она говорит с девушкой???[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3905,6 +4278,21 @@ Somebody!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот чёрт![p]
+Так это же Нэнси!!![p]
+Она ласкает языком вагину и зад директора!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -3964,7 +4352,7 @@ Continuo a sbagliare bagno!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3977,6 +4365,22 @@ I keep getting the bathroom wrong!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#NANCY
+Хватит, директор...[p]
+Пожалуйста...[p]
+У меня во рту вкус её задницы![p]
+Меня сейчас стошнит![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]

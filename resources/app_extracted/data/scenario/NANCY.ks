@@ -212,6 +212,19 @@ I didn't do anything to you![p]
 [glink  color="btn_17_black"  storage="NANCY.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="ASPETTA&nbsp;PRIMA&nbsp;DI&nbsp;INTERVENIRE"  _clickable_img=""  target="*Aspetta_Prima_Di_Intervenire"  ]
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[_tb_end_tyrano_code]
+
+[glink  color="btn_17_black"  storage="NANCY.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="ЗАСТАВИТЬ&nbsp;ИХ&nbsp;ПРЕКРАТИТЬ"  _clickable_img=""  target="*Falle_Smettere"  ]
+[glink  color="btn_17_black"  storage="NANCY.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="ПОКА&nbsp;НЕ&nbsp;ВМЕШИВАТЬСЯ"  _clickable_img=""  target="*Aspetta_Prima_Di_Intervenire"  ]
+[tb_start_tyrano_code]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -820,6 +833,19 @@ Are you ready?[p]
 [glink  color="btn_17_black"  storage="NANCY.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="LASCIA&nbsp;CHE&nbsp;RISOLVANO&nbsp;DA&nbsp;SOLE"  _clickable_img=""  target="*Non_Intervenire"  ]
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[_tb_end_tyrano_code]
+
+[glink  color="btn_17_black"  storage="NANCY.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="ТЕПЕРЬ&nbsp;Я&nbsp;ДОЛЖЕН&nbsp;ИХ&nbsp;ОСТАНОВИТЬ"  _clickable_img=""  target="*Fermale_Ora"  ]
+[glink  color="btn_17_black"  storage="NANCY.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="ПУСТЬ&nbsp;РАЗБИРАЮТСЯ&nbsp;САМИ"  _clickable_img=""  target="*Non_Intervenire"  ]
+[tb_start_tyrano_code]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -2184,6 +2210,19 @@ AH AH AH AH!!!![p]
 [glink  color="btn_17_black"  storage="NANCY.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="NON&nbsp;INTERVENIRE..."  _clickable_img=""  target="*Continua_A_Guardare"  ]
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[_tb_end_tyrano_code]
+
+[glink  color="btn_17_black"  storage="NANCY.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="НЕМЕДЛЕННО&nbsp;ПРЕКРАТИТЬ&nbsp;ЭТО&nbsp;БЕЗУМИЕ!"  _clickable_img=""  target="*Ferma_Questa_Pazzia"  ]
+[glink  color="btn_17_black"  storage="NANCY.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="НЕ&nbsp;ВМЕШИВАТЬСЯ..."  _clickable_img=""  target="*Continua_A_Guardare"  ]
+[tb_start_tyrano_code]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]

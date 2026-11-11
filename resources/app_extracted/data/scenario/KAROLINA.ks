@@ -35,7 +35,7 @@ Se dovesse vedermi qualcuno...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -58,6 +58,32 @@ If someone should see me...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Если я и дальше буду ошиваться в этой школе...[p]
+Среди всех этих кисок...[p]
+У меня трусы скоро взорвутся...[p]
+А то и яйца лопнут!!![p]
+#FEMALE VOICE
+Помогите!!!![p]
+Оставьте меня в покое!!![p]
+Хватит!!!![p]
+#ZACK
+Чёрт!!![p]
+Что происходит?!!![p]
+Голос доносится из женской раздевалки!!![p]
+Может, рискнуть и зайти внутрь?[p]
+А если кто-нибудь меня увидит...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -72,7 +98,7 @@ If someone should see me...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="KAROLINA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="RISK&nbsp;AND&nbsp;STEP&nbsp;IN"  _clickable_img=""  target="*Entra_Spogliatoio"  ]
@@ -107,10 +133,28 @@ Passa una buona giornata, amore mio![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LISA
+Привет, любимый...[p]
+Я собиралась за покупками, но решила заглянуть в твою школу, чтобы поздороваться![p]
+Ладно, я побежала, люблю тебя!!![p]
+#ZACK
+Хорошего тебе дня, любимая![p]
+(Чёрт... Если бы она застала меня за входом в женскую раздевалку...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -125,6 +169,24 @@ Have a good day, my love![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LISA
+Привет, любимый...[p]
+Я собиралась за покупками, но решила заглянуть в твою школу, чтобы поздороваться![p]
+Ладно, я побежала, люблю тебя!!![p]
+#ZACK
+Хорошего тебе дня, любимая![p]
+(Чёрт... Если бы она застала меня за входом в женскую раздевалку...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -159,7 +221,7 @@ AH AH AH!!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -180,6 +242,30 @@ AH AH AH!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+С меня хватит![p]
+Оставьте меня в покое![p]
+Вы не можете каждый раз так со мной обращаться![p]
+#CLARISSA
+Эй... Принцесса опять вот-вот расплачется![p]
+А-ха-ха-ха!!![p]
+#NANCY
+Избалованная дрянь!!![p]
+#FIONA
+А-ха-ха!!!![p]
+#ZACK
+(Чёрт! Что здесь, мать твою, происходит?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -264,7 +350,7 @@ Il professore!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -275,6 +361,20 @@ The professor!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CLARISSA
+О боже...[p]
+Профессор!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -333,7 +433,7 @@ Il professore!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -344,6 +444,20 @@ The professor!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#NANCY
+О боже...[p]
+Профессор!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -392,7 +506,7 @@ Il professore!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -403,6 +517,20 @@ The professor!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#FIONA
+О боже...[p]
+Профессор!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -450,7 +578,7 @@ The professor!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -462,6 +590,21 @@ The professor!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Бедная Каролина... Её травят...)[p]
+(И похоже, это происходит далеко не впервые...)[p]
+(Чёрт... Она такая красивая... Не стоит на неё так смотреть, но...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -485,7 +628,7 @@ Sono nuda!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -497,6 +640,21 @@ I'm naked!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+О боже!!![p]
+Профессор!!![p]
+Я же голая!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -532,7 +690,7 @@ MERDA![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -544,6 +702,21 @@ SHIT![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#EVERYONE
+А-А-А-А-А-А-А-А-А-А-А-А!!!!!![p]
+#ZACK
+ЧЁРТ![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -573,7 +746,7 @@ Eravamo nude!!!!!????[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -586,6 +759,22 @@ We were naked!!!!!????[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Профессор, что вы делаете?[p]
+Вы понимаете, насколько серьёзно то, что вы вошли сюда, когда мы, ученицы...?[p]
+Ну...[p]
+Были голыми!!!!!????[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -607,7 +796,7 @@ L'unica cosa importante ora è...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -618,6 +807,20 @@ The only important thing now is...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Какой бы риск мне ни грозил...[p]
+Сейчас важно только одно...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -634,7 +837,7 @@ The only important thing now is...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="KAROLINA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="MAKE&nbsp;THOSE&nbsp;BITCHES&nbsp;PAY!"  _clickable_img=""  target="*Risposta_Sbagliata"  ]
@@ -665,10 +868,28 @@ Sigh...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Прошу вас, профессор...[p]
+У меня и так слишком много проблем в этой школе...[p]
+Не втягивайте меня в это...[p]
+Вздох...[p]
+#ZACK
+(Она так напугана... И так печальна...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -683,6 +904,24 @@ Sigh...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Прошу вас, профессор...[p]
+У меня и так слишком много проблем в этой школе...[p]
+Не втягивайте меня в это...[p]
+Вздох...[p]
+#ZACK
+(Она так напугана... И так печальна...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -711,7 +950,7 @@ Se non sono interessata come le altre negli alcolici e nelle droghe?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -726,6 +965,24 @@ If I'm not interested like the others in booze and drugs?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+О, профессор...[p]
+Это правда...[p]
+Мне так грустно!!![p]
+Разве я виновата, что люблю учиться?[p]
+Что я хорошо себя веду?[p]
+Что, в отличие от остальных, меня не интересуют алкоголь и наркотики?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -755,7 +1012,7 @@ Perchè invece tutte mi prendono in giro e mi vedono come una preda a cui fare d
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -774,6 +1031,28 @@ Why does everyone make fun of me instead and see me as a prey to be hurt?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Я могла бы стать вам хорошим другом![p]
+Я чуткая и умею слушать...[p]
+Мне нравится помогать другим!!![p]
+Почему же вместо этого все надо мной смеются и считают меня лёгкой добычей?[p]
+#ZACK
+(Бедная девочка... Она совсем отчаялась...)[p]
+(Она кажется такой доброй и воспитанной — типичная жертва задир...)[p]
+(Я и сам кое-что об этом знаю...)[p]
+(Какая ирония... Стою здесь и слушаю проблемы этой несчастной девушки...)[p]
+(Совершенно голой... А у меня тем временем в трусах огромная эрекция...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -833,7 +1112,7 @@ Il mio diario preferito!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -851,6 +1130,27 @@ My favorite diary!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Что???[p]
+О нет!!!![p]
+#ZACK
+Что ещё теперь случилось?[p]
+(Чёрт, я слишком сильно рискую...)[p]
+(Нельзя, чтобы меня здесь застали с этой великолепной обнажённой ученицей!!!)[p]
+#KATERINA
+Мой дневник!!![p]
+Мой любимый дневник!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -880,7 +1180,7 @@ Il mio unico confidente, mentre tutti gli altri mi trattano male!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -894,6 +1194,23 @@ My only confidant, while everyone else treats me badly!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+О боже!!![p]
+Какой ужас!!![p]
+Всё испорчено!!![p]
+Этот дневник был моим единственным другом!!![p]
+Единственным, кому я могла довериться, пока все остальные плохо со мной обращались!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -919,7 +1236,7 @@ My only confidant, while everyone else treats me badly!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -931,6 +1248,21 @@ My only confidant, while everyone else treats me badly!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот чёрт... Какая печальная история...[p]
+Эта милая девушка так одинока...[p]
+А теперь ещё и её дневник испорчен...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -948,7 +1280,7 @@ My only confidant, while everyone else treats me badly!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="KAROLINA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="PROMISE&nbsp;HER&nbsp;A&nbsp;NEW&nbsp;DIARY"  _clickable_img=""  target="*Prometti_Aiuto"  ]
@@ -985,6 +1317,25 @@ Ugh...!?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Что???[p]
+Правда?[p]
+О, спасибо, профессор!!![p]
+Вы так добры к нам, ученикам!!![p]
+Я вас обожаю!!![p]
+#ZACK
+Ух...!?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]

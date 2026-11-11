@@ -40,6 +40,25 @@ I said you mustn't give up, Tonina!!![p]
 If you can't do at least 10 I will call you a loser for the whole year!!![p]
 [_tb_end_text]
 
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+О нет...[p]
+Злая учительница физкультуры снова издевается над бедной Тониной...[p]
+Мне её жаль...[p]
+#OLIMPIA
+Я сказала, что ты не должна сдаваться, Тонина!!![p]
+Если не сделаешь хотя бы десять повторений, весь год будешь неудачницей!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -724,6 +743,23 @@ Do you think I'm shocked to see your little boobs jiggle while you're working ou
 (My legs are shaking just thinking about it!).[p]
 [_tb_end_text]
 
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Думаешь, меня смущает смотреть, как твоя маленькая грудь подпрыгивает во время упражнений?[p]
+#ZACK
+(М-м-м... Даже не начинай... Такая аппетитная грудь...)[p]
+(У меня ноги дрожат от одной этой мысли!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -762,6 +798,24 @@ I could lend it to Tinetta...[p]
 Even if her breasts are a bit smaller than mine....[p]
 [_tb_end_text]
 
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Профессор... У меня есть идея...[p]
+В рюкзаке лежит бюстгальтер...[p]
+Мне он не нужен, ведь на мне гимнастический купальник...[p]
+Я могла бы одолжить его Тинетте...[p]
+Хотя грудь у неё немного меньше моей...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -799,6 +853,24 @@ Although this time I wish she wasn't so generous....[p]
 Crap!!! EH EH EH!!![p]
 And she's so cute too![p]
 [_tb_end_text]
+
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Лилли такая хорошая девочка...[p]
+Мы с Лизой очень ею гордимся...[p]
+Хотя в этот раз я бы предпочёл, чтобы она не была такой щедрой...[p]
+Чёрт!!! Хе-хе-хе!!![p]
+И к тому же она такая милая![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -883,6 +955,27 @@ You have two minutes to start your exercises![p]
 (So beautiful, but also so bitchy!)[p]
 [_tb_end_text]
 
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Ладно...[p]
+Делайте что хотите...[p]
+Но немедленно![p]
+Иначе обе получите неудовлетворительную оценку![p]
+У вас две минуты, чтобы начать упражнения![p]
+#ZACK
+(Вот чёрт... Эта женщина...)[p]
+(Такая красивая, но такая стерва!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -925,6 +1018,23 @@ I would have died of shame if I had to work out without a bra....[p]
 Although, with the panties I wore this morning....[p]
 [_tb_end_text]
 
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTE
+Спасибо, Лилли...[p]
+Ты меня просто спасла...[p]
+Я бы умерла от стыда, если бы пришлось заниматься без бюстгальтера...[p]
+Хотя в тех трусиках, которые я надела сегодня утром...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -956,6 +1066,21 @@ Non mi fate incazzare![p]
 I said you need to hurry up![p]
 Don't piss me off![p]
 [_tb_end_text]
+
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Я сказала поторопиться![p]
+Не выводи меня из себя![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -992,6 +1117,23 @@ AAAHH!!![p]
 Right away, teacher![p]
 Let's hurry up, Tinetta![p]
 [_tb_end_text]
+
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+А-А-А!!![p]
+#LILLY
+Уже, учительница![p]
+Давай быстрее, Тинетта![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

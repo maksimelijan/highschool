@@ -24,7 +24,22 @@ Mi prenderò cura di te...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#NIKA
+Привет, малыш...[p]
+Я так рада, что ты заглянул ко мне!!![p]
+Я позабочусь о тебе...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -36,6 +51,7 @@ I will take good care of you...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -78,7 +94,23 @@ EH EH EH EH!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#NIKA
+Расскажи, что тебе нравится...[p]
+И я исполню все твои желания....[p]
+Особенно самые горячие![p]
+ХЕ-ХЕ-ХЕ!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -91,6 +123,7 @@ EH EH EH!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -109,8 +142,34 @@ EH EH EH!!![p]
 [if exp="f.Lingua>0"]
 [_tb_end_tyrano_code]
 
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+[glink  color="btn_17_black"  storage="NIKA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="ОБОЖАЮ&nbsp;МИНЕТ"  _clickable_img=""  target="*Orale"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+[tb_start_tyrano_code]
+[if exp="f.Lingua!=3"]
+[_tb_end_tyrano_code]
 [glink  color="btn_17_black"  storage="NIKA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="I&nbsp;LOVE&nbsp;ORAL&nbsp;SEX"  _clickable_img=""  target="*Orale"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+[glink  color="btn_17_black"  storage="003_SERA_HUB.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="ИЗВИНИ,&nbsp;НО&nbsp;МНЕ&nbsp;ЭТО&nbsp;НЕПРИЯТНО"  _clickable_img=""  target="*Casa"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+[tb_start_tyrano_code]
+[if exp="f.Lingua!=3"]
+[_tb_end_tyrano_code]
 [glink  color="btn_17_black"  storage="003_SERA_HUB.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="SORRY,&nbsp;BUT&nbsp;I'M&nbsp;NOT&nbsp;COMFORTABLE&nbsp;WITH&nbsp;IT"  _clickable_img=""  target="*Casa"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -150,7 +209,22 @@ Scusa se ti ho fatto perdere tempo...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Прости...[p]
+Но у меня с собой недостаточно денег....[p]
+Извини, что потратил твоё время...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -162,6 +236,7 @@ Sorry for wasting your time...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -209,7 +284,24 @@ Sono pur sembre una donna, voglio che tu mi faccia eccitare![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#NIKA
+Хорошо, малыш...[p]
+Вот увидишь, ты не пожалеешь....[p]
+Я сделаю тебе незабываемый минет![p]
+Но сначала немного приласкай меня...[p]
+Я всё-таки женщина и тоже хочу возбудиться![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -223,6 +315,7 @@ I'm still a woman, I want you to make me horny![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -240,8 +333,34 @@ I'm still a woman, I want you to make me horny![p]
 [if exp="f.Lingua>0"]
 [_tb_end_tyrano_code]
 
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+[glink  color="btn_17_black"  storage="NIKA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="К&nbsp;ТВОИМ&nbsp;УСЛУГАМ,&nbsp;НИКА..."  _clickable_img=""  target="*Carezze"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+[tb_start_tyrano_code]
+[if exp="f.Lingua!=3"]
+[_tb_end_tyrano_code]
 [glink  color="btn_17_black"  storage="NIKA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="AT&nbsp;YOUR&nbsp;SERVICE,&nbsp;NIKA..."  _clickable_img=""  target="*Carezze"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+[glink  color="btn_17_black"  storage="NIKA.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="ХОЧУ&nbsp;МИНЕТ&nbsp;ПРЯМО&nbsp;СЕЙЧАС!"  _clickable_img=""  target="*Bocchino"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+[tb_start_tyrano_code]
+[if exp="f.Lingua!=3"]
+[_tb_end_tyrano_code]
 [glink  color="btn_17_black"  storage="NIKA.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="I&nbsp;WANT&nbsp;MY&nbsp;BLOWJOB&nbsp;NOW!"  _clickable_img=""  target="*Bocchino"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -277,7 +396,21 @@ Ma ora preparati per un pompino indimenticabile!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#NIKA
+Вау... У тебя получилось, малыш...[p]
+А теперь приготовься к незабываемому минету!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -288,6 +421,7 @@ But now get ready for an unforgettable blowjob!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -316,7 +450,20 @@ Sei pronto, baby?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#NIKA
+Ты готов, малыш?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -326,6 +473,7 @@ Are you ready, baby?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -348,7 +496,22 @@ Voglio il miglior pompino del mondo![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ещё бы![p]
+Не могу дождаться![p]
+Хочу лучший минет в мире![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -360,6 +523,7 @@ I want the best blowjob in the world![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -390,7 +554,20 @@ Apri la bocca![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Открой рот![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -400,6 +577,7 @@ Open your mouth![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -455,10 +633,62 @@ Open your mouth![p]
 [if exp="f.Lingua>0"]
 [_tb_end_tyrano_code]
 
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+[glink  color="btn_17_black"  storage="NIKA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="ПРОДОЛЖАЙ&nbsp;СОСАТЬ!"  _clickable_img=""  target="*Top_Bocchino"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+[tb_start_tyrano_code]
+[if exp="f.Lingua!=3"]
+[_tb_end_tyrano_code]
 [glink  color="btn_17_black"  storage="NIKA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="GO&nbsp;ON&nbsp;SUCKING!"  _clickable_img=""  target="*Top_Bocchino"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+[glink  color="btn_17_black"  storage="NIKA.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="КОНЧИТЬ&nbsp;ЕЙ&nbsp;В&nbsp;ГОРЛО!"  _clickable_img=""  target="*Sborra_Gola"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+[tb_start_tyrano_code]
+[if exp="f.Lingua!=3"]
+[_tb_end_tyrano_code]
 [glink  color="btn_17_black"  storage="NIKA.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="JIZZ&nbsp;IN&nbsp;HER&nbsp;THROAT!"  _clickable_img=""  target="*Sborra_Gola"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+[glink  color="btn_17_black"  storage="NIKA.ks"  size="20"  x="700"  y="140"  width="580"  height=""  text="КОНЧИТЬ&nbsp;ЕЙ&nbsp;НА&nbsp;ЛИЦО!"  _clickable_img=""  target="*Sborra_Viso"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+[tb_start_tyrano_code]
+[if exp="f.Lingua!=3"]
+[_tb_end_tyrano_code]
 [glink  color="btn_17_black"  storage="NIKA.ks"  size="20"  x="700"  y="140"  width="580"  height=""  text="JIZZ&nbsp;ON&nbsp;HER&nbsp;FACE!"  _clickable_img=""  target="*Sborra_Viso"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+[glink  color="btn_17_black"  storage="NIKA.ks"  size="20"  x="700"  y="200"  width="580"  height=""  text="КОНЧИТЬ&nbsp;ЕЙ&nbsp;НА&nbsp;ГРУДЬ!"  _clickable_img=""  target="*Sborra_Tette"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+[tb_start_tyrano_code]
+[if exp="f.Lingua!=3"]
+[_tb_end_tyrano_code]
 [glink  color="btn_17_black"  storage="NIKA.ks"  size="20"  x="700"  y="200"  width="580"  height=""  text="JIZZ&nbsp;ON&nbsp;HER&nbsp;BOOBS!"  _clickable_img=""  target="*Sborra_Tette"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -497,7 +727,20 @@ Merda... Non ho abbastanza soldi per questo![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт... У меня не хватает на это денег![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -507,6 +750,7 @@ Shit... I don't have enough money for this![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -579,7 +823,21 @@ Ho fatto proprio un ottimo lavoro!!! EH EH!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ну что ж...[p]
+Я отлично справился!!! ХЕ-ХЕ!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -590,6 +848,7 @@ I did a really good job!!! EH EH!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -625,7 +884,20 @@ Merda... Non ho abbastanza soldi per questo![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт... У меня не хватает на это денег![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -635,6 +907,7 @@ Shit... I don't have enough money for this![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -705,7 +978,21 @@ Ho fatto proprio un ottimo lavoro!!! EH EH!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ну что ж...[p]
+Я отлично справился!!! ХЕ-ХЕ!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -716,6 +1003,7 @@ I did a really good job!!! EH EH!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -782,7 +1070,21 @@ Ho fatto proprio un ottimo lavoro!!! EH EH!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ну что ж...[p]
+Я отлично справился!!! ХЕ-ХЕ!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -793,6 +1095,7 @@ I did a really good job!!! EH EH!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -826,7 +1129,26 @@ Torna a trovarmi presto, ok?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#NIKA
+Привет, малыш...[p]
+Ты отлично трахаешься![p]
+Заглядывай ко мне ещё, хорошо?[p]
+#ZACK
+(Вау. Секс с профессионалкой — это...)[p]
+(Вау... Даже не могу подобрать слов...)[p]
+(Но мне стыдно перед Лизой... Я так сильно её люблю!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -842,6 +1164,7 @@ Come back to see me soon, okay?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]

@@ -98,6 +98,20 @@
 (Female students seem distracted!)[p]
 [_tb_end_text]
 
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Ученицы, похоже, отвлеклись!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -491,6 +505,26 @@ AH AH AH AH!!![p]
 You are such a loser!!!![p]
 [_tb_end_text]
 
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+У меня нет красивых кружевных бюстгальтеров...[p]
+Только спортивные...[p]
+Или с маленькими цветочками...[p]
+Прости...[p]
+#CLARISSA
+АХ АХ АХ АХ!!![p]
+Ну ты и неудачница!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -531,6 +565,24 @@ I bought one at the store this morning....[p]
 #CLARISSA
 Lift up your skirt... Show them to us![p]
 [_tb_end_text]
+
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY.
+Уф... Я... Я...[p]
+У меня не было красивых трусиков...[p]
+Я купила эти сегодня утром в магазине...[p]
+#CLARISSA
+Подними юбку... Покажи нам![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -606,6 +658,25 @@ AH AH AH AH!!!![p]
 Sigh...[p]
 [_tb_end_text]
 
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CLARISSA
+АХ АХ АХ!!!![p]
+Вот видишь, если постараться...[p]
+Можно стать настоящей шлюшкой![p]
+АХ АХ АХ АХ!!!![p]
+#SALLY
+Вздох...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -659,6 +730,31 @@ Professor... I'd like to have a word with you, please![p]
 (Shit!)[p]
 [_tb_end_text]
 
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CLARISSA
+Эй...[p]
+Профессор здесь!!![p]
+Доброе утро...[p]
+#SALLY
+Вздох...[p]
+#ANGELA
+Что?[p]
+Эм... Урок окончен...[p]
+Можете идти...[p]
+Профессор... Не могли бы вы задержаться? Мне нужно с вами поговорить![p]
+#ZACK
+(Чёрт!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -689,6 +785,21 @@ E' una delle nostre studentesse migliori...[p]
 I wanted to introduce you to our Sally, professor....[p]
 She is one of our top students....[p]
 [_tb_end_text]
+
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Профессор, я хотела познакомить вас с нашей Салли...[p]
+Она одна из лучших учениц...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -722,6 +833,22 @@ But she can' t overcome her shyness....[p]
 And, as you see, she always keeps her gaze down....[p]
 Even at this moment![p]
 [_tb_end_text]
+
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Но она никак не может побороть свою застенчивость...[p]
+Как видите, она постоянно опускает глаза...[p]
+Даже сейчас![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -763,6 +890,26 @@ I'll be waiting for you in my classroom when you're ready, Sally![p]
 #SALLY
 Sigh...[p]
 [_tb_end_text]
+
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Я бы хотела, чтобы вы время от времени беседовали с ней об этом...[p]
+Возможно, помощь взрослого наставника придаст ей смелости и поможет научиться смотреть людям прямо в глаза![p]
+#ZACK
+Без проблем, директор...[p]
+Буду ждать тебя в своём кабинете, когда будешь готова, Салли![p]
+#SALLY
+Вздох...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

@@ -10200,7 +10200,7 @@ Posso fare qualcosa per te?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -10215,6 +10215,24 @@ Is there anything I can do for you?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Привет, Зак!!![p]
+Я как раз думала о тебе, прежде чем начать сосать этот чудесный леденец!!![p]
+Могу я чем-нибудь тебе помочь?[p]
+#ZACK
+(Что со мной происходит???)[p]
+(Мне не следовало бы так смотреть на сестру Лизы!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -10301,7 +10319,7 @@ Mi piacerebbe averla più grande, per poterci infilare delle cose più grandi!!!
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -10317,6 +10335,25 @@ I'd like to have it bigger so I can put bigger things in it!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+К сожалению, мой рот слишком мал для этого леденца...[p]
+Я не могу полностью взять его в рот, чтобы с удовольствием посасывать...[p]
+Для меня это настоящая проблема!!![p]
+Почему у меня такой маленький рот?[p]
+Я бы хотела, чтобы он был побольше, чтобы можно было брать в него вещи покрупнее![p]
+#ZACK
+(О БОЖЕ!!! Не могу понять, говорит она серьёзно или так неудачно шутит!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -10340,7 +10377,7 @@ Potresti forse suggerirmi una soluzione...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -10352,6 +10389,21 @@ Could you perhaps suggest a solution...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Можешь побыть со мной несколько минут?[p]
+Я хотела бы показать, как трудно мне взять его в рот...[p]
+Может, ты сможешь предложить решение...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -10391,7 +10443,7 @@ OUCH!!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="CHERRY.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="GIVE&nbsp;HER&nbsp;A&nbsp;HAND"  _clickable_img=""  target="*Dalle_Una_Mano"  ]
@@ -10443,10 +10495,28 @@ AAAAAHHHHH!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+АААААХХХХ!!!![p]
+(Чёрт... Я не могу себя контролировать...!!)[p]
+(Я проталкиваю леденец в горло своей младшей невестки...)[p]
+(Используя собственную эрекцию!!!)[p]
+(Чёрт... Какой же у меня твёрдый член!!!)[p]
+(Она наверняка это заметит!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -10461,6 +10531,24 @@ AAAAAHHHH!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+АААААХХХХ!!!![p]
+(Чёрт... Я не могу себя контролировать...!!)[p]
+(Я проталкиваю леденец в горло своей младшей невестки...)[p]
+(Используя собственную эрекцию!!!)[p]
+(Чёрт... Какой же у меня твёрдый член!!!)[p]
+(Она наверняка это заметит!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -10499,7 +10587,7 @@ Ho bisogno del tuo aiuto!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -10517,6 +10605,27 @@ I need your help!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LISA
+Эй, милый!!![p]
+Ты в комнате моей сестры?[p]
+#ZACK
+Чёрт!!![p]
+#LISA
+Можешь, пожалуйста, подойти ко мне?[p]
+Мне нужна твоя помощь!!![p]
+#ZACK
+(Вот чёрт!!! Я совсем с ума сошёл???)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -10594,7 +10703,7 @@ Le sue tette...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -10608,6 +10717,23 @@ Her boobs...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ох, чёрт... Это Черри...[p]
+Совершенно голая...[p]
+Мне сейчас вообще не следовало бы здесь находиться...[p]
+Но как отказаться от такого зрелища?[p]
+Её грудь...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -10622,7 +10748,7 @@ Her boobs...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="CHERRY.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="STAY&nbsp;AND&nbsp;SPY&nbsp;AT&nbsp;HER"  _clickable_img=""  target="*Spia_Cherry"  ]
@@ -10724,10 +10850,23 @@ Porca puttana!!! Meglio uscire subito!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CHERRY
+ААААААХХХХХХ!!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -10743,6 +10882,25 @@ Holy shit!!! Better get out now!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+О чёрт!!![p]
+#CHERRY
+Профессор!!!![p]
+Что вы здесь делаете???[p]
+Вы подглядываете за мной, пока я голая???[p]
+#ZACK
+Вот чёрт!!! Лучше немедленно уйти!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -10762,7 +10920,7 @@ Holy shit!!! Better get out now!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="003_SERA_HUB.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="BETTER&nbsp;TO&nbsp;RUN&nbsp;AWAY!"  _clickable_img=""  target=""  ]
@@ -10795,10 +10953,28 @@ Mi scusi ma ero occupata... Devo correre in palestra per la lezione di atletica!
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ух...[p]
+#CHERRY
+Профессор... Вы меня искали?[p]
+Извините, но я была занята... Мне нужно бежать в спортзал на урок лёгкой атлетики![p]
+#ZACK
+(Вот дерьмо... В этой спортивной форме Черри просто настоящая секс-бомба!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -10813,6 +10989,24 @@ Sorry but I was busy... I have to run to the gym for athletics class![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ух...[p]
+#CHERRY
+Профессор... Вы меня искали?[p]
+Извините, но я была занята... Мне нужно бежать в спортзал на урок лёгкой атлетики![p]
+#ZACK
+(Вот дерьмо... В этой спортивной форме Черри просто настоящая секс-бомба!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -10862,7 +11056,7 @@ Oh... Peccato che tu te ne debba già andare![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -10878,6 +11072,25 @@ Oh... Too bad you have to leave already![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CHERRY
+Была рада вас видеть, профессор...[p]
+Но теперь мне пора, иначе профессор Олимпия очень рассердится![p]
+Она терпеть не может опозданий...[p]
+И когда злится, бывает очень суровой![p]
+#ZACK
+Ох... Жаль, что тебе уже нужно уходить![p]
+(Ух... Что я несу? Возьми себя в руки, Зак!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -10900,7 +11113,7 @@ E perchè?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -10913,6 +11126,22 @@ Why?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CHERRY
+Жаль?[p]
+Почему?[p]
+#ZACK
+(О чёрт... И что мне теперь ей ответить?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -10939,7 +11168,7 @@ Why?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="CHERRY.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="I&nbsp;WANTED&nbsp;TO&nbsp;SPEND&nbsp;SOME&nbsp;TIME&nbsp;WITH&nbsp;YOU"  _clickable_img=""  target="*Risposta_Sbagliata"  ]
@@ -10982,10 +11211,30 @@ Arrivederci, professore![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CHERRY
+Ох, профессор...[p]
+Мне очень жаль...[p]
+Но у меня совершенно нет на это времени![p]
+Профессор Олимпия — настоящий тиран...[p]
+И если я немедленно не пойду в спортзал, у меня будут большие неприятности!!![p]
+До свидания, профессор![p]
+#ZACK
+(Чёрт!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -11002,6 +11251,26 @@ Goodbye, professor![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CHERRY
+Ох, профессор...[p]
+Мне очень жаль...[p]
+Но у меня совершенно нет на это времени![p]
+Профессор Олимпия — настоящий тиран...[p]
+И если я немедленно не пойду в спортзал, у меня будут большие неприятности!!![p]
+До свидания, профессор![p]
+#ZACK
+(Чёрт!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -11028,7 +11297,7 @@ Davvero?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -11040,6 +11309,21 @@ Really?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CHERRY
+Что????[p]
+Особенный леденец только для меня?[p]
+Правда?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -11064,7 +11348,7 @@ E venire nel tuo ufficio per passare qualche momento segreto li![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -11079,6 +11363,24 @@ And come to your office to spend a few secret moments there![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CHERRY
+Ну...[p]
+В таком случае, пожалуй, придётся рискнуть и навлечь на себя гнев профессора Олимпии![p]
+И прийти к вам в кабинет, чтобы провести там несколько тайных минут![p]
+#ZACK
+(О БОЖЕ!!! Я действительно слишком сильно рискую!)[p]
+(Но теперь уже не отступить!).[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -11109,7 +11411,7 @@ EH EH EH!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -11130,6 +11432,30 @@ EH EH EH!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ладно...[p]
+Пойдём в мой кабинет...[p]
+Но смотри...[p]
+Постарайся, чтобы нас никто не увидел...[p]
+Это должен быть наш маленький секрет![p]
+#CHERRY
+Хорошо, Зак...[p]
+Но только если пообещаешь дать мне его пососать!!![p]
+ХЕ-ХЕ-ХЕ!!![p]
+#ZACK
+(Чёрт... Не могу понять, играет ли эта девушка со мной в опасную и пикантную игру...)[p]
+(Или она просто очень наивна и не понимает двусмысленности собственных слов!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -11155,7 +11481,7 @@ Come mi piacerebbe fartelo sentire![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -11169,6 +11495,23 @@ How I'd love to make you feel it![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CHERRY
+Ну что, Зак.[p]
+Теперь можно получить мой леденец?[p]
+Я так взволнована...[p]
+Сердце быстро бьётся у меня в груди...[p]
+Как бы мне хотелось, чтобы ты это почувствовал![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -11191,7 +11534,7 @@ Davvero posso mangiarlo, Zack?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -11204,6 +11547,22 @@ Can I really eat this, Zack?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CHERRY
+О БОЖЕ!!![p]
+Он прекрасен!!![p]
+И выглядит таким сочным!!!![p]
+Я правда могу это съесть, Зак?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -11227,7 +11586,7 @@ Dovrei proprio trovare il modo di ricambiare la tua gentilezza!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -11239,6 +11598,21 @@ I really should find a way to reciprocate your kindness!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CHERRY
+Огромное спасибо, Зак![p]
+Ты такой замечательный!!![p]
+Мне действительно нужно найти способ отплатить тебе за доброту!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -11257,7 +11631,7 @@ I really should find a way to reciprocate your kindness!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="CHERRY.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="HOPE&nbsp;SHE&nbsp;WILL&nbsp;LICK&nbsp;IT"  _clickable_img=""  target="*Lecca_Cuore"  ]
@@ -11796,10 +12170,23 @@ Mmmmm....[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CHERRY
+М-м-м...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -11809,6 +12196,19 @@ Mmmmm....[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Ох, чёрт... Вот оно!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -11840,7 +12240,7 @@ Una donna![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -11854,6 +12254,23 @@ A woman![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CHERRY
+Ох, Зак...[p]
+Мне так хорошо здесь, рядом с тобой!!![p]
+Я чувствую себя в безопасности...[p]
+Я чувствую себя...[p]
+Женщиной![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -11881,7 +12298,7 @@ Slurp!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -11893,6 +12310,21 @@ Slurp!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CHERRY
+М-м-м...[p]
+Хотела бы я, чтобы этот приятный вкус во рту остался навсегда![p]
+Чмок!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -11956,7 +12388,7 @@ AAAAAHHHHH!!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -11969,6 +12401,22 @@ AAAAAHHHH!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CHERRY
+АААААХХХХ!!!![p]
+#ZACK
+(Эй... Кажется, ей это нравится...)[p]
+(Боже, прости меня, но я не могу не перейти к следующему шагу!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -12037,7 +12485,7 @@ AAAAAHHHHH!!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -12049,6 +12497,21 @@ AAAAAHHHH!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CHERRY
+АААААХХХХ!!!![p]
+#ZACK
+(О БОЖЕ... Она вся мокрая!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -12078,7 +12541,7 @@ EH EH EH!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -12092,6 +12555,23 @@ EH EH EH!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CHERRY
+Ох, Зак...[p]
+Я была бы ужасной неблагодарной дрянью, если бы не отплатила тебе за такую доброту...[p]
+Так-так...[p]
+Чем же я могу тебя порадовать?[p]
+ХЕ-ХЕ-ХЕ!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -12115,7 +12595,7 @@ Lasciami fare, ti prego![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -12127,6 +12607,21 @@ Let me do it, please![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CHERRY
+Леденец, который ты мне дал, был очень вкусным...[p]
+Но пора положить в рот что-нибудь более питательное, Зак![p]
+Позволь мне, пожалуйста![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -12166,7 +12661,7 @@ Mi piace molto il tuo sapore, Zack![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -12177,6 +12672,20 @@ I really like the way you taste, Zack![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CHERRY
+М-м-м... Как же вкусно!!![p]
+Мне очень нравится твой вкус, Зак![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]

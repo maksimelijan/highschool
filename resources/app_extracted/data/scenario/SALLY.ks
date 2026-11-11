@@ -5871,6 +5871,22 @@ You are very good, you know?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Ох!!![p]
+#PROF. FARENHEIT
+Так, теперь будь внимательна, Каролина!!![p]
+Ты ведь очень способная, знаешь?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -5904,6 +5920,19 @@ AAAAAAHHHHH!!!!![p]
 #KAROLINA
 AAAAAAHHHH!!!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+А-А-А-А-А-А-А-А-А-А-А-А!!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -5949,6 +5978,26 @@ And you'll see that you'll feel better right away!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FARENHEIT
+О нет, бедная Каролина...[p]
+Ты обожгла свою маленькую ручку???[p]
+#ZACK
+Придурок... Это всё из-за тебя!!![p]
+#PROF. FAHRENHEIT
+Дальше я сам...[p]
+Поцелую туда, где болит...[p]
+И увидишь, тебе сразу станет легче!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -5990,6 +6039,24 @@ This will immediately make the pain go away![p]
 #ZACK
 What the fuck is this impostor saying???[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FARENHEIT
+А теперь я научу тебя одному секрету, который известен только учёным![p]
+Если обожжёшь руку пламенем...[p]
+Нужно потереть её о хлопок...[p]
+И боль тут же пройдёт![p]
+#ZACK
+Какого чёрта несёт этот самозванец???[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -6035,6 +6102,22 @@ Maybe I just wish it was me instead!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ублюдок!!![p]
+Он провёл рукой по всему своему дряблому мерзкому члену!!![p]
+М-м...[p]
+Может, я просто хотел бы оказаться на его месте!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -6074,6 +6157,21 @@ I might play a little trick on her![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Теперь, когда у меня есть запасной телефон,[p]
+и я хитростью выведал у Марлен номер Салли,[p]
+можно устроить ей небольшую шалость![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -6103,6 +6201,20 @@ di fronte a tutti… Le inviassi delle foto di cazzi col mio numero anonimo…[p
 I really wonder what would happen if, while she's taking this asshole's chemistry class[p]
 in front of everyone... I sent her dick pics with my anonymous number...[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Интересно, что произойдёт, если прямо во время урока химии этого придурка,[p]
+на глазах у всех... я отправлю ей фотографии своего члена с анонимного номера...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -6138,6 +6250,21 @@ It seems clear to me that this asshole already hates me...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Конечно... Если меня поймают за этим, последствия будут ужасными...[p]
+Даже если просто заметят, что я ищу в интернете фотографии членов прямо перед ученицами...[p]
+Похоже, этот придурок и так меня уже ненавидит...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -6171,6 +6298,21 @@ I tremble at the very thought![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Я только наживу себе целую кучу неприятностей![p]
+А если об этом узнает Анджела... А потом и Лиза... Или Лилли...[p]
+От одной этой мысли меня бросает в дрожь![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -6198,6 +6340,19 @@ Voglio davvero rischiare tutto per uno stupido gioco erotico?[p]
 #ZACK
 Do I really want to risk everything for a stupid sex game?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Неужели я действительно хочу рискнуть всем ради глупой сексуальной игры?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

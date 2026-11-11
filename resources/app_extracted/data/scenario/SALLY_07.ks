@@ -277,6 +277,19 @@ Got it. I’ll… handle it.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Она опять за своё — украдкой смотрит в телефон во время наказания.[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -339,6 +352,21 @@ N-no, Zack, please! I-I’m not doing anything wrong, I promise![p]
 #ZACK
 (I can’t let this slide—she’s hiding something. But if I push, this could get messy.)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+Н-нет, Зак, пожалуйста! Я-я ничего плохого не делаю, обещаю![p]
+#ZACK
+(Я не могу закрыть на это глаза — она что-то скрывает. Но если надавлю, всё может осложниться.)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

@@ -369,6 +369,19 @@ Accidenti, come mai non mi sta convincendo del tutto?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Странно, почему я ей не до конца верю?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -400,6 +413,20 @@ E ricordati che ti ritengo responsabile del loro comportamento![p]
 Go now![p]
 And remember that I hold you responsible for their behavior![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Иди![p]
+И помни: я возлагаю на тебя ответственность за их поведение![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -454,6 +481,22 @@ Shit![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот чёрт!!![p]
+Они уже вовсю этим занимаются!!![p]
+И теперь мне придётся их остановить![p]
+Чёрт![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -497,6 +540,21 @@ Hey, you two![p]
 Stop it right now![p]
 Is it possible that you have not yet realized that you will only end up ruining yourselves this way?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй, вы двое![p]
+Немедленно прекратите![p]
+Неужели вы до сих пор не поняли, что так только испортите себе жизнь?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

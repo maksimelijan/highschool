@@ -5356,6 +5356,20 @@ Now show me how you can apply this concept![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FARENHEIT
+Ну же, умница Кларисса...[p]
+А теперь покажи, как ты умеешь применять это правило![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -5403,6 +5417,26 @@ Maybe I just wish it was me instead!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CLARISSA
+Всхлип![p]
+#PROF. FARENHEIT
+Ах, какая же ты молодец, Кларисса!!![p]
+Не останавливайся!!![p]
+#ZACK
+Ублюдок!!![p]
+М-м...[p]
+Может, я просто хотел бы оказаться на его месте!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -5445,6 +5479,21 @@ Interesting!!! But how exactly does it work?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FARENHEIT
+Итак, Тонина, сегодня мы поговорим о бесполом размножении. Это такой тип размножения, при котором организм производит новую особь без участия партнёра.[p]
+#TONINA
+Интересно!!! Но как именно это происходит?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -5480,6 +5529,22 @@ I see. And the simpler organisms, how do they do that?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FARENHEIT
+Существует несколько способов бесполого размножения.[p]
+Например, некоторые организмы размножаются почкованием: на них образуется небольшой вырост, который развивается в новую особь.[p]
+#TONINA
+Понятно. А как размножаются более простые организмы?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -5511,6 +5576,21 @@ Some organisms, such as amoebas, reproduce by binary scission, that is, they spl
 #TONINE
 Wow, amazing! But what is the importance of asexual reproduction?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FARENHEIT
+Некоторые организмы, например амёбы, размножаются бинарным делением: они разделяются на две равные части, каждая из которых становится новой особью.[p]
+#TONINE
+Ух ты, невероятно! А в чём значение бесполого размножения?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -5548,6 +5628,22 @@ I see. Thank you for explaining it all, Professor Fahrenheit![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FARENHEIT
+Бесполое размножение позволяет организмам быстро создавать новые особи, не тратя время на поиск партнёра.[p]
+Кроме того, в определённых условиях окружающей среды оно может давать эволюционное преимущество.[p]
+#TONINA
+Понятно. Спасибо за объяснение, профессор Фаренгейт![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -5581,6 +5677,21 @@ EH EH EH!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FARENHEIT
+О, молодец, Тонина...[p]
+Если будешь хорошо себя вести, однажды я, возможно, покажу тебе свой собственный метод...[p]
+ХЕ-ХЕ-ХЕ!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -5608,6 +5719,19 @@ Oh mio dio!!![p]
 #TONINA
 Oh my god!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TONINA
+О боже!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -5646,6 +5770,21 @@ Maybe I just want to be me instead!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ублюдок!!![p]
+Хм...[p]
+Может, я просто хочу сам оказаться на его месте!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -5682,6 +5821,19 @@ Ehy... ma cosa sta facendo quel pezzo di merda?[p]
 #ZACK
 Ehy...but what is that piece of shit doing?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй... да что этот ублюдок творит?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

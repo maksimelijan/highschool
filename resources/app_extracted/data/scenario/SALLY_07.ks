@@ -38,6 +38,21 @@ Morning, Principal Angela. You wanted to see me?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Я едва переступил порог, а у Анджелы уже такой взгляд, будто она собирается свалить на меня очередную проблему.)[p]
+Доброе утро, директор Анджела. Вы хотели меня видеть?[p]
+(Чутьё подсказывает, что прибавки к зарплате не будет. Ну вот, началось.)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -71,6 +86,22 @@ Zack, perfect timing—I was just looking for you. I’ve got a student who need
 #ZACK
 Detention, huh? Who’s the troublemaker?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Зак, как раз вовремя — я тебя искала. Сегодня после обеда нужно присмотреть за одной ученицей, оставленной после уроков.[p]
+(Говорит она строго, но в глазах мелькает огонёк, словно ей нравится ставить меня в неловкое положение.)[p]
+#ZACK
+Оставленной после уроков, значит? Кто провинился?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -110,6 +141,23 @@ Sally? Really? That’s… surprising.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Это Салли. Её снова поймали с телефоном на уроке.[p]
+#ZACK
+Салли? Правда? Вот это... неожиданно.[p]
+(Чёрт, Салли? Та скромница, которая постоянно украдкой поглядывает по сторонам? Я прекрасно знаю, что она смотрела на телефоне.)[p]
+(Мне её жаль — она хорошая ученица. Это может серьёзно испортить её школьную репутацию.)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -137,6 +185,19 @@ Sorprendente, sì. Di solito è così ben educata, ma le regole sono regole. Ass
 #ANGELA
 Surprising, yes. She’s usually so well-behaved, but rules are rules. Make sure she learns her lesson, Zack.[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Да, неожиданно. Обычно она ведёт себя очень хорошо, но правила есть правила. Проследи, чтобы она усвоила урок, Зак.[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -170,6 +231,21 @@ Got it. I’ll… handle it.[p]
 (A good girl like Sally, so timid… a detention could crush her. Her career’s on the line, and I’m the one stuck dealing with it.)[p]
 (This is going to be complicated. Too complicated.)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Понял. Я... разберусь.[p]
+(Такая хорошая и застенчивая девушка, как Салли... наказание может её сломить. Её будущее под угрозой, а разбираться со всем приходится мне.)[p]
+(Будет непросто. Очень непросто.)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

@@ -65,7 +65,20 @@ Lontano da tutte le tentazioni di quelle bellissime e fresche ragazze![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Подальше от всех соблазнов, которые представляют собой эти красивые молоденькие девушки![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -75,6 +88,7 @@ Away from all the temptations of those beautiful and fresh girls![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -103,7 +117,24 @@ We're living on a prayeeeeeeeer!!!!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Уууууу-уааааа!!![p]
+Мы уже на полпути-и-и-и!!![p]
+УУУУУХУУУУУУ!!![p]
+Мы живём одной надеждо-о-ой!!!!!![p]
+...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -117,6 +148,7 @@ We're living on a prayeeeeeeeer!!!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -144,7 +176,22 @@ Eppure mi pare di averla già vista da qualche parte!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй...[p]
+Какая симпатичная рыжеволосая девушка...[p]
+И всё же мне кажется, что я где-то её уже видел!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -156,6 +203,7 @@ Yet I think I've seen her somewhere before!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -185,7 +233,22 @@ Eppure mi pare di averla già vista da qualche parte!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй...[p]
+У этой блондинки просто сногсшибательная фигура...[p]
+И всё же мне кажется, что я где-то её уже видел!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -197,6 +260,7 @@ Yet I think I've seen her somewhere before!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -227,7 +291,23 @@ O il proprio fratello!!! EH EH!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй...[p]
+Какая же эта дерзкая девушка-панк сексуальная!!![p]
+Похожа на тех, из-за кого родители не находят себе места...[p]
+Или брат!!! ХЕ-ХЕ!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -240,6 +320,7 @@ Or one's own brother!!! EH EH!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -273,7 +354,24 @@ Living on a prayeeeeeeeer!!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Протяни мне ру-у-уку...[p]
+И у нас всё получи-и-ится, обеща-а-аю!!!![p]
+УУУУХУУУУУУУ!!!!![p]
+Мы живём одной надеждо-о-ой!!!![p]
+...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -287,6 +385,7 @@ Living on a prayeeeeeeeer!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -326,7 +425,22 @@ Se Lisa volesse la sua dose quotidiana a casa, e non ce la facessi...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Лучше не стоит...[p]
+Я и так уже достаточно устал...[p]
+Вдруг Лизе дома захочется получить свою ежедневную порцию, а я не смогу...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -338,6 +452,7 @@ If Lisa wanted her daily fix at home, and I couldn't make it...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -364,7 +479,21 @@ Stare a contatto quotidiano con tutta quella fregna mi ha fatto diventare un ver
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт...[p]
+Из-за ежедневного общения со всеми этими кисками я превратился в настоящего извращенца!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -375,6 +504,7 @@ Being in daily contact with all that pussy has made me a real pervert!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -460,7 +590,22 @@ Eppure mi pare di averla già vista da qualche parte!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй...[p]
+Какая симпатичная рыжеволосая девушка...[p]
+И всё же мне кажется, что я где-то её уже видел!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -472,6 +617,7 @@ Yet I think I've seen her somewhere before!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -501,7 +647,21 @@ Potresti indicarmi la strada per il museo?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Привет...[p]
+Не подскажешь, как пройти к музею?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -512,6 +672,7 @@ Could you please show me the way to the museum?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -534,7 +695,23 @@ Sempre dritto? Come questo?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#RUBY
+Да, конечно...[p]
+Чтобы попасть в музей, тебе нужно всё время идти прямо![p]
+#ZACK
+Всё время прямо? Вот так?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -547,6 +724,7 @@ Straight ahead? Like this?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -583,7 +761,20 @@ AAAAAAAHHHHH!!!!!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#RUBY
+ААААААААААА!!!!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -593,6 +784,7 @@ AAAAAAAHHHHH!!!!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -616,7 +808,24 @@ Meglio scappare!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#RUBY
+Маньяк!!![p]
+Помогите!!!![p]
+#ZACK
+Чёрт!!![p]
+Нужно сматываться!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -630,6 +839,7 @@ Better run!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -660,7 +870,22 @@ Eppure mi pare di averla già vista da qualche parte!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй...[p]
+У этой блондинки просто сногсшибательная фигура...[p]
+И всё же мне кажется, что я где-то её уже видел!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -672,6 +897,7 @@ Yet I think I've seen her somewhere before!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -703,7 +929,22 @@ Potresti indicarmi una palestra attrezzata in questo quartiere?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Привет...[p]
+Похоже, ты очень спортивная девушка...[p]
+Не подскажешь, где в этом районе есть хорошо оборудованный спортзал?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -715,6 +956,7 @@ Could you point me to a well-equipped gym in this neighborhood?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -738,7 +980,24 @@ Duro come questo???[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#GRETA
+Рада, что заметил!!![p]
+Я всегда выкладываюсь на тренировках по полной!!![p]
+#ZACK
+По полной???[p]
+Вот так, что ли???[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -752,6 +1011,7 @@ Hard like this???[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -790,7 +1050,21 @@ Cosa stai facendo???[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#GRETA
+Эй, ты что, с ума сошёл?[p]
+Что ты делаешь???[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -801,6 +1075,7 @@ What are you doing???[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -889,7 +1164,22 @@ EH EH EH!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт!!![p]
+Я попал ей прямо в лицо!!![p]
+ХЕ-ХЕ-ХЕ!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -901,6 +1191,7 @@ EH EH EH!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -924,7 +1215,24 @@ Merda, meglio scappare!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#GRETA
+ПОМОГИТЕ!!![p]
+ПОМОГИТЕ!!![p]
+Сексуальный маньяк!!![p]
+#ZACK
+Чёрт, надо убираться!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -938,6 +1246,7 @@ Shit, better run!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -973,7 +1282,23 @@ O il proprio fratello!!! EH EH!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй...[p]
+Какая же эта дерзкая девушка-панк сексуальная!!![p]
+Похожа на тех, из-за кого родители не находят себе места...[p]
+Или брат!!! ХЕ-ХЕ!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -986,6 +1311,7 @@ Or one's own brother!!! EH EH!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1015,7 +1341,22 @@ Dove posso trovare un po' di divertimento in questo quartiere?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Привет, красотка...[p]
+Похоже, ты любишь повеселиться!!![p]
+Где в этом районе можно найти развлечения?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1027,6 +1368,7 @@ Where can I find some fun in this neighborhood?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1046,7 +1388,20 @@ E tu sembri uno di quei sfigati che fanno vedere il cazzo mentre guidano l'auto.
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KARINA
+А ты похож на одного из тех неудачников, которые светят членом из окна машины во время езды...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1056,6 +1411,7 @@ And you look like one of those losers who show their dicks while driving a car..
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1075,7 +1431,20 @@ Ehy, avevo ragione!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KARINA
+Эй, я так и знала!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1085,6 +1454,7 @@ Hey, I was right!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1107,7 +1477,23 @@ Fai bene a farlo vedere!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KARINA
+ВАУ!!![p]
+Да у тебя ещё и член ничего себе![p]
+Молодец!!![p]
+Правильно делаешь, что показываешь его!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1120,6 +1506,7 @@ You do well to show it!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1140,7 +1527,21 @@ Almeno avrò qualcosa da guardare mentre sono nel mio letto a massaggiarmi la mi
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KARINA
+Не возражаешь, если я оставлю себе маленький сувенир на вечер?[p]
+По крайней мере, будет на что посмотреть, лёжа в кровати и лаская свою влажную киску!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1151,6 +1552,7 @@ At least I'll have something to watch while I'm in my bed massaging my moist pus
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1172,7 +1574,22 @@ Uno bello ricco tutto per me!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KARINA
+Давай, извращенец!!![p]
+Покажи мне хороший фонтан!!![p]
+Пусть будет побольше, специально для меня!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1184,6 +1601,7 @@ A nice rich one all for me!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1275,7 +1693,25 @@ Avrei voluto che fosse sul mio culetto sodo!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+АААААААААААА!!!!!![p]
+#KARINA
+Вот это да!!!![p]
+Отличный фонтан!!![p]
+Жаль, что всё пропадает зря...[p]
+Я бы хотела, чтобы всё это оказалось на моей упругой попке!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1290,6 +1726,7 @@ I wish it was on my tight little ass!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1312,7 +1749,21 @@ I wish it was on my tight little ass!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт... Эта девушка оказалась ещё безумнее, чем я думал!!!)[p]
+(И теперь у неё в смартфоне есть доказательства моего извращённого поступка!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1323,6 +1774,7 @@ I wish it was on my tight little ass!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1353,7 +1805,21 @@ Non ti pare il caso di far vedere qualcosa anche a me?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй... Похоже, тебе понравилось моё небольшое представление...[p]
+Не думаешь, что теперь и мне стоит на что-нибудь посмотреть?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1364,6 +1830,7 @@ Don't you think you should show me something too?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1385,7 +1852,22 @@ Ma per tua fortuna io non sono una brava ragazza!!! EH EH!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KARINA
+Эй, извращенец!!![p]
+Нельзя приставать к приличным девушкам на улице и просить их раздеться перед тобой!!![p]
+Но тебе повезло — я не из приличных девушек!!! ХЕ-ХЕ!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1397,6 +1879,7 @@ But lucky for you I'm not a good girl!!! EH EH!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1426,7 +1909,22 @@ Vorrei succhiarli per ore!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот чёрт!!![p]
+Какие у неё аппетитные соски...[p]
+Я бы сосал их часами!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1438,6 +1936,7 @@ I want to suck them for hours!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -1465,7 +1964,25 @@ Pervy Bunny[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#DEV
+Дорогой игрок,[p]
+Наверняка ты узнал в этой девушке одну из главных героинь игры My First Time.[p]
+Эту игру разработала моя подруга Эшли Ратаковски при моей помощи![p]
+Надеюсь, тебе будет приятно получить ссылку, по которой эту игру можно скачать бесплатно,[p]
+в знак моей огромной благодарности за твою поддержку![p]
+Pervy Bunny[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1480,6 +1997,7 @@ Pervy Bunny[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]

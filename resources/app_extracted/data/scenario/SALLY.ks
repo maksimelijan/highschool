@@ -4105,6 +4105,20 @@ The law strictly forbids the disclosure of students' personal data...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Извини, но это совершенно невозможно!!![p]
+Закон строго запрещает разглашать личные данные учащихся...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -9881,6 +9895,20 @@ I'll go take a shower right away![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#POTTY
+Извините, профессор...[p]
+Я сейчас же пойду в душ![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -9922,6 +9950,20 @@ Andrò subito a fare la doccia![p]
 I'm sorry, teacher...[p]
 I'll go take a shower right away![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TONINA
+Извините, учитель...[p]
+Я сейчас же пойду в душ![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -9970,6 +10012,22 @@ The joke is already over!!![p]
 It was good while it lasted!!! EH EH!!![p]
 Just as well... It was really too risky!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт...[p]
+Шутка уже закончилась!!![p]
+А ведь было весело, пока это продолжалось!!! ХЕ-ХЕ!!![p]
+И хорошо... Это действительно было слишком рискованно!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

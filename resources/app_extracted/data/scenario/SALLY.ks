@@ -4803,6 +4803,20 @@ Please focus right now, because today's lesson is very important...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FAHRENHEIT
+Доброе утро всем, мальчики и девочки...[p]
+Прошу вас сосредоточиться: сегодняшний урок очень важен...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -4858,6 +4872,23 @@ I know everything about chemistry, and I am respected everywhere I go![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FAHRENHEIT
+Девушки, вы должны проявлять интерес к учёбе...[p]
+Без знаний естественных наук, и особенно химии...[p]
+Вы ничего не добьётесь в жизни![p]
+Посмотрите на меня...[p]
+Я знаю о химии всё, и меня уважают повсюду![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -4889,6 +4920,21 @@ I know everything about chemistry, and I am respected everywhere I go![p]
 (He's just the example of what a professor shouldn't be...)[p]
 (If it were me in his place...)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Ну и придурок этот тип!)[p]
+(Вот наглядный пример того, каким преподаватель быть не должен...)[p]
+(Будь я на его месте...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -4939,6 +4985,21 @@ I know everything about chemistry, and I am respected everywhere I go![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Эта девушка выглядит такой невинной...)[p]
+(Но я никак не могу перестать думать о нашей встрече в ванной — если это вообще можно назвать встречей...[p]
+(Она смотрела на мой член так заворожённо, словно не могла отвести взгляд!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -4978,6 +5039,25 @@ I know everything about chemistry, and I am respected everywhere I go![p]
 (What about my reputation? Just for...)[p]
 (Shit--she's so beautiful!)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Не думаю, что я ей нравлюсь, поэтому...)[p]
+(У меня такое чувство, что под этой невинной школьной формой...)[p]
+(скрывается настоящая любительница членов!!!)[p]
+(Мне бы очень хотелось воспользоваться плодами своего открытия...)[p]
+(Но стоит ли ради этого рисковать отношениями с Лизой...)[p]
+(А как же моя репутация? И всё это ради...)[p]
+(Чёрт, какая же она красивая!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -5022,6 +5102,21 @@ yes, I have read about it, but I still don't really understand how they work.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FARENHEIT
+Кларисса, сегодня поговорим о ковалентных связях. Для начала: знаешь ли ты, что такое ковалентная связь?[p]
+#CLARISSA
+Да, я читала об этом, но до сих пор не совсем понимаю, как они работают.[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -5057,6 +5152,23 @@ In other words, atoms "bond" together to form a molecule.[p]
 #CLARISSA
 I see, but how does this sharing of electrons take place?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FARENHEIT
+Что ж, тогда давай разберёмся вместе.[p]
+Ковалентная связь образуется, когда два атома делятся одной или несколькими парами электронов.[p]
+Иными словами, атомы «связываются» друг с другом, образуя молекулу.[p]
+#CLARISSA
+Понятно. Но как именно происходит обмен электронами?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -5100,6 +5212,25 @@ So the covalent bond is formed when two atoms share electrons to complete their 
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FARENHEIT
+Хороший вопрос.[p]
+Обмен электронами происходит, когда двум атомам необходимо заполнить свои внешние оболочки.[p]
+Когда атомы сближаются, внешние электроны их оболочек перекрываются и оказываются в общей области пространства,[p]
+становясь общими электронами. Таким образом каждый атом «получает» электроны, необходимые для заполнения его внешней оболочки.[p]
+#CLARISSA
+А, теперь я лучше понимаю.[p]
+Значит, ковалентная связь образуется, когда два атома делятся электронами, чтобы заполнить внешнюю оболочку.[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -5133,6 +5264,21 @@ In addition, there are also polar and apolar bonds, depending on the difference 
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FARENHEIT
+Именно.[p]
+Ковалентные связи бывают одинарными, двойными и тройными — в зависимости от количества общих электронных пар между атомами.[p]
+Кроме того, связи бывают полярными и неполярными — в зависимости от разницы электроотрицательности участвующих атомов.[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -5162,6 +5308,19 @@ Ehy, ma cosa fa quello stronzo?[p]
 #ZACK
 Ehy, what's that asshole doing?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй, что этот придурок творит?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

@@ -8975,7 +8975,7 @@ Dear player, activate cheats mode during the night to access the menu of choices
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="ANGELA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="UNWANTED&nbsp;CUM"  _clickable_img=""  target="*Angela_07_A"  ]
@@ -8983,6 +8983,19 @@ Dear player, activate cheats mode during the night to access the menu of choices
 [glink  color="btn_17_black"  storage="ANGELA.ks"  size="20"  target="*Angela_07_C"  text="PRINCIPAL'S&nbsp;BLACKMAIL"  x="700"  y="140"  width="580"  ]
 [glink  color="btn_17_black"  storage="ANGELA.ks"  size="20"  target="*Angela_07_D"  text="I&nbsp;LOVE&nbsp;LITERATURE"  x="700"  y="200"  width="580"  ]
 [glink  color="btn_17_black"  storage="002_POMERIGGIO_HUB.ks"  size="20"  text="BACK"  x="700"  y="260"  width="580"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[glink  color="btn_17_black"  storage="ANGELA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="НЕЖЕЛАННАЯ&nbsp;КОНЧА"  _clickable_img=""  target="*Angela_07_A"  ]
+[glink  color="btn_17_black"  storage="ANGELA.ks"  size="20"  target="*Angela_07_B"  text="ВКУС&nbsp;ПОХОТИ"  x="700"  y="80"  width="580"  ]
+[glink  color="btn_17_black"  storage="ANGELA.ks"  size="20"  target="*Angela_07_C"  text="ШАНТАЖ&nbsp;ДИРЕКТОРА"  x="700"  y="140"  width="580"  ]
+[glink  color="btn_17_black"  storage="ANGELA.ks"  size="20"  target="*Angela_07_D"  text="Я&nbsp;ЛЮБЛЮ&nbsp;ЛИТЕРАТУРУ"  x="700"  y="200"  width="580"  ]
+[glink  color="btn_17_black"  storage="002_POMERIGGIO_HUB.ks"  size="20"  text="НАЗАД"  x="700"  y="260"  width="580"  ]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]

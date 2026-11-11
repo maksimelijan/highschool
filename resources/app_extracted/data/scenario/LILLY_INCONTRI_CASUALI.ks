@@ -33,7 +33,21 @@
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Ух... Лилли дома...)[p]
+(Она быстро превращается в очень красивую женщину...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -44,6 +58,7 @@
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -86,7 +101,22 @@
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Ух... Лилли дома...)[p]
+(Её пижама... такая... невинная и чертовски сексуальная одновременно...)[p]
+(Какого чёрта я вообще думаю... Она же младшая сестра Лизы!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -98,6 +128,7 @@
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -139,7 +170,21 @@
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт... Её трусики...)[p]
+(Если эту крошечную тряпочку вообще можно... назвать... трусиками... Чёрт!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -150,6 +195,7 @@
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -192,7 +238,22 @@
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Ух... Лилли дома...)[p]
+(Чёрт возьми... Мне вообще не следовало бы здесь торчать и подглядывать за ней, как какому-то извращенцу!)[p]
+(Но...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -204,6 +265,7 @@
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]

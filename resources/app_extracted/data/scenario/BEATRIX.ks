@@ -24,7 +24,22 @@ Non mi era mai capitato prima che non ci fosse nessuno...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот же...[p]
+Как странно...[p]
+Со мной ещё никогда не случалось, чтобы там никого не было...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -36,6 +51,7 @@ It never happened to me before that there was no one there...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -60,7 +76,25 @@ Cosa dovrei fare?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй...[p]
+Что это за чёртов шум доносится из подсобки?[p]
+Что там происходит???[p]
+Там грабители?[p]
+Чёрт... Ситуация опасная![p]
+Что мне делать?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -75,6 +109,7 @@ What should I do?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -103,7 +138,23 @@ Stavo...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#BEATRIX
+Боже мой!!![p]
+Простите...[p]
+Я не заметила, что вошёл покупатель...[p]
+Я просто...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -116,6 +167,7 @@ I was just...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -137,7 +189,22 @@ Ugh...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#BEATRIX
+Я наводила порядок на складе...[p]
+#ZACK
+Ух...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -149,6 +216,7 @@ Ugh...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -199,7 +267,22 @@ Puoi tornare domani, per favore?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#BEATRIX
+Извините...[p]
+Но магазин уже закрыт...[p]
+Не могли бы вы зайти завтра?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -211,6 +294,7 @@ Can you please come back tomorrow?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -235,7 +319,25 @@ Oh mio dio!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MALE VOICE.
+Эй! Сука!!![p]
+Выставь этого придурка и возвращайся сюда![p]
+Иначе мне придётся самому этим заняться!!![p]
+Чёрт![p]
+#BEATRIX
+Боже мой!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -250,6 +352,7 @@ Oh my god!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -295,7 +398,22 @@ Per favore torna domani!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#BEATRIX
+Мне правда очень жаль...[p]
+Но мне уже пора!!![p]
+Пожалуйста, приходите завтра!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -307,6 +425,7 @@ Please come back tomorrow!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -331,7 +450,23 @@ Non voglio sborrare per terra!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PEDRO
+Ну?[p]
+Ты поторопишься?[p]
+Иди сюда и открой рот![p]
+Я не собираюсь кончать на пол!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -344,6 +479,7 @@ I don't want to cum on the floor!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -372,7 +508,23 @@ Devo intervenire!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт...[p]
+Это так рискованно...[p]
+Но я не могу просто стоять в стороне...[p]
+Нужно действовать!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -385,6 +537,7 @@ I have to take action!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -407,7 +560,20 @@ Ma che cazzo sta succedendo???[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Какого чёрта здесь происходит???[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -417,6 +583,7 @@ What the fuck is going on???[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -441,7 +608,25 @@ Ti soffoco col mio cazzo!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PEDRO
+Заглоти поглубже, сука!!![p]
+#ZACK
+Что????[p]
+#PEDRO
+Я затолкаю его тебе в глотку!!![p]
+Я задушу тебя своим членом!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -456,6 +641,7 @@ I'll choke you with my cock!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -485,7 +671,22 @@ GAAHHHH!!!!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#BEATRIX
+ГААААХХХХ!!!!!![p]
+ГААААХХХХ!!!!!![p]
+ГААААХХХХ!!!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -497,6 +698,7 @@ GAAHHHH!!!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -528,7 +730,20 @@ GHOOOOUUUUU!!!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#BEATRIX
+ГХОООУУУУУ!!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -538,6 +753,7 @@ GHOOOOUUUUU!!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -578,7 +794,20 @@ GHOOOOUUUUU!!!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#BEATRIX
+ГХОООУУУУУ!!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -588,6 +817,7 @@ GHOOOOUUUUU!!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -626,7 +856,20 @@ GHOOOOUUUUU!!!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#BEATRIX
+ГХОООУУУУУ!!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -636,6 +879,7 @@ GHOOOOUUUUU!!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -675,7 +919,22 @@ Stavo soffocando!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#BEATRIX
+БЛЕЕЕЕААААГХХХ!!!![p]
+БОЖЕ МОЙ!!!![p]
+Я задыхалась!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -687,6 +946,7 @@ I was choking!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -738,7 +998,27 @@ Anche se suo marito non sembra un tipo raccomandabile...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот чёрт...[p]
+Не могу поверить в то, что только что увидел...[p]
+Но должен признать, я бы и сам не отказался...[p]
+Оказаться на его месте...[p]
+Ну...[p]
+Лучше зайти в другой раз...[p]
+Если повезёт, застану Беатрис одну...[p]
+Хотя её муж, похоже, тот ещё тип...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -755,6 +1035,7 @@ Although her husband doesn't seem like a recommendable guy...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[_tb_end_tyrano_code]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]

@@ -2189,7 +2189,7 @@ Tutte le ragazze ne vogliono uno, ma costa un sacco di soldi!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2203,6 +2203,23 @@ Every girl wants one, but it costs a lot of money!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Это же дневник сердечка!!!![p]
+Как здорово!!![p]
+Каждая девушка мечтает о таком, но он стоит целое состояние!!![p]
+#ZACK
+(Чёрт!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2225,7 +2242,7 @@ Lo adoro!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2237,6 +2254,21 @@ I love it!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+О боже!!![p]
+Моё сердце сейчас выпрыгнет из груди!!![p]
+Мне так нравится!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2261,7 +2293,7 @@ Posso averlo?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2273,6 +2305,21 @@ Can I have it?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Ты правда купил это для меня?[p]
+Не могу поверить!!![p]
+Можно мне его взять?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2290,7 +2337,7 @@ Can I have it?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="KAROLINA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="DON'T&nbsp;GIVE&nbsp;HER&nbsp;THE&nbsp;DIARY"  _clickable_img=""  target="*Non_Dare_Il_Diario"  ]
@@ -2321,10 +2368,25 @@ Questo diario purtroppo non è per te...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Прости, Лилли...[p]
+Но произошло недоразумение...[p]
+К сожалению, этот дневник не для тебя...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2336,6 +2398,21 @@ This diary is unfortunately not for you....[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Прости, Лилли...[p]
+Но произошло недоразумение...[p]
+К сожалению, этот дневник не для тебя...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2361,7 +2438,7 @@ Aspetta Lilly, non fare così...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2376,6 +2453,24 @@ Wait Lilly, don't be like that....[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+О нет...[p]
+Я...[p]
+Я... Я думала, что тебе не всё равно...[p]
+Вздох...[p]
+#ZACK
+Подожди, Лилли, не надо так...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2418,7 +2513,7 @@ Ti sarò grata per tutta la vita!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2433,6 +2528,24 @@ I will be grateful to you for the rest of my life!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+А-А-А-А-А!!!!![p]
+Это лучший подарок, который мне когда-либо дарили!!![p]
+Спасибо, Зак!!![p]
+Я буду благодарна тебе всю жизнь!!![p]
+#ZACK
+(Когда Лилли захочет, она может быть самой милой девушкой на свете...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2457,7 +2570,7 @@ Mi è costato tanto, ma mi fa piacere vedere la sorellina di Lisa così contenta
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2469,6 +2582,21 @@ It cost me a lot, but it makes me happy to see Lisa's little sister so excited![
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Боже...[p]
+Она и правда так счастлива...[p]
+Он обошёлся мне дорого, но мне приятно видеть, как радуется младшая сестра Лизы![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2551,7 +2679,7 @@ Ora capisco perchè mia sorella ti ama così tanto![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2566,6 +2694,24 @@ Now I see why my sister loves you so much![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Это прекрасно, Зак![p]
+Мне очень нравится!!![p]
+И ты мне тоже нравишься![p]
+Теперь я понимаю, почему моя сестра так тебя любит![p]
+#ZACK
+(Чёрт!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2587,7 +2733,7 @@ Mentre io scrivo su questo diario stupendo?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2598,6 +2744,20 @@ While I write in this wonderful diary?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Эй, почему бы тебе немного не отдохнуть здесь, на диване, вместе со мной...?[p]
+Пока я буду писать в этом замечательном дневнике?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2612,7 +2772,7 @@ While I write in this wonderful diary?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="004_NOTTE_HUB.ks"  size="20"  text="MEGLIO&nbsp;DI&nbsp;NO"  x="700"  y="20"  width="580"  ]
@@ -2707,10 +2867,28 @@ No, no!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Ой, какая же я невоспитанная...[p]
+Я всё ещё сижу на диване в обуви...[p]
+Так нельзя![p]
+Нет, нет!!![p]
+#ZACK
+(Что она, чёрт возьми, несёт?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2725,6 +2903,24 @@ No, no!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Ой, какая же я невоспитанная...[p]
+Я всё ещё сижу на диване в обуви...[p]
+Так нельзя![p]
+Нет, нет!!![p]
+#ZACK
+(Что она, чёрт возьми, несёт?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2749,7 +2945,7 @@ Spero che i miei piedini nudi non ti mettano a disagio...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2762,6 +2958,22 @@ I hope my little bare feet don't make you uncomfortable....[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Поможешь мне снять их, пожалуйста, Зак?[p]
+Надеюсь, мои маленькие босые ножки тебя не смутят...[p]
+#ZACK
+(Вот чёрт... Она со мной флиртует?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2791,7 +3003,7 @@ I hope my little bare feet don't make you uncomfortable....[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2803,6 +3015,21 @@ I hope my little bare feet don't make you uncomfortable....[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт... Если он продолжит двигать её маленькими ножками в том месте...)[p]
+(Она заметит, какая у меня сильная эрекция...)[p]
+(Вот же дерьмо! Она расскажет своей сестре!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2836,7 +3063,7 @@ I hope my little bare feet don't make you uncomfortable....[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2846,6 +3073,19 @@ I hope my little bare feet don't make you uncomfortable....[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(О боже, я сейчас кончу прямо в трусы!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -2860,7 +3100,7 @@ I hope my little bare feet don't make you uncomfortable....[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="KAROLINA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="HOLD&nbsp;ON!"  _clickable_img=""  target="*Resisti"  ]
@@ -2920,10 +3160,24 @@ I hope my little bare feet don't make you uncomfortable....[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт возьми, как стыдно!)[p]
+(Боюсь, она всё заметила!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2934,6 +3188,20 @@ I hope my little bare feet don't make you uncomfortable....[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт возьми, как стыдно!)[p]
+(Боюсь, она всё заметила!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -3003,7 +3271,7 @@ Forse non dovrei disturbarla...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3015,6 +3283,21 @@ Maybe I shouldn't bother her...[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Каролина выглядит погружённой в работу...[p]
+Она изучает химические формулы на доске...[p]
+Может, не стоит её отвлекать...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -3060,7 +3343,7 @@ Ero molto concentrata e non l'ho sentita arrivare...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3071,6 +3354,20 @@ I was very focused and didn't hear you coming....[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Ой, простите, профессор...[p]
+Я так увлеклась, что не услышала, как вы подошли...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -3092,7 +3389,7 @@ I was very focused and didn't hear you coming....[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3104,6 +3401,21 @@ I was very focused and didn't hear you coming....[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(М-м-м...)[p]
+(Она была так увлечена... Или всё-таки плакала?)[p]
+(Она выглядит такой грустной!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]

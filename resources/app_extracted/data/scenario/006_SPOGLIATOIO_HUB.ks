@@ -26,7 +26,22 @@ Cosa diavolo posso inventarmi per riuscirci?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эта раздевалка... Просто идеальна![p]
+Чёрт, вот бы ещё попасть в женскую...[p]
+Что бы такое придумать?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -83,7 +98,20 @@ What the hell can I come up with to do that?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Ох, чёрт возьми...! Если бы меня сейчас кто-нибудь увидел...).[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -121,7 +149,22 @@ Merda![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#FIONA
+ЭЙ!!! ТЕБЕ ЗДЕСЬ СОВЕРШЕННО НЕЧЕГО ДЕЛАТЬ! СВИНЬЯ![p]
+#ZACK
+Чёрт![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -159,7 +202,20 @@ Shit![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Ох, чёрт... Если меня сейчас кто-нибудь увидит...).[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -196,7 +252,21 @@ Non puoi stare qua dentro mentre ci siamo noi studenti!!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Эй, ты с ума сошёл, Зак?[p]
+Тебе нельзя сюда заходить, пока мы здесь занимаемся!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -235,7 +305,22 @@ Non può entrare qui, siamo nude!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+О БОЖЕ!!![p]
+Профессор!!![p]
+Вам нельзя сюда входить, мы же раздеты!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -272,7 +357,20 @@ Nessuno qui...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Здесь никого нет...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]

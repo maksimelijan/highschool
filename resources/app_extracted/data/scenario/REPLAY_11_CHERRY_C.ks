@@ -1,0 +1,8 @@
+[tb_clear_images][mask time=200][bg  time="1"  storage="DI_SERVIZIO/01_Cherry_Sfondo.jpg"  _tb_parts_type="bg"  ]
+[button  graphic="Icone_Gioco/Sinistra.png"  storage="REPLAY_11_CHERRY_B.ks"  target=""  time="1"  width="100"  height="100"  x="1135"  y="-10"  _tb_parts_type="button"  ]
+[button  graphic="Icone_Gioco/Destra.png"  storage="REPLAY_12_OLIMPIA.ks"  target=""  time="1"  width="100"  height="100"  x="1170"  y="35"  _tb_parts_type="button"  ]
+[tb_replay_image_button  graphic="Icone_Replay/ReplayCherry48.jpg"  storage="CHERRY.ks"  target="*ReplayCherry48"  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="100"  height="100"  x="10"  y="10"  _tb_parts_type="replay_image_button"  id="ReplayCherry48"  ]
+[tb_replay_image_button  graphic="Icone_Replay/ReplayCherry49.jpg"  storage="CHERRY.ks"  target="*ReplayCherry49"  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="100"  height="100"  x="110"  y="10"  _tb_parts_type="replay_image_button"  id="ReplayCherry49"  ]
+[tb_replay_image_button  graphic="Icone_Replay/ReplayCherry50.jpg"  storage="CHERRY.ks"  target="*ReplayCherry50"  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="100"  height="100"  x="210"  y="10"  _tb_parts_type="replay_image_button"  id="ReplayCherry50"  ]
+[mask_off time=200] 
+[s] 

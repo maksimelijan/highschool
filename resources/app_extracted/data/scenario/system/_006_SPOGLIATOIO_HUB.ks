@@ -1,0 +1,7 @@
+[preload  storage="./data/bgimage/LOCATIONS_SCUOLA/Spogliatoio.jpg"  ]
+[preload  storage="./data/bgimage/INCONTRI_CASUALI/Spogliatoio_Incontro_01.jpg"  ]
+[preload  storage="./data/bgimage/INCONTRI_CASUALI/Spogliatoio_Incontro_02.jpg"  ]
+[preload  storage="./data/bgimage/INCONTRI_CASUALI/Spogliatoio_Incontro_03.jpg"  ]
+[preload  storage="./data/bgimage/INCONTRI_CASUALI/Spogliatoio_Incontro_04.jpg"  ]
+[preload  storage="./data/bgimage/INCONTRI_CASUALI/Spogliatoio_Incontro_05.jpg"  ]
+[return]

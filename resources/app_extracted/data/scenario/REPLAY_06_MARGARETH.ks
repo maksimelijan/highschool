@@ -1,0 +1,7 @@
+[tb_clear_images][mask time=200][bg  time="1"  storage="DI_SERVIZIO/15_Margareth_Sfondo.jpg"  _tb_parts_type="bg"  ]
+[button  graphic="Icone_Gioco/Sinistra.png"  storage="REPLAY_05_ILARY.ks"  target=""  time="1"  width="100"  height="100"  x="1135"  y="-10"  _tb_parts_type="button"  ]
+[button  graphic="Icone_Gioco/Destra.png"  storage="REPLAY_07_MARLENE.ks"  target=""  time="1"  width="100"  height="100"  x="1170"  y="35"  _tb_parts_type="button"  ]
+[tb_replay_image_button  graphic="Icone_Replay/ReplayMargareth01.jpg"  storage="MARGARETH.ks"  target="*ReplayMargareth01"  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="100"  height="100"  x="10"  y="10"  _tb_parts_type="replay_image_button"  id="ReplayMargareth01"  ]
+[tb_replay_image_button  graphic="Icone_Replay/ReplayMargareth02.jpg"  storage="MARGARETH.ks"  target="*ReplayMargareth02"  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="100"  height="100"  x="110"  y="10"  _tb_parts_type="replay_image_button"  id="ReplayMargareth02"  ]
+[mask_off time=200] 
+[s] 

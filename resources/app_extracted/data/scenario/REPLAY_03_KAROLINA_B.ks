@@ -1,0 +1,7 @@
+[tb_clear_images][mask time=200][bg  time="1"  storage="DI_SERVIZIO/08_Karolina_Sfondo.jpg"  _tb_parts_type="bg"  ]
+[button  graphic="Icone_Gioco/Sinistra.png"  storage="REPLAY_03_KAROLINA.ks"  target=""  time="1"  width="100"  height="100"  x="1135"  y="-10"  _tb_parts_type="button"  ]
+[button  graphic="Icone_Gioco/Destra.png"  storage="REPLAY_04_SALLY.ks"  target=""  time="1"  width="100"  height="100"  x="1170"  y="35"  _tb_parts_type="button"  ]
+[tb_replay_image_button  graphic="Icone_Replay/ReplayOlimpia03.jpg"  storage="OLIMPIA.ks"  target="*ReplayOlimpia03"  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="100"  height="100"  x="10"  y="10"  _tb_parts_type="replay_image_button"  id="ReplayOlimpia03"  ]
+[tb_replay_image_button  graphic="Icone_Replay/ReplayKarolina20.jpg"  storage="OLIMPIA_SFIDA_BASKET.ks"  target="*ReplayKarolina20"  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="100"  height="100"  x="110"  y="10"  _tb_parts_type="replay_image_button"  id="ReplayKarolina20"  ]
+[mask_off time=200] 
+[s] 

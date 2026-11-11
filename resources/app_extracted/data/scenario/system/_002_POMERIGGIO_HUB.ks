@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/000_INTRO_4/Angela_01_15.jpg"  ]
+[preload  storage="./data/fgimage/default/Portafoglio.png"  ]
+[preload  storage="./data/fgimage/default/Energia.png"  ]
+[preload  storage="./data/bgimage/DI_SERVIZIO/Mensa_Pranzo.jpg"  ]
+[return]

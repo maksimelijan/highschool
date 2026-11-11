@@ -1,0 +1,129 @@
+[_tb_system_call storage=system/_title_screen.ks]
+
+[hidemenubutton]
+
+[tb_clear_images]
+
+[tb_keyconfig  flag="0"  ]
+[tb_hide_message_window  ]
+[bg  storage="LOCATIONS_SCUOLA/Sfondo_Nero.png"  ]
+[tb_image_show  time="1000"  storage="default/Title/PERVY_BUNNY_Logo.png"  width="512"  height="512"  x="352"  y="27"  _clickable_img=""  name="img_5"  ]
+[tb_ptext_show  x="533"  y="600"  size="30"  color="0xffffff"  time="1000"  text="PRESENTS"  face="animeace2_reg"  edge="undefined"  shadow="undefined"  anim="true"  fadeout="false"  wait="false"  in_effect="wobble"  out_effect="fadeOut"  ]
+[l  ]
+[cm  ]
+[tb_ptext_hide  time="0"  ]
+[tb_image_hide  time="0"  ]
+[bg  storage="Disclaimer.jpg"  ]
+[glink  color="btn_17_yellow"  storage="title_screen.ks"  size="20"  x="500"  y="630"  width="650"  height=""  text="I&nbsp;AGREE&nbsp;AND&nbsp;I&nbsp;WANT&nbsp;TO&nbsp;PLAY"  _clickable_img=""  target="*Accetta_Disclaimer"  ]
+[s  ]
+*Accetta_Disclaimer
+
+[bg  storage="LOCATIONS_SCUOLA/Sfondo_Nero.png"  ]
+[tb_image_show  time="0"  storage="default/Title/Cherry_Title.png"  width="269"  height="402"  name="img_16"  x="1081"  y="337"  _clickable_img=""  ]
+[playse  volume="20"  time="1000"  buf="0"  storage="slap.mp3"  ]
+[l  ]
+[tb_image_show  time="0"  storage="default/Title/Clarissa_Title.png"  width="243"  height="365"  name="img_19"  x="1003"  y="362"  _clickable_img=""  ]
+[playse  volume="20"  time="1000"  buf="0"  storage="slap.mp3"  ]
+[l  ]
+[tb_image_show  time="0"  storage="default/Title/Ilary_Title.png"  width="243"  height="366"  name="img_22"  x="910"  y="356"  _clickable_img=""  ]
+[playse  volume="20"  time="1000"  buf="0"  storage="slap.mp3"  ]
+[l  ]
+[tb_image_show  time="0"  storage="default/Title/Karolina_Title.png"  width="257"  height="384"  name="img_25"  x="815"  y="343"  _clickable_img=""  ]
+[playse  volume="20"  time="1000"  buf="0"  storage="slap.mp3"  ]
+[l  ]
+[tb_image_show  time="0"  storage="default/Title/Margareth_Title.png"  width="257"  height="386"  name="img_28"  x="727"  y="339"  _clickable_img=""  ]
+[playse  volume="20"  time="1000"  buf="0"  storage="slap.mp3"  ]
+[l  ]
+[tb_image_show  time="0"  storage="default/Title/Lilly_Title.png"  width="255"  height="380"  name="img_31"  x="646"  y="352"  _clickable_img=""  ]
+[playse  volume="20"  time="1000"  buf="0"  storage="slap.mp3"  ]
+[l  ]
+[tb_image_show  time="0"  storage="default/Title/Pippa_Title.png"  width="244"  height="368"  name="img_34"  x="568"  y="354"  _clickable_img=""  ]
+[playse  volume="20"  time="1000"  buf="0"  storage="slap.mp3"  ]
+[l  ]
+[tb_image_show  time="0"  storage="default/Title/Potty_Title.png"  width="258"  height="387"  name="img_37"  x="481"  y="340"  _clickable_img=""  ]
+[playse  volume="20"  time="1000"  buf="0"  storage="slap.mp3"  ]
+[l  ]
+[tb_image_show  time="0"  storage="default/Title/Tinetta_Title.png"  width="270"  height="405"  name="img_40"  x="394"  y="341"  _clickable_img=""  ]
+[playse  volume="20"  time="1000"  buf="0"  storage="slap.mp3"  ]
+[l  ]
+[tb_image_show  time="0"  storage="default/Title/Nancy_Title.png"  width="258"  height="387"  name="img_43"  x="310"  y="347"  _clickable_img=""  ]
+[playse  volume="20"  time="1000"  buf="0"  storage="slap.mp3"  ]
+[l  ]
+[tb_image_show  time="0"  storage="default/Title/MC_Title.png"  width="473"  height="708"  name="img_46"  x="-137"  y="55"  _clickable_img=""  ]
+[playse  volume="20"  time="1000"  buf="0"  storage="slap.mp3"  ]
+[l  ]
+[tb_image_show  time="0"  storage="default/Title/Lisa_Title.png"  width="410"  height="611"  name="img_49"  x="71"  y="163"  _clickable_img=""  ]
+[playse  volume="20"  time="1000"  buf="0"  storage="slap.mp3"  ]
+[l  ]
+[tb_image_show  time="0"  storage="default/Title/HIGH_SCHOOL_MASTER_Logo.png"  width="721"  height="721"  name="img_52"  x="479"  y="-163"  _clickable_img=""  ]
+[playse  volume="20"  time="1000"  buf="0"  storage="slap.mp3"  ]
+[l  ]
+*title
+
+[glink  color="btn_17_green"  storage="title_screen.ks"  size="20"  x="0"  y="480"  width="300"  height=""  text="NEW&nbsp;GAME"  _clickable_img=""  target="*start"  ]
+[glink  color="btn_17_purple"  text="LOAD&nbsp;GAME"  x="0"  y="540"  size="20"  target="*load"  width="300"  height=""  _clickable_img=""  ]
+[glink  color="btn_17_yellow"  storage="title_screen.ks"  size="20"  x="0"  y="600"  width="300"  height=""  text="LANGUAGE"  _clickable_img=""  target="*Lingua"  ]
+[glink  color="btn_17_red"  storage="title_screen.ks"  size="20"  x="0"  y="660"  width="300"  height=""  text="UPDATED&nbsp;RELEASE"  _clickable_img=""  target="*Pagina_Patreon"  ]
+[s  ]
+*start
+
+[showmenubutton]
+
+[cm  ]
+[tb_keyconfig  flag="1"  ]
+[jump  storage="000_INTRO.ks"  target=""  ]
+[s  ]
+*load
+
+[cm  ]
+[showload]
+
+[jump  target="*title"  storage=""  ]
+[s  ]
+*Lingua
+
+[glink  color="btn_17_purple"  storage="title_screen.ks"  size="20"  x="900"  y="340"  width="380"  height=""  text="ENGLISH"  _clickable_img=""  target="*Inglese"  ]
+[glink  color="btn_17_blue"  storage="title_screen.ks"  size="20"  x="900"  y="400"  width="380"  height=""  text="ITALIANO"  _clickable_img=""  target="*Italiano"  ]
+[glink  color="btn_17_yellow"  storage="title_screen.ks"  size="20"  x="900"  y="460"  width="380"  height=""  text="DEUTSCH"  _clickable_img=""  target="*Tedesco"  ]
+[glink  color="btn_17_green"  storage="title_screen.ks"  size="20"  x="900"  y="520"  width="380"  height=""  text="PYCCO"  _clickable_img=""  target="*Russo"  ]
+[glink  color="btn_17_red"  storage="title_screen.ks"  size="20"  x="900"  y="580"  width="380"  height=""  text="ESPAÑOL"  _clickable_img=""  target="*Spagnolo"  ]
+[glink  color="btn_17_lime"  storage="title_screen.ks"  size="20"  x="900"  y="640"  width="380"  height=""  text="FRANÇAIS"  _clickable_img=""  target="*Francese"  ]
+[s  ]
+*Inglese
+
+[tb_eval  exp="f.Lingua=1"  name="Lingua"  cmd="="  op="t"  val="1"  val_2="undefined"  ]
+[jump  storage="title_screen.ks"  target="*title"  ]
+[s  ]
+*Italiano
+
+[tb_eval  exp="f.Lingua=0"  name="Lingua"  cmd="="  op="t"  val="0"  val_2="undefined"  ]
+[jump  storage="title_screen.ks"  target="*title"  ]
+[s  ]
+*Tedesco
+
+[tb_eval  exp="f.Lingua=2"  name="Lingua"  cmd="="  op="t"  val="2"  val_2="undefined"  ]
+[jump  storage="title_screen.ks"  target="*title"  ]
+[s  ]
+*Russo
+
+[tb_eval  exp="f.Lingua=3"  name="Lingua"  cmd="="  op="t"  val="3"  val_2="undefined"  ]
+[jump  storage="title_screen.ks"  target="*title"  ]
+[s  ]
+*Spagnolo
+
+[tb_eval  exp="f.Lingua=4"  name="Lingua"  cmd="="  op="t"  val="4"  val_2="undefined"  ]
+[jump  storage="title_screen.ks"  target="*title"  ]
+[s  ]
+*Francese
+
+[tb_eval  exp="f.Lingua=5"  name="Lingua"  cmd="="  op="t"  val="5"  val_2="undefined"  ]
+[jump  storage="title_screen.ks"  target="*title"  ]
+[s  ]
+*Pagina_Patreon
+
+[tb_start_tyrano_code]
+[web url="https://linktr.ee/pervy.bunny.games"]
+[_tb_end_tyrano_code]
+
+[jump  storage="title_screen.ks"  target="*title"  ]
+[s  ]

@@ -1,0 +1,8 @@
+[preload  storage="./data/bgimage/LOCATIONS_SCUOLA/BagnoProfessori.jpg"  ]
+[preload  storage="./data/bgimage/INCONTRI_CASUALI/BagnoProfessori_Incontro_01.jpg"  ]
+[preload  storage="./data/bgimage/INCONTRI_CASUALI/BagnoProfessori_Incontro_02.jpg"  ]
+[preload  storage="./data/bgimage/INCONTRI_CASUALI/BagnoProfessori_Incontro_03.jpg"  ]
+[preload  storage="./data/bgimage/INCONTRI_CASUALI/BagnoProfessori_Incontro_05.jpg"  ]
+[preload  storage="./data/bgimage/INCONTRI_CASUALI/BagnoProfessori_Incontro_04.jpg"  ]
+[preload  storage="./data/bgimage/INCONTRI_CASUALI/BagnoProfessori_Incontro_06.jpg"  ]
+[return]

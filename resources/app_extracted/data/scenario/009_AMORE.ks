@@ -2080,7 +2080,17 @@ Where were we, my love?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[glink  color="btn_17_black"  storage="009_AMORE.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="ОСТАНОВИТЬ&nbsp;ЕЁ&nbsp;РУКУ"  _clickable_img=""  target="*Ferma_Mano"  ]
+[glink  color="btn_17_black"  storage="009_AMORE.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="НЕ&nbsp;ОСТАНАВЛИВАТЬ&nbsp;ЕЁ"  _clickable_img=""  target="*Non_Fermare_Mano"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="009_AMORE.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="STOP&nbsp;HER&nbsp;HAND"  _clickable_img=""  target="*Ferma_Mano"  ]

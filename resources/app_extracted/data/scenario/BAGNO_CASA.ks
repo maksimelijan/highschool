@@ -75,12 +75,25 @@ Caro giocatore, attiva il cheats mode durante la notte e potrai scegliere la sce
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #DEV
 Dear player, enable the cheats mode during the night and you can choose the scene you prefer to see.[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#DEV
+Дорогой игрок, включи режим читов ночью, чтобы выбрать сцену, которую хочешь посмотреть.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -181,7 +194,7 @@ Stressante!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -189,6 +202,21 @@ Stressante!!![p]
 Shit... The bathroom is taken...[p]
 Living with two women is...[p]
 Stressful!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт... Ванная занята...[p]
+Жить с двумя женщинами — это...[p]
+Сплошной стресс!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -233,7 +261,7 @@ Se Lisa dovesse sorprendermi mentre lo faccio...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -242,6 +270,22 @@ Holy shit...[p]
 Lilly in the bathroom...[p]
 I really should stop spying on her![p]
 If Lisa ever catches me doing it....[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот чёрт...[p]
+Лилли в ванной...[p]
+Мне и правда пора перестать за ней подглядывать![p]
+Если Лиза когда-нибудь меня за этим застукает...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -295,7 +339,7 @@ Non riesco proprio a resistere![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -303,6 +347,21 @@ Non riesco proprio a resistere![p]
 Damn me...[p]
 But what am I doing?[p]
 I just can't resist![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт меня побери...[p]
+Что же я творю?[p]
+Просто не могу удержаться![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -407,13 +466,27 @@ Sta facendo la pipì...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #ZACK
 Ugh...[p]
 She' s peeing...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Уф...[p]
+Она писает...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -489,7 +562,7 @@ Ma cosa mi succede???[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -500,6 +573,24 @@ I couldn't take it anymore![p]
 #ZACK
 Damn me...[p]
 What is wrong with me?!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+А-а-а...[p]
+Какое облегчение...[p]
+Я больше не могла терпеть![p]
+#ZACK
+Чёрт меня побери...[p]
+Что со мной такое?!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -541,7 +632,7 @@ E' la sorellina della mia fidanzata...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -552,6 +643,24 @@ Looks like..[p]
 Lilly!!![p]
 Shit, I shouldn't stay here to spy her...[p]
 She's my girlfriend little sister...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй...[p]
+Кто-то принимает душ...[p]
+Похоже, это...[p]
+Лилли!!![p]
+Чёрт, мне не стоит здесь за ней подглядывать...[p]
+Она младшая сестра моей девушки...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -606,7 +715,7 @@ Hai perso qualcosa?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -614,6 +723,21 @@ Hai perso qualcosa?[p]
 Hey... Love...[p]
 What are you doing?[p]
 Did you lose something?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LISA
+Эй... Милый...[p]
+Что ты здесь делаешь?[p]
+Что-то потерял? [p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -643,7 +767,7 @@ Andiamo a cena, dai![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -654,6 +778,24 @@ Let's go to dinner, come on![p]
 #ZACK
 (Shit... She almost caught me!!!)[p]
 (I need to be more careful!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LISA
+Ванная занята...[p]
+Как обычно, эта мелкая вредина заперлась там уже на два часа!!![p]
+Пойдём ужинать, давай![p]
+#ZACK
+(Чёрт... Она чуть меня не застукала!!!)[p]
+(Нужно быть осторожнее!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -697,7 +839,7 @@ Ma anche così eccitante!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -705,6 +847,21 @@ Ma anche così eccitante!!![p]
 Shit... Lilly is growing very fast....[p]
 What I'm doing is so risky....[p]
 But also so exciting!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт... Лилли так быстро взрослеет...[p]
+То, что я делаю, очень рискованно...[p]
+Но в то же время так волнительно!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -752,7 +909,7 @@ Alcune mie amiche riescono a provare piacere da sole, con le dita...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -762,6 +919,23 @@ I love being massaged by the shower jet![p]
 I wonder if anyone will ever massage me in such a sensual way?[p]
 Maybe in the meantime I should try it myself....[p]
 Some of my friends can get pleasure by themselves with their fingers....[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Вау!!![p]
+Мне нравится, как струи душа массируют меня![p]
+Интересно, найдётся ли кто-нибудь, кто однажды будет ласкать меня так чувственно?[p]
+А пока, пожалуй, попробую сама...[p]
+Некоторые мои подруги умеют доставлять себе удовольствие пальцами...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]

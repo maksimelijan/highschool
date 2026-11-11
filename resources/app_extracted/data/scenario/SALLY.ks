@@ -8166,6 +8166,21 @@ And I was... Oh my god... I'm about to faint!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+О господи, какой позор!!![p]
+Я совсем голая!!![p]
+А я ведь... О боже... Сейчас упаду в обморок!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -8210,6 +8225,21 @@ Wait, Sally, don't run away!!![p]
 You don't have to be afraid of me!!![p]
 I can help you!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Постой, Салли, не убегай!!![p]
+Тебе не нужно меня бояться!!![p]
+Я могу тебе помочь!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -8271,6 +8301,22 @@ She left her panties here!!![p]
 I can feel their scent already from here!!![p]
 What should I do now?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+АХАХА!!![p]
+Она оставила здесь свои трусики!!![p]
+Я уже отсюда чувствую их запах!!![p]
+Что же мне теперь делать?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -8850,6 +8896,23 @@ I must have her!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+О БОЖЕ!!!![p]
+У этой девушки невероятно сильный сексуальный заряд!!![p]
+Мне непременно нужно найти способ этим воспользоваться!!![p]
+Даже если это может навредить моим отношениям с Лизой...[p]
+Она должна быть моей!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -8907,6 +8970,19 @@ Merda… Non riesco a smettere di pensare a…[p]
 #ZACK
 Shit... I can't stop thinking about....[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт... Не могу перестать думать о...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -8997,6 +9073,20 @@ I'll go crazy!!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+О боже!!! Если я продолжу в том же духе...[p]
+Я сойду с ума!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -9035,6 +9125,22 @@ Ugh... What the...?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#
+БЗЗЗЗЗЗЗЗ[p]
+БЗЗЗЗЗЗЗЗЗЗЗ[p]
+#ZACK
+Уф... Что за...?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -9071,6 +9177,23 @@ Is vibrating...[p]
 Oh shit... It's the secret cell phone I bought!!![p]
 Why did I do such a risky thing???[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Уф...[p]
+Мой телефон...[p]
+Вибрирует...[p]
+Вот чёрт... Это же тот самый запасной телефон, который я купил!!![p]
+И зачем я пошёл на такой риск???[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -9118,6 +9241,23 @@ If someone were to catch me while I'm...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Хм...[p]
+Лучше сделать вид, будто ничего не произошло...[p]
+Это действительно захватывающе...[p]
+Но ничем хорошим это не закончится...[p]
+Если кто-нибудь застанет меня за...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -9157,6 +9297,24 @@ But what are you doing????[p]
 Shit...[p]
 I'm fucked!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LISA
+Эй!!![p]
+Любимый!!![p]
+Но что ты делаешь????[p]
+#ZACK
+Чёрт...[p]
+Мне конец!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

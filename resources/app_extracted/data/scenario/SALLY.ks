@@ -1745,6 +1745,26 @@ Wait, Sally!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Постой, Салли!!![p]
+(Какого чёрта...?)[p]
+(Она убежала... Совсем смутившись...)[p]
+(Будто я застал её за чем-то...)[p]
+(Не могу поверить, что она смотрела именно туда...)[p]
+(Неужели эта девушка всё время опускает глаза именно по этой причине?)[p]
+(С ума сойти!!)[p]
+(Но это ещё и так волнительно!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1797,6 +1817,22 @@ Click...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Фух...[p]
+Я сейчас взорвусь!!![p]
+# ДВЕРЬ
+Щёлк...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1835,6 +1871,21 @@ Click...[p]
 (It's Sally...)[p]
 (Is she really spying on me???)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Какого чёрта здесь происходит???)[p]
+(Это Салли...)[p]
+(Неужели она и правда за мной подглядывает???)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -1900,6 +1951,20 @@ What am I doing?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+Ох... Что со мной происходит?[p]
+Что я делаю?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1940,6 +2005,19 @@ Hey... She doesn't look scared...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй... Похоже, она совсем не напугана...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1976,6 +2054,22 @@ She actually seems really interested!!![p]
 So when she seemed to stare at my...[p]
 Well... She was really doing it!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Наоборот...[p]
+Похоже, ей даже очень интересно!!![p]
+Значит, когда она, казалось, смотрела на мой...[p]
+Что ж... Она действительно это делала!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -2017,6 +2111,21 @@ Ugh... She realized what she was doing....[p]
 Well... She seemed really interested though...[p]
 Fuck![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ох... Она поняла, что делает...[p]
+Хотя, похоже, ей это действительно было интересно...[p]
+Чёрт![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -2062,6 +2171,21 @@ Well...[p]
 Let's see if that's really what you're interested in, Sally....[p]
 Enjoy the show!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Что ж...[p]
+Посмотрим, действительно ли тебя это интересует, Салли...[p]
+Приятного просмотра!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -2562,6 +2686,19 @@ Enjoy the show!!![p]
 #ZACK
 (You really seem to like it, huh, you little pervert!!!)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Тебе это и правда нравится, да, маленькая извращенка?!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -3130,6 +3267,22 @@ Sally and Marlene are chatting....[p]
 I wonder what Marlene will come up with this time to treat one of the students badly...?[p]
 I don't know if I feel like listening to another one of her angry outbursts![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Хм...[p]
+Салли и Марлен о чём-то беседуют...[p]
+Интересно, что на этот раз Марлен придумает, чтобы плохо обойтись с одной из учениц...?[p]
+Не уверен, что хочу снова выслушивать одну из её гневных тирад![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

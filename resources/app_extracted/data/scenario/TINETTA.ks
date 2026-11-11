@@ -7455,7 +7455,7 @@ Zack... Stai sognando ad occhi aperti???[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -7469,6 +7469,23 @@ Zack... Are you daydreaming???[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+ЗАК!!!![p]
+#ZACK
+Ух... Что???[p]
+#TINETTA
+Зак... Вы задумались???[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -7491,7 +7508,7 @@ Davvero non avrei potuto fare questa ricerca nella sala computer pubblica!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -7504,6 +7521,22 @@ I really couldn't have done this research in the public computer room!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+Я закончила...[p]
+Спасибо вам...[p]
+Вы мне очень помогли...[p]
+Я бы никогда не смогла провести это исследование в общем компьютерном классе!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -7529,7 +7562,7 @@ E scusa se ti ho messo in difficoltà![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -7545,6 +7578,25 @@ And sorry for giving you a hard time![p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Что со мной, чёрт возьми, не так???)[p]
+(Вот дерьмо!!!)[p]
+Ладно, Тинетта. Можешь идти...[p]
+Увидимся в школе![p]
+#TINETTA
+Ещё раз спасибо, Зак...[p]
+И простите, что доставила вам хлопоты![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -7570,7 +7622,7 @@ Ma come posso non andare a controllare la cronologia delle ricerche???[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -7586,6 +7638,25 @@ But how can I not go check the search history???[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#DEV
+Дорогой игрок...[p]
+Ты ведь не думал, что я не дам нашему другу Заку возможность проверить, что именно искала Тинетта!!![p]
+ХЕ-ХЕ-ХЕ!!![p]
+#ZACK
+Чёрт...[p]
+Я нарушаю её право на личную жизнь...[p]
+Но как я могу не проверить историю поиска???[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
@@ -7623,7 +7694,7 @@ E come posso approfittare di questa situazione?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -7651,6 +7722,37 @@ And how can I take advantage of this situation?[p]
 
 [tb_start_tyrano_code]
 [endif]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+О БОЖЕ!!!!!![p]
+Тинетта искала...[p]
+Как правильно делать минет?[p]
+Какой на вкус человеческий член во рту?[p]
+Сколько должен длиться хороший минет?[p]
+Как доставить парню удовольствие ртом?[p]
+Должны ли зубы касаться кожи?[p]
+Что делать, если он кончит мне в горло?[p]
+Что делать, если он не помещается во рту...[p]
+Рот — киска будущего![p]
+Если ты будешь его сосать, он больше никогда не сможет тебе отказать![p]
+Как делать минет с водкой во рту?[p]
+При минете язык должен быть сверху или снизу?[p]
+Мне нравится предэякулят. Я извращенка?[p]
+Палец в задницу, чтобы сделать ему приятнее.[p]
+Всё глубоко в горло, без рвотного рефлекса.[p]
+Чёрт... Не могу поверить!!![p]
+Что, чёрт возьми, задумала Тинетта?[p]
+И как мне воспользоваться этой ситуацией?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]

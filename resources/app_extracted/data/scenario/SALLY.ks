@@ -3825,6 +3825,21 @@ Do you need anything from me?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+О, доброе утро, Зак...[p]
+Прости, я не заметила, как ты подошёл...[p]
+Тебе что-нибудь от меня нужно?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -3860,6 +3875,22 @@ These students drive you crazy, don't they?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Нет, не беспокойся...[p]
+Я просто зашёл поздороваться...[p]
+Но вижу, ты очень занята...[p]
+Эти ученики сводят тебя с ума, да?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -3893,6 +3924,21 @@ Dealing with these fucking students will drive me crazy![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Ах... Даже не напоминай...[p]
+Если бы не закон о конфиденциальности, я могла бы рассказать тебе кое-что невероятное...[p]
+Работа с этими чёртовыми учениками сведёт меня с ума![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -3922,6 +3968,20 @@ Anche lei è una di quelli che ti mette in difficoltà?[p]
 I saw Tinetta coming out of here....[p]
 Is she one of those people who puts you on the spot, too?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Я видел, как отсюда выходила Тинетта...[p]
+Она тоже из тех, кто доставляет тебе неприятности?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -3955,6 +4015,21 @@ Sorry, but I can't talk about what's going on here with the students![p]
 The privacy law is very strong....[p]
 Also, students need to feel safe with me, since they often have to ask me for help with personal and embarrassing things...[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Прости, но я не могу рассказывать о том, что здесь происходит с учениками![p]
+Закон о конфиденциальности очень строг...[p]
+К тому же ученики должны чувствовать себя рядом со мной в безопасности: им часто приходится обращаться ко мне за помощью с личными и неловкими вопросами...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

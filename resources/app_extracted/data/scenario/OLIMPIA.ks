@@ -175,6 +175,26 @@ But how is it possible the principal allows this attitude?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Хватит с меня![p]
+С тобой одни проблемы![p]
+Ты неудачница ещё до начала испытания![p]
+#ZACK
+Чёрт...[p]
+Это уже слишком...[p]
+Лучше мне не вмешиваться...[p]
+Но как директор вообще позволяет такое поведение?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -211,6 +231,23 @@ She only does this to spur you on to do better![p]
 #TONINA
 Sigh...[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Не переживай, Тонина...[p]
+Ты же знаешь профессора Олимпию...[p]
+Она так делает, чтобы подстегнуть тебя и заставить стараться![p]
+#TONINA
+Вздох...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -253,6 +290,25 @@ And a good friend...[p]
 And she's so cute too!!![p]
 Shit... What am I thinking? I don't have to!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+И даже если у меня не всё получается по этому предмету...[p]
+Зато по остальным ты уже молодец...[p]
+#ZACK
+Каролина и правда кажется хорошей девушкой...[p]
+И отличной подругой...[p]
+К тому же она такая милая!!![p]
+Чёрт... О чём я думаю? Нельзя так!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -337,6 +393,23 @@ You don't think you'll be able to keep up with my pace, do you?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Привет, Зак...[p]
+Как дела?[p]
+Пришёл немного потренироваться со мной?[p]
+Хе-хе-хе!!![p]
+Надеюсь, ты не думаешь, что сможешь выдержать мой темп?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -412,6 +485,24 @@ This smells like an excuse to me![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Не могу поверить, что ты такая глупая![p]
+Забыла спортивную форму дома...[p]
+Хотя прекрасно знала, что сегодня экзамен по гимнастике!!![p]
+По-моему, это просто отговорка![p]
+#ZACK
+(Вот чёрт... Эта учительница совсем не щадит учеников!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -446,6 +537,22 @@ Unfortunately, I forgot my backpack with sports clothes at home....[p]
 #OLIMPIA
 Do you take me for a sucker?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+Мне очень жаль, учительница...[p]
+К сожалению, я забыла дома рюкзак со спортивной формой...[p]
+#OLIMPIA
+Ты меня за дуру держишь?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -494,6 +601,27 @@ You're taking your test in your underwear![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Я прекрасно знаю, что по всем остальным предметам ты примерная ученица![p]
+Но по моему предмету ты полный ноль![p]
+А теперь пытаешься избежать плохой оценки![p]
+Не выйдет![p]
+У тебя нет спортивной формы?[p]
+Мне плевать![p]
+Будешь сдавать нормативы в нижнем белье![p]
+#ZACK
+(ЧТО???)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -538,6 +666,27 @@ I'm not wearing a bra!!![p]
 #OLIMPIA
 I don't give a shit, that's your problem![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+Но, учительница...[p]
+Я не могу!!![p]
+Это незаконно![p]
+К тому же... Я...[p]
+На мне даже нет бюстгальтера!!![p]
+#ZACK
+(Чёрт... Не должен об этом думать, но одна эта мысль меня так возбуждает![p]
+#OLIMPIA
+Мне плевать, это твои проблемы![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

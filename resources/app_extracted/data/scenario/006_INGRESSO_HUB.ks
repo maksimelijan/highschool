@@ -26,7 +26,22 @@ Questa scuola deve vantare ottimi atleti![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Школьный вход...[p]
+Сколько здесь выставлено трофеев...
+Должно быть, в этой школе учатся отличные спортсмены![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -88,7 +103,24 @@ Buongiorno a te, tesoro![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LISA
+Доброе утро, любимый![p]
+#ZACK
+И тебе доброе утро, дорогая![p]
+(Чёрт, я люблю Лизу... Но она постоянно здесь, в школе...)[p]
+(Может, она ревнует? Вокруг столько замечательных девушек!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -129,7 +161,21 @@ IH IH IH IH!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CLARISSA
+Доброе утро, профессор!!![p]
+Хи-хи-хи!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -170,7 +216,24 @@ Mi sento nuda...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TINETTA
+Мне так неловко...[p]
+#KAROLINA
+Мне тоже... Профессор Олимпия не должна заставлять нас носить такую одежду...[p]
+#TINETTA
+Я чувствую себя раздетой...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -224,7 +287,25 @@ Fai silenzio! Tu devi diventare una campionessa![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Я же сказала, что вам нужно стараться усерднее![p]
+#POTTY
+Но, учитель... Я не могу тренироваться больше, чем сейчас...[p]
+Мне ещё нужно учиться, иначе пострадают мои оценки...[p]
+#OLIMPIA
+Замолчи! Ты должна стать чемпионкой![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -267,7 +348,22 @@ Deve essere un grande stress, per una ragazza così giovane...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Похоже, Марлен лично занимается здесь всеми делами...[p]
+Всеми бюрократическими вопросами этой школы...[p]
+Для такой молодой девушки это, должно быть, огромный стресс...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -319,7 +415,23 @@ Quasi... EH EH EH...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#FIONA
+Похоже, эти двое влюблённых просто не могут друг без друга...[p]
+Фиона — настоящая красавица![p]
+Я почти завидую этому Десмонду...[p]
+Почти... Хе-хе-хе...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -357,7 +469,20 @@ Nessuno qui...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Здесь никого нет...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]

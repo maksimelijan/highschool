@@ -4136,6 +4136,20 @@ I need it to warn her of an emergency....[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Но я же её преподаватель...[p]
+Мне он нужен, чтобы предупредить её об опасности...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -4175,6 +4189,24 @@ Their young, firm bodies are irresistible![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Прости, но этот закон в первую очередь касается преподавателей![p]
+Я знаю, что у тебя добрые намерения...[p]
+Но представь, каким опасностям могут подвергаться эти ученицы...[p]
+Они такие юные, наивные... И сексуальные!!![p]
+Недобросовестные люди могут попытаться воспользоваться ими...[p]
+Их молодые, упругие тела так притягательны![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -4212,6 +4244,24 @@ About the danger...[p]
 Um...[p]
 Because she forgot in my office...[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Я бы не настаивал, если бы это не было так важно!!![p]
+Мне нужен её номер телефона...[p]
+Чтобы предупредить её...[p]
+Об опасности...[p]
+Э-э...[p]
+Потому что она забыла у меня в кабинете...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -4274,6 +4324,26 @@ I dare not even think about it!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Звучит очень серьёзно...[p]
+Хотя мне и не следует этого делать...[p]
+Я чувствую, что должна тебе помочь![p]
+Кажется, я могу тебе доверять![p]
+Я дам тебе номер Тинетты...[p]
+Но будь осторожен...[p]
+Если он попадёт в руки какому-нибудь негодяю...[p]
+Даже думать об этом не хочу!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -4309,6 +4379,23 @@ Now I have Tinetta's phone number....[p]
 What can I do with it?[p]
 I can feel my cock hardening at the very thought![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+ХЕ-ХЕ-ХЕ!!![p]
+Какая же она простушка![p]
+Теперь у меня есть номер Тинетты...[p]
+И что же мне с ним сделать?[p]
+От одной этой мысли у меня уже встаёт![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -4359,6 +4446,22 @@ But I can't help you in any way....[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Мне очень жаль, Зак...[p]
+Но я ничем не могу тебе помочь...[p]
+#ZACK
+(Чёрт!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -4394,6 +4497,21 @@ I had actually just stopped by to say hello....[p]
 But while I'm here, I'll take the opportunity to tell you that I think you're very nice....[p]
 And that, in case you wanted to, we could have dinner together one of these nights....[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вообще-то я просто зашёл поздороваться...[p]
+Но раз уж я здесь, воспользуюсь случаем и скажу, что ты мне очень нравишься...[p]
+И если ты не против, мы могли бы как-нибудь вечером поужинать вместе...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -4455,6 +4573,30 @@ You'd better drop this idea![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Я должна быть с тобой честной, Зак...[p]
+Ты мне тоже нравишься...[p]
+Но боюсь, я не та девушка, с которой стоит идти на романтический ужин![p]
+#ZACK
+Что? Почему?[p]
+Если не попробуешь, откуда знаешь?[p]
+ХЕ-ХЕ-ХЕ!!![p]
+#MARLENE
+Поверь мне, Зак...[p]
+Тебе лучше оставить эту затею![p]
+#ZACK
+(Чёрт... Что же она имела в виду?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -4496,6 +4638,21 @@ Class is about to start...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Здравствуйте, профессор Зак...[p]
+Что вы делаете здесь, в кабинете химии?[p]
+Скоро начнётся урок...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -4534,6 +4691,21 @@ Oh, I'm sorry...[p]
 But I'm very busy at the moment...[p]
 We'll have to postpone our talk, Zack![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+О, простите...[p]
+Но сейчас я очень занята...[p]
+Нам придётся отложить разговор, Зак![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -4579,6 +4751,25 @@ I am sure you will enjoy his teaching method![p]
 #ZACK
 (Mmm... Prof. Fahrenheit... From the name he already sounds like an asshole...)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+М-м... Хорошо...[p]
+В конце концов, вы тоже учёный...[p]
+Но, пожалуйста, не мешайте лекции.[p]
+Профессор Фаренгейт — выдающийся специалист...[p]
+Уверена, вам понравится его метод преподавания![p]
+#ZACK
+(М-м... Профессор Фаренгейт... Уже по фамилии понятно, что он тот ещё придурок...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

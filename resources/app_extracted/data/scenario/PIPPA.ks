@@ -22,6 +22,23 @@ Cosa dovrei fare?[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй... Что, чёрт возьми, там происходит?[p]
+На земле лежит девушка...[p]
+А двое других прямо на публике занимаются своим делом!!![p]
+Что мне делать?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -74,6 +91,24 @@ Meglio non pensarci...[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот же зависть...[p]
+Если бы этот сопляк только понимал, как ему повезло с такой девушкой...[p]
+А ведь когда я сам был безусым студентом...[p]
+Эх...[p]
+Лучше не вспоминать...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -114,6 +149,23 @@ Si accontenta di qualche strusciatina nel corridoio, rischiando che arrivi Angel
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эх... Типичная глупость молодости...[p]
+Вместо того чтобы найти укромное место и пережить самые жаркие сексуальные приключения в своей жизни...[p]
+С такой потрясающей девушкой...[p]
+Он довольствуется парой ласк в коридоре, рискуя тем, что появится Анджела и накажет их обоих...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -158,6 +210,24 @@ Ehy, voi due!!! Ma vi rendete conto di dove vi trovate???[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#DESMOND
+АААААХХХХХ!!!![p]
+#ZACK
+(Чёрт... Как же я завидую!)[p]
+(Надо вмешаться и спасти их... Пока этот придурок не кончил в штаны!)[p]
+Эй, вы двое!!! Вы вообще понимаете, где находитесь???[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -194,6 +264,23 @@ Scappiamo!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#FIONA
+АААХХХ!!!![p]
+О боже!!! Профессор!!![p]
+#DESMOND
+Бежим!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -228,6 +315,22 @@ Al suo posto... Io saprei dove andare???[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Не могу понять...[p]
+Неужели они не могут найти укромное место, где побыть наедине???[p]
+Будь я на его месте... Я бы знал, куда пойти...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -278,6 +381,23 @@ Oppure è caduta, sbattendo la testa!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ох, чёрт... Пиппа...[p]
+Кажется, она потеряла сознание!!![p]
+Ей стало плохо???[p]
+Или она упала и ударилась головой!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -342,6 +462,21 @@ Cosa devo fare???[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот чёрт![p]
+Что же мне делать???[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -374,6 +509,20 @@ Ugh...?[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PIPPA
+Ух...?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -406,6 +555,23 @@ Sei svenuta???[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PIPPA
+О, профессор...[p]
+#ZACK
+Пиппа, как ты себя чувствуешь?[p]
+Ты потеряла сознание???[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -441,6 +607,23 @@ Devo essere scivolata...[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PIPPA
+Ух... Нет...[p]
+То есть... Может, и да... Не знаю...[p]
+Видите ли... Я немного неуклюжая...[p]
+Наверное, поскользнулась...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -481,6 +664,26 @@ Ho preso una brutta storta cadendo... Ahi!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ты ударилась головой???[p]
+Тебе нужно в больницу...[p]
+Или хотя бы в медпункт!!![p]
+#PIPPA
+О нет, профессор... Со мной всё хорошо...[p]
+То есть... У меня только лодыжка болит...[p]
+Кажется, я сильно подвернула её при падении... Ай!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -527,6 +730,21 @@ I got a bad sprain falling down.... Ouch!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт... Какая же она милая...)[p]
+(У неё потрясающая фигура, а её неуклюжесть кажется мне такой сексуальной...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -561,6 +779,22 @@ Lì sapranno cosa fare per la tua caviglia![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ладно... Пойдём, Пиппа...[p]
+Я провожу тебя в медпункт...[p]
+Там знают, что делать с твоей лодыжкой![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -593,6 +827,21 @@ Grazie, professore![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PIPPA
+Ух...[p]
+Спасибо, профессор![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -636,6 +885,24 @@ Starai subito meglio![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Не волнуйся...[p]
+Это всего лишь небольшое растяжение...[p]
+Позволь попробовать сделать массаж...[p]
+Тебе сразу станет легче![p]
+(ЧЁРТ! Что я несу? То, что я делаю, совершенно недопустимо для школы!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -678,6 +945,25 @@ Non preoccuparti, Pippa... Fidati di me...[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PIPPA
+Профессор... Мне немного неловко в такой позе перед вами...[p]
+#ZACK
+(Ну и мерзавец же я... Пользуюсь этой девушкой...)[p]
+(И её травмой...)[p]
+(Но как мне остановиться??)[p]
+Не волнуйся, Пиппа... Доверься мне...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -718,6 +1004,24 @@ Adesso ti toglierò il calzino, cosi il mio massaggio sarà ancora più efficaci
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PIPPA
+Ммм...[p]
+#ZACK
+(Эй... Кажется, это помогает...)[p]
+(Поднимем ставки...)[p]
+Сейчас я сниму с тебя носок, так массаж будет ещё эффективнее...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -752,6 +1056,21 @@ Now I'll take off your sock, so my massage will be even more effective...[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Надеюсь, никто не войдёт...)[p]
+(Я творю что-то ужасное!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -822,6 +1141,22 @@ Mmmmmmhhhhhh...[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PIPPA
+Мммммхххх...[p]
+#ZACK
+(Эй... Кажется, ей нравится...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -855,6 +1190,20 @@ AAAAAAHHHHH!!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PIPPA
+ААААААХХХХХ!!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -885,6 +1234,21 @@ AAAAAAHHHHH!!!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт возьми... Она просто неотразима...)[p]
+(И этот аромат её ножки... Совсем рядом с моим лицом...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -923,6 +1287,20 @@ Ugh...?[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PIPPA
+Ух...?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -952,6 +1330,20 @@ Cosa...?[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PIPPA
+Что...?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -983,6 +1375,22 @@ Sto facendo tardi per una lezione importante!!![p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PIPPA
+Простите, профессор...[p]
+Мне уже пора идти...[p]
+Я опаздываю на важное занятие!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1015,6 +1423,21 @@ Io stavo solo...[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Подожди, Пиппа...[p]
+Я всего лишь хотел...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
@@ -1045,6 +1468,20 @@ I was just...[p]
 
 [tb_start_tyrano_code]
 [endif]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(О БОЖЕ!!!! Я действительно зашёл слишком далеко!!! Надеюсь, у меня не будет неприятностей!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]

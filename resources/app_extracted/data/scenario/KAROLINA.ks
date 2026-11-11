@@ -1354,6 +1354,25 @@ Ugh...!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Что???[p]
+Правда?[p]
+О, спасибо, профессор!!![p]
+Вы так добры к нам, ученикам!!![p]
+Я вас обожаю!!![p]
+#ZACK
+Ух...!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1405,6 +1424,23 @@ Ugh...!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Охренеть...)[p]
+(Это совершенно неуместно...)[p]
+(И опасно... Но я слишком возбуждён... Не могу оторваться...)[p]
+(Её запах... Её изгибы прижимаются ко мне...)[p]
+(Я сейчас взорвусь!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1452,6 +1488,20 @@ What's going on here?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Уф...[p]
+Что здесь происходит?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1488,6 +1538,21 @@ Principal...[p]
 I'm really sorry...[p]
 However...[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Госпожа директор...[p]
+Мне очень жаль...[p]
+Но...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -1534,6 +1599,26 @@ And you didn't shower after practice![p]
 I won't let that happen again....[p]
 Clear?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Хватит...[p]
+Ты всегда была очень хорошей ученицей...[p]
+Но в последнее время ты ведёшь себя странно![p]
+Думаю, на то есть веская причина, но ты мне о ней не рассказываешь...[p]
+Я знаю, что ты снова прогуляла физкультуру...[p]
+И после тренировки даже не приняла душ![p]
+Я больше не позволю этому повториться...[p]
+Ясно?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -1600,6 +1685,20 @@ Sigh...[p]
 (It breaks my heart to see this good girl so sad...)[p]
 (But I just wouldn't know what to do for her right now...)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Мне больно видеть, как эта хорошая девочка так расстроена...)[p]
+(Но сейчас я даже не знаю, чем ей помочь...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -1680,6 +1779,20 @@ I didn't realize you were here....[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Эм... Простите, профессор...[p]
+Я не заметила, что вы здесь...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1751,6 +1864,22 @@ Well, yes... I will accept it!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Этот дневник просто чудесный!!![p]
+Профессор... Я... Я не могу его принять!!![p]
+Боже мой... Он мне так нравится...[p]
+Ладно, да... Я его приму!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1785,6 +1914,21 @@ But I will be grateful to you all my life, professor!!![p]
 There won't be a day when I won't look for a way to thank you....[p]
 And to show you how grateful I am!!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Я буду благодарна вам всю жизнь, профессор!!![p]
+Не пройдёт и дня, чтобы я не искала способ отблагодарить вас...[p]
+И показать, насколько я вам признательна!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -1828,6 +1972,19 @@ And to show you how grateful I am!!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Вот чёрт. Я чувствую, как её твёрдые напряжённые соски упираются мне в грудь!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1865,6 +2022,22 @@ And to show you how grateful I am!!!![p]
 (Holy shit, she must have noticed for sure!!!)[p]
 (But how can I control myself???)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(И моя эрекция прямо прижимается к ней...)[p]
+(Влагалище...)[p]
+(Чёрт, она наверняка всё заметила!!!)[p]
+(Но как мне себя контролировать???)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -1939,6 +2112,21 @@ But the gift you gave me is too good![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Простите, профессор...[p]
+Я не смогла себя сдержать...[p]
+Но ваш подарок слишком хорош![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1969,6 +2157,20 @@ Sono così imbarazzata!!![p]
 Oh my god, how shameful!!![p]
 I am so embarrassed!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Боже мой, как стыдно!!![p]
+Мне так неловко!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -2022,6 +2224,22 @@ A diary of the heart... Bah...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Я никогда не был бесчувственным грубияном...[p]
+Наоборот, я горжусь тем, что я чуткий человек...[p]
+Но я никак не пойму, что девушки находят в подобных вещах...[p]
+Дневник чувств... Пф...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -2054,6 +2272,19 @@ What if Lisa finds out that I spent so much money on this crap.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+А что, если Лиза узнает, сколько денег я потратил на эту ерунду?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -2082,6 +2313,19 @@ Ehy, tu, ragazzone...![p]
 #FEMALE VOICE
 Hey, you, big boy...![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#FEMALE VOICE
+Эй, здоровяк...![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -2125,6 +2369,23 @@ Lisa's not home yet![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Вот чёрт... Это же Лилли!)[p]
+#LILLY
+Почему ты так рано вернулся домой?[p]
+Я думала, сегодня ты задержишься в школе![p]
+Лизы ещё нет дома![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -2159,6 +2420,20 @@ La tua cognatina??? EH EH EH!!![p]
 Maybe you came back early to spend some time with me?[p]
 Your little sister-in-law ??? EH EH EH!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Может, ты вернулся пораньше, чтобы провести время со мной?[p]
+Со своей маленькой золовкой??? Хе-хе-хе!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -2202,6 +2477,23 @@ Every girl wants one, but it costs a lot of money!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Это дневник чувств!!!![p]
+Он такой чудесный!!![p]
+Каждая девушка мечтает о таком, но он стоит целое состояние!!![p]
+#ZACK
+(Чёрт!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -2234,6 +2526,21 @@ Oh my gosh!!![p]
 My heart is beating like crazy!!![p]
 I love it!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Боже мой!!![p]
+Моё сердце бешено колотится!!![p]
+Я в восторге!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -2270,6 +2577,21 @@ Did you really buy this for me?[p]
 I can't believe it!!![p]
 Can I have it?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Ты правда купил это для меня?[p]
+Не могу поверить!!![p]
+Можно мне его взять?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

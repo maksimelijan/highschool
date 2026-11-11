@@ -419,6 +419,19 @@ A favor? Fiona, every time you ask me for a favor, I end up having to explain my
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Услугу? Фиона, каждый раз, когда ты просишь меня об услуге, мне потом приходится оправдываться перед Анджелой.[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -446,6 +459,18 @@ Sii diretta, per favore. Cosa vuoi?[p]
 [tb_start_text mode=1 ]
 Be direct, please. What do you want?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+Говори прямо. Чего ты хочешь?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

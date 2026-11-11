@@ -1655,6 +1655,21 @@ Clear... Principal...[p]
 Sigh...[p]
 [_tb_end_text]
 
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Ясно... Госпожа директор...[p]
+Вздох...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -2656,6 +2671,22 @@ But there was a misunderstanding....[p]
 This diary is unfortunately not for you....[p]
 [_tb_end_text]
 
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Прости, Лилли...[p]
+Но тут вышло недоразумение...[p]
+К сожалению, этот дневник предназначен не тебе...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -2695,6 +2726,25 @@ Sigh...[p]
 #ZACK
 Wait Lilly, don't be like that....[p]
 [_tb_end_text]
+
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+О нет...[p]
+Я...[p]
+Я... Я думала, что небезразлична тебе...[p]
+Вздох...[p]
+#ZACK
+Подожди, Лилли, не надо так...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -2753,6 +2803,25 @@ I will be grateful to you for the rest of my life!!![p]
 (When she wants to Lilly can be the sweetest girl...)[p]
 [_tb_end_text]
 
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+А-А-А-А-АХ!!!!![p]
+Это лучший подарок, который мне когда-либо дарили!!![p]
+Спасибо, Зак!!![p]
+Я буду благодарна тебе всю жизнь!!![p]
+#ZACK
+(Когда захочет, Лилли может быть самой милой девушкой...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -2788,6 +2857,22 @@ Gosh...[p]
 She is really so happy...[p]
 It cost me a lot, but it makes me happy to see Lisa's little sister so excited![p]
 [_tb_end_text]
+
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот это да...[p]
+Она и правда так счастлива...[p]
+Это обошлось мне недёшево, но видеть такую радость младшей сестры Лизы очень приятно![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -2886,6 +2971,25 @@ Now I see why my sister loves you so much![p]
 (Shit!)[p]
 [_tb_end_text]
 
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Как красиво, Зак![p]
+Мне очень нравится!!![p]
+И я тебя люблю![p]
+Теперь я понимаю, почему моя сестра так сильно тебя любит![p]
+#ZACK
+(Чёрт!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -2917,6 +3021,21 @@ Mentre io scrivo su questo diario stupendo?[p]
 Hey, why don't you relax a little here on the couch with me...?[p]
 While I write in this wonderful diary?[p]
 [_tb_end_text]
+
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Эй, почему бы тебе немного не отдохнуть со мной на диване...?[p]
+Пока я буду делать записи в этом чудесном дневнике?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -3044,6 +3163,25 @@ No, no!!![p]
 #ZACK
 (What the fuck is she saying?)[p]
 [_tb_end_text]
+
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Ой, какая же я невоспитанная...[p]
+Я ведь сижу на диване в обуви...[p]
+Так нельзя![p]
+Нет, нет!!![p]
+#ZACK
+(Что, чёрт возьми, она несёт?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

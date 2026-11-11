@@ -3474,6 +3474,21 @@ Maybe I shouldn't bother her...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Каролина полностью поглощена занятиями...[p]
+Она изучает химические формулы на доске...[p]
+Пожалуй, не стоит ей мешать...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -3530,6 +3545,20 @@ I was very focused and didn't hear you coming....[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Ой, простите, профессор...[p]
+Я так увлеклась, что не услышала, как вы подошли...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -3561,6 +3590,21 @@ I was very focused and didn't hear you coming....[p]
 (Was she focused... Or was she crying?)[p]
 (She looks so sad!)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Хм...)[p]
+(Она была так увлечена... Или плакала?)[p]
+(Она выглядит такой грустной!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -3625,6 +3669,20 @@ You're always so sad![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй, что случилось, Каролина...?[p]
+Ты вечно грустишь![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -3660,6 +3718,22 @@ Why should I be ashamed if I like to get good grades?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Ох, профессор...[p]
+Я в отчаянии!!![p]
+Разве я виновата в том, что люблю учиться?[p]
+Почему мне должно быть стыдно за то, что я хочу получать хорошие оценки?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -3691,6 +3765,21 @@ In fact you shouldn't![p]
 Your family must be proud to have a daughter like you![p]
 A girl who loves culture and knowledge![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+И не должно![p]
+Твоя семья наверняка гордится такой дочерью![p]
+Девушкой, которая любит культуру и знания![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -3726,6 +3815,22 @@ But that doesn't help...[p]
 Because I keep getting more and more lonely....[p]
 All the other girls make fun of me, or worse![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Они действительно очень мной гордятся...[p]
+Но это не помогает...[p]
+Потому что я чувствую себя всё более одинокой...[p]
+Все остальные девочки насмехаются надо мной, а иногда и делают вещи похуже![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -3766,6 +3871,22 @@ Sob...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Я знаю, что они просто завидуют...[p]
+И однажды мои способности помогут мне добиться лучшей жизни...[p]
+Но пока я так одинока, профессор...[p]
+Всхлип...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -3804,6 +3925,22 @@ Thank you for taking an interest in me....[p]
 I really appreciated it very much![p]
 Have a great day![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Но я не хочу отнимать у вас слишком много времени, профессор...[p]
+Спасибо, что проявили ко мне интерес...[p]
+Я это очень ценю![p]
+Хорошего вам дня![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

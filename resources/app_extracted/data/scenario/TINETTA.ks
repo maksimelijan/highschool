@@ -456,6 +456,18 @@ Can we count on your help, Zack?[p]
 [endif]
 [_tb_end_tyrano_code]
 
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[glink  color="btn_17_black"  storage="TINETTA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="КОНЕЧНО!&nbsp;БУДУ&nbsp;ЖДАТЬ&nbsp;ТЕБЯ!"  _clickable_img=""  target="*SegueDialogo"  ]
+[glink  color="btn_17_black"  storage="TINETTA.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="Я&nbsp;СДЕЛАЮ&nbsp;ВСЁ&nbsp;ВОЗМОЖНОЕ!"  _clickable_img=""  target="*SegueDialogo"  ]
+[glink  color="btn_17_black"  storage="TINETTA.ks"  size="20"  x="700"  y="140"  width="580"  height=""  text="ПРИХОДИ,&nbsp;КОГДА&nbsp;ЗАХОЧЕШЬ,&nbsp;ТИНЕТТА!"  _clickable_img=""  target="*SegueDialogo"  ]
+[glink  color="btn_17_black"  storage="TINETTA.ks"  size="20"  x="700"  y="200"  width="580"  height=""  text="ДАВАЙ&nbsp;ВСТРЕТИМСЯ&nbsp;КАК&nbsp;МОЖНО&nbsp;СКОРЕЕ!"  _clickable_img=""  target="*SegueDialogo"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
 [s  ]
 *SegueDialogo
 
@@ -994,6 +1006,17 @@ Can I stay here, professor?[p]
 [glink  color="btn_17_black"  storage="TINETTA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="YOU&nbsp;BETTER&nbsp;GO.&nbsp;I&nbsp;CAN'T&nbsp;RISK"  _clickable_img=""  target="*Mandala_Via"  ]
 [glink  color="btn_17_black"  storage="TINETTA.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="SIT&nbsp;IN&nbsp;THE&nbsp;DESKS&nbsp;AT&nbsp;THE&nbsp;BACK&nbsp;OF&nbsp;THE&nbsp;CLASS"  _clickable_img=""  target="*Siedi_In_Fondo"  ]
 [glink  color="btn_17_black"  storage="TINETTA.ks"  size="20"  x="700"  y="140"  width="580"  height=""  text="SIT&nbsp;NEXT&nbsp;TO&nbsp;MY&nbsp;DESK"  _clickable_img=""  target="*Siedi_Vicino"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[glink  color="btn_17_black"  storage="TINETTA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="ТЕБЕ&nbsp;ЛУЧШЕ&nbsp;УЙТИ.&nbsp;Я&nbsp;НЕ&nbsp;МОГУ&nbsp;РИСКОВАТЬ"  _clickable_img=""  target="*Mandala_Via"  ]
+[glink  color="btn_17_black"  storage="TINETTA.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="СЯДЬ&nbsp;ЗА&nbsp;ПАРТУ&nbsp;В&nbsp;КОНЦЕ&nbsp;КЛАССА"  _clickable_img=""  target="*Siedi_In_Fondo"  ]
+[glink  color="btn_17_black"  storage="TINETTA.ks"  size="20"  x="700"  y="140"  width="580"  height=""  text="СЯДЬ&nbsp;РЯДОМ&nbsp;С&nbsp;МОИМ&nbsp;СТОЛОМ"  _clickable_img=""  target="*Siedi_Vicino"  ]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]

@@ -5630,6 +5630,29 @@ I want her!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+АХАХАХА!!!![p]
+Спасибо, что подписал документы, Зак!!![p]
+Позвони мне, если понадобится ручка!!![p]
+АХАХАХА!!![p]
+#ZACK
+Вот чёрт!!![p]
+Не могу поверить![p]
+Она уходит, а ручка всё ещё у неё во влагалище!!![p]
+Эта женщина — настоящая дикарка!!![p]
+Я её обожаю!!![p]
+Я хочу её!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -5672,6 +5695,19 @@ EH EH EH!!!![p]
 #GIRLS
 EH EH EH!!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#GIRLS
+ХИ-ХИ-ХИ!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

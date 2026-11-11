@@ -949,6 +949,23 @@ Sigh...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Хм... Если честно...)[p]
+(Не похоже, что эта девушка опускает глаза из-за стеснительности...)[p]
+(Скорее кажется...)[p]
+(Будто она на что-то смотрит и не может отвести взгляд...)[p]
+(Но... На что...?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -998,6 +1015,26 @@ Sure, count me in, Angela...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Ты это видел, Зак?[p]
+Она убежала...[p]
+Её застенчивость и правда серьёзно ей мешает...[p]
+Надеюсь, ты поможешь ей справиться с этим![p]
+#ZACK
+Конечно, можешь на меня рассчитывать, Анджела...[p]
+(Хм... Хотя у меня есть другое объяснение...)[p]
+(Надеюсь, скоро она наберётся смелости и придёт ко мне в кабинет!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1041,6 +1078,21 @@ EH EH EH!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Одно из главных преимуществ этой чёртовой работы — я могу пользоваться бассейном, когда захочу...[p]
+Вот бы ещё и красивыми ученицами можно было воспользоваться...[p]
+Хе-хе-хе!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1074,6 +1126,22 @@ I would definitely play more sports![p]
 Girls love a sportsman's physique.[p]
 Although I can't complain since I won Lisa, the most beautiful woman in the world![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Если бы я мог вернуться в те времена, когда был пухлым ботаником...[p]
+Я бы точно больше занимался спортом![p]
+Девушкам нравятся спортивные парни.[p]
+Хотя мне грех жаловаться: я ведь добился Лизы — самой красивой женщины на свете![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -1115,6 +1183,21 @@ Now that I have the chance...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт... Я совсем растерял форму!!![p]
+Мне и правда стоит найти время для тренировок...[p]
+Теперь, когда у меня есть такая возможность...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1148,6 +1231,22 @@ I didn't know you could swim in the school pool!!![p]
 #ZACK
 Ugh...?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#FEMALE VOICE
+Профессор![p]
+Я и не знала, что вы плаваете в школьном бассейне!!![p]
+#ZACK
+А...? [p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

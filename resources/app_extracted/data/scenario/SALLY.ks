@@ -10169,6 +10169,21 @@ But how can I resist something so exciting?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт!!![p]
+Я знаю, что эта затея может мне дорого обойтись...[p]
+Но как устоять перед чем-то настолько заманчивым?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -10209,6 +10224,19 @@ But how can I resist something so exciting?[p]
 #SALLY
 AAAAAAAAHHHHH!!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+А-А-А-А-А-А-А-А-А-А!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -10259,6 +10287,20 @@ Too bad, I wonder what I had put in my head...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Не повезло, ответа нет...[p]
+Жаль, интересно, что же я себе надумал...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -10290,6 +10332,20 @@ Just as well...[p]
 I've been doing too many things unfairly toward Lisa lately...[p]
 Masturbating in the bathroom at home while exchanging intimate photos with a student would be just too much![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+И хорошо...[p]
+В последнее время я и так слишком часто поступал несправедливо по отношению к Лизе...[p]
+Мастурбировать дома в ванной, обмениваясь интимными фотографиями с ученицей, — это уже чересчур![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -10326,6 +10382,21 @@ Ehy!!![p]
 Holy shit![p]
 She's recording a video!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+...[p]
+Эй!!![p]
+Вот чёрт![p]
+Она записывает видео!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -10367,6 +10438,21 @@ Clear?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Поторопитесь![p]
+Не собираюсь тратить весь день на вас, стервы, пока вы освежаете свои благоухающие киски![p]
+Ясно?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -10394,6 +10480,19 @@ Oh cazzo!!![p]
 #ZACK
 Oh fuck!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот дерьмо!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -10605,6 +10704,21 @@ At the risk of Olympia kicking her ass for it!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+О БОЖЕ!!![p]
+Она мастурбирует в школьной раздевалке!!![p]
+И всё это рискуя получить взбучку от Олимпии!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -10636,6 +10750,21 @@ I don't want to erase this video from memory...[p]
 But it's very risky to leave it here in my phone![p]
 What the fuck... I don't know what to do![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Я не хочу удалять это видео из памяти...[p]
+Но оставлять его в телефоне очень рискованно![p]
+Какого чёрта... Не знаю, что делать![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -10678,6 +10807,20 @@ Cosa cazzo stai facendo, puttanella???[p]
 Sally!!![p]
 What the fuck are you doing, you little bitch???[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Салли!!![p]
+Какого чёрта ты творишь, мелкая дрянь???[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

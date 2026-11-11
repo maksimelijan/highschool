@@ -38,6 +38,21 @@ But now here is the answer in front of me! EH EH!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй... Кто-то пьёт из фонтанчика в коридоре...[p]
+Я всегда задавался вопросом, кто придумал эти странные питьевые фонтанчики... И такую необычную высоту...[p]
+Но теперь ответ прямо передо мной! Хе-хе!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -75,6 +90,21 @@ Hey...[p]
 It's Tinetta![p]
 I'm still so pissed at her after she used my pc to search for dick pics![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй...[p]
+Это же Тинетта![p]
+Я до сих пор на неё зол за то, что она использовала мой компьютер для поиска фотографий членов![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -118,6 +148,21 @@ She's got a great ass![p]
 With these shorts, then...[p]
 I won't get out of this school alive![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Какая у неё классная задница![p]
+Особенно в этих шортах...[p]
+Я из этой школы живым не выберусь![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

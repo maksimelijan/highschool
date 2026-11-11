@@ -1032,6 +1032,19 @@ Maybe the person inside forgot to close it.....[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Вот чёрт!!! Не могу поверить своим глазам!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1074,6 +1087,19 @@ Maybe the person inside forgot to close it.....[p]
 #ZACK
 (What the fuck is going on here? I don't believe it!)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Какого чёрта здесь происходит? Не могу в это поверить!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -1139,6 +1165,20 @@ Maybe the person inside forgot to close it.....[p]
 (Oh shit... She stuck that thing inside her pussy without a second thought...)[p]
 (It looks like a vibrator!!!)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Вот чёрт... Она без колебаний засунула эту штуку себе во влагалище...)[p]
+(Похоже на вибратор!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

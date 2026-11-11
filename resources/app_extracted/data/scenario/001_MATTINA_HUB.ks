@@ -81,7 +81,21 @@
 [button  storage="001_MATTINA_HUB.ks"  target="*Achievements"  graphic="Icone_Gioco/Achievements.png"  width="100"  height="100"  y="400"  ]
 [button  storage="001_MATTINA_HUB.ks"  target="*Snack_Mattina"  graphic="Icone_Gioco/Caffè.png"  width="100"  height="100"  y="500"  ]
 [button  storage="GUIDA.ks"  target=""  graphic="Icone_Gioco/Elenco.png"  width="100"  height="100"  y="600"  name="img_12"  ]
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+[tb_ptext_show  x="1030"  y="5"  size="40"  color="0xf7d200"  time="1000"  face="animeace2_reg"  text="УТРО"  edge="0x000000"  shadow="undefined"  anim="true"  fadeout="false"  wait="false"  in_effect="swing"  out_effect="fadeOut"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua!=3"]
+[_tb_end_tyrano_code]
 [tb_ptext_show  x="1030"  y="5"  size="40"  color="0xf7d200"  time="1000"  face="animeace2_reg"  text="MORNING"  edge="0x000000"  shadow="undefined"  anim="true"  fadeout="false"  wait="false"  in_effect="swing"  out_effect="fadeOut"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 [s  ]
 *Conteggio_Giorno
 
@@ -114,7 +128,24 @@ Buona giornata![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Молодец, Зак![p]
+Вот твоя недельная зарплата![p]
+#ZACK
+Большое спасибо, Анджела![p]
+Хорошего дня![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]

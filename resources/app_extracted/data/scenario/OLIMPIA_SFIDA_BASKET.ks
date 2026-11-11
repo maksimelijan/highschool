@@ -362,7 +362,7 @@ Mi tremano le gambe. Hahaha![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -372,6 +372,21 @@ I sure hope I don't make a mistake.[p]
 My legs are shaking. Hahaha![p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Чёрт. Вижу, ты не из тех, кто сдаётся.[p]
+Очень надеюсь, что не ошибусь.[p]
+У меня даже ноги дрожат. Ха-ха-ха![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -501,7 +516,7 @@ Mi aspettavo un po' di più da te, professore![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -511,6 +526,21 @@ It really doesn't even seem to need me to make the third attempt.[p]
 I expected a little more from you, professor![p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Какое разочарование, Зак![p]
+Похоже, мне даже не придётся делать третий бросок.[p]
+Я ожидала от тебя большего, профессор![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1214,7 +1244,7 @@ Sono un asso in scienze, ma nello sport ho sempre fatto schifo![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1223,6 +1253,20 @@ No way![p]
 I'm an ace in science, but in sports I've always sucked![p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот незадача![p]
+В естественных науках я ас, но в спорте всегда был полным нулём![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1447,12 +1491,25 @@ Oh, finalmente… Mi ero davvero stufata di affrontare un pivello come te![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #OLIMPIA
 Oh, finally... I got really tired of dealing with a newbie like you![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Ну наконец-то... Мне уже надоело возиться с таким новичком, как ты![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1584,7 +1641,7 @@ Sento proprio che stavolta sbaglierò, Zack!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1593,6 +1650,20 @@ Oh my god... I'm so insecure....[p]
 I really feel like I'm going to get it wrong this time, Zack!!![p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+О боже... Я так не уверена в себе...[p]
+Мне кажется, что в этот раз я точно промахнусь, Зак!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1874,7 +1945,7 @@ Sono un asso in scienze, ma nello sport ho sempre fatto schifo![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1883,6 +1954,20 @@ No way![p]
 I'm an ace in science, but in sports I've always sucked![p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот незадача![p]
+В естественных науках я ас, но в спорте всегда был полным нулём![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2621,7 +2706,7 @@ Infilerò il mio cazzo duro come la pietra…[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2633,6 +2718,25 @@ Hey, Olympia...[p]
 Be careful...[p]
 If I should fail, and lose the challenge...[p]
 I'll stick my stone-hard cock in...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Попробую отвлечь её...[p]
+Единственный способ остановить этот танк — сыграть по её правилам...[p]
+В моём случае это, к сожалению, будет не баскетбол...[p]
+Эй, Олимпия...[p]
+Будь осторожна...[p]
+Если я проиграю это соревнование...[p]
+Я засуну в тебя свой каменно-твёрдый член...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2722,7 +2826,7 @@ Ed i tuoi trucchetti non potranno funzionare!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2733,6 +2837,24 @@ I fell into your trap, asshole...[p]
 But no problem...[p]
 I'll put more effort into the next challenges...[p]
 And your tricks won't be able to work!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Чёрт!!![p]
+Как я могла допустить такую глупую ошибку![p]
+Я попалась в твою ловушку, придурок...[p]
+Но ничего...[p]
+В следующих испытаниях я приложу больше усилий...[p]
+И твои уловки больше не сработают!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2760,7 +2882,7 @@ Potrei intanto raccogliere qualche frutto![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2769,6 +2891,22 @@ It seems that my path of destroying this bitch has just begun...[p]
 I can't get my hopes up... It won't be easy...[p]
 But maybe after this first small victory...[p]
 I might pick some fruit in the meantime![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+Что ж...[p]
+Похоже, мой путь к уничтожению этой стервы только начинается...[p]
+Не стоит обольщаться... Легко не будет...[p]
+Но, возможно, после этой первой небольшой победы...[p]
+Мне уже удастся поживиться первыми плодами![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2798,13 +2936,27 @@ Non durerà a lungo, ma per il momento...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #ZACK
 It's time to take advantage of some of the power I've gained over this woman...[p]
 It won't last long, but for now...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Пора воспользоваться властью, которую я получил над этой женщиной...[p]
+Она ненадолго, но пока...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2842,7 +2994,7 @@ Iniziamo da qualcosa di semplice, cara Olimpia...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2862,6 +3014,33 @@ Fuck you![p]
 What do you want me to do, asshole?[p]
 #ZACK
 Let's start with something simple, dear Olympia...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй, Олимпия...[p]
+Я пришёл забрать награду за свою победу над тобой![p]
+#OLIMPIA
+Ублюдок![p]
+Тебе меня не шантажировать![p]
+#ZACK
+Да неужели?[p]
+Ты уверена?[p]
+Я думал, ты настоящая спортсменка и не отказываешься от соревнований...[p]
+Даже потерпев поражение![p]
+#OLIMPIA
+Да пошёл ты![p]
+Чего ты хочешь, придурок?[p]
+#ZACK
+Начнём с чего-нибудь простого, дорогая Олимпия...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2922,7 +3101,7 @@ Presto le cose cambieranno![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2930,6 +3109,21 @@ Presto le cose cambieranno![p]
 Son of a bitch![p]
 Take advantage of your miserable moment of glory![p]
 Soon things will change![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Сукин сын![p]
+Наслаждайся своим жалким мгновением славы![p]
+Скоро всё изменится![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2961,7 +3155,7 @@ Ma hai delle tette perfette![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -2969,6 +3163,21 @@ Ma hai delle tette perfette![p]
 Wow![p]
 You may be a bitch...[p]
 But you have perfect boobs![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вау![p]
+Ты, конечно, стерва...[p]
+Но грудь у тебя просто идеальная![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3030,7 +3239,7 @@ Presto le cose cambieranno![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3038,6 +3247,21 @@ Presto le cose cambieranno![p]
 Son of a bitch![p]
 Take advantage of your miserable moment of glory![p]
 Soon things will change![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Сукин сын![p]
+Наслаждайся своим жалким мгновением славы![p]
+Скоро всё изменится![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3069,7 +3293,7 @@ Ma hai delle tette perfette![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3077,6 +3301,21 @@ Ma hai delle tette perfette![p]
 Wow![p]
 You may be a bitch...[p]
 But you have perfect boobs![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вау![p]
+Ты, конечно, стерва...[p]
+Но грудь у тебя просто идеальная![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3102,12 +3341,25 @@ Ehy... Fai piano, stronzo![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #OLIMPIA
 Ehy... Smooth it out, asshole![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Эй... Полегче, придурок![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3141,7 +3393,7 @@ Sigh...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3149,6 +3401,21 @@ Sigh...[p]
 I love your boobs, Olympia!!![p]
 #OLIMPIA
 Sigh...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Обожаю твою грудь, Олимпия!!![p]
+#OLIMPIA
+Ох...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3210,7 +3477,7 @@ Presto le cose cambieranno![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3218,6 +3485,21 @@ Presto le cose cambieranno![p]
 Son of a bitch![p]
 Take advantage of your miserable moment of glory![p]
 Soon things will change![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Сукин сын![p]
+Наслаждайся своим жалким мгновением славы![p]
+Скоро всё изменится![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3249,7 +3531,7 @@ Ma hai delle tette perfette![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3257,6 +3539,21 @@ Ma hai delle tette perfette![p]
 Wow![p]
 You may be a bitch...[p]
 But you have perfect boobs![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вау![p]
+Ты, конечно, стерва...[p]
+Но грудь у тебя просто идеальная![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3289,13 +3586,27 @@ Potrebbero entrare le studentesse![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #OLIMPIA
 Stop, asshole![p]
 The schoolgirls might come in![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Прекрати, придурок![p]
+Сюда могут войти ученицы![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3319,12 +3630,25 @@ AAAAHHHHH!!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #OLIMPIA
 AAAAHHHHH!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+А-А-А-А-А-А-А!!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3386,7 +3710,7 @@ Presto le cose cambieranno![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3394,6 +3718,21 @@ Presto le cose cambieranno![p]
 Son of a bitch![p]
 Take advantage of your miserable moment of glory![p]
 Soon things will change![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Сукин сын![p]
+Наслаждайся своим жалким мгновением славы![p]
+Скоро всё изменится![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3425,7 +3764,7 @@ Ma hai delle tette perfette![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3433,6 +3772,21 @@ Ma hai delle tette perfette![p]
 Wow![p]
 You may be a bitch...[p]
 But you have perfect boobs![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вау![p]
+Ты, конечно, стерва...[p]
+Но грудь у тебя просто идеальная![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3459,13 +3813,27 @@ I miei capezzoli sono molto sensibili![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #OLIMPIA
 Ehy, be gentle![p]
 My nipples are very sensitive![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Эй, нежнее![p]
+Мои соски очень чувствительные![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3498,13 +3866,27 @@ Questo non fa parte dell'accordo![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #OLIMPIA
 Hey...[p]
 That's not part of the deal![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Эй...[p]
+Это не входило в нашу договорённость![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3537,13 +3919,27 @@ Se continui non sarò in grado di controllarmi![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #OLIMPIA
 Please stop...[p]
 If you continue I won't be able to control myself![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Пожалуйста, прекрати...[p]
+Если продолжишь, я не смогу себя контролировать![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3604,7 +4000,7 @@ La tua skill nel basketball è aumentata di 1![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3612,6 +4008,19 @@ La tua skill nel basketball è aumentata di 1![p]
 Your skill in basketball increased by 1![p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#
+Твой навык игры в баскетбол повышен на 1![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3643,7 +4052,7 @@ Il livello della tua skill nel basketball è adesso MAX![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3651,6 +4060,19 @@ Il livello della tua skill nel basketball è adesso MAX![p]
 Your skill is now set to MAX![p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#
+Теперь уровень твоего навыка установлен на МАКСИМУМ![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3690,7 +4112,7 @@ Per favore attiva i cheats durante la notte per impostare la tua skill su MAX![p
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -3698,6 +4120,19 @@ Per favore attiva i cheats durante la notte per impostare la tua skill su MAX![p
 Please enable cheats during night to set your skill to MAX![p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#
+Чтобы установить максимальный уровень навыка, включи читы ночью![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]

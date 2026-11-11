@@ -1688,6 +1688,19 @@ Maybe the person inside forgot to close it.....[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Вот чёрт... Похоже, ей это очень нравится!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1771,6 +1784,22 @@ OMFG!!!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Вот чёрт... Только посмотрите, какой фонтан!!!)[p]
+(Никогда не видел ничего настолько мощного!)[p]
+(Эта женщина — настоящая секс-бомба!)[p]
+(Вот везение — оказаться между такими прекрасными бёдрами!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1819,6 +1848,23 @@ EH EH EH!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Ох, чёрт, вот это разрядка![p]
+Я чуть сознание не потеряла!!![p]
+Ха-ха-ха!!![p]
+#ZACK
+(ВАУ!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1863,6 +1909,23 @@ This is just what I needed![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Да...[p]
+Именно этого мне и не хватало![p]
+#ZACK
+(Боже... Как же я хотел бы найти способ стать тем, кто ей нужен!)[p]
+(Прости, моя любимая Лиза... Но это слишком захватывающе!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -1903,6 +1966,21 @@ This is just what I needed![p]
 (When can an opportunity like this ever happen again?)[p]
 (Forgive me Lisa, my love...)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Вот чёрт... Нужно набраться смелости и войти...)[p]
+(Когда ещё мне представится такая возможность?)[p]
+(Прости меня, моя любимая Лиза...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -2008,6 +2086,23 @@ AH AH AH AH!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Чёрт, над чем это она смеётся?)[p]
+(Неужели ей совсем не стыдно, что я застал её за мастурбацией?)[p]
+#MARLENE
+Ну ты и придурок, Зак![p]
+АХАХАХА!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -2046,6 +2141,24 @@ Or come early...[p]
 And join the party![p]
 If you think you're up to it![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+В следующий раз можешь постучать...[p]
+Тогда я освобожу для тебя ванную...[p]
+На случай, если ты так сильно хочешь в туалет...[p]
+Или приходи пораньше...[p]
+И присоединяйся к веселью![p]
+Если, конечно, осмелишься![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -2088,6 +2201,21 @@ Hey!!![p]
 What are you doing, Zack?[p]
 Can't you see there's someone in the bathroom?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ANGELA
+Эй!!![p]
+Что ты здесь делаешь, Зак?[p]
+Разве не видишь, что в ванной кто-то есть?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

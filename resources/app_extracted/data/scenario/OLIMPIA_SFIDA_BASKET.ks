@@ -54,7 +54,7 @@ Ora tocca a te![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -62,6 +62,21 @@ Ora tocca a te![p]
 The rules are simple, a geek like you will have no trouble understanding them![p]
 Three shots each, whoever scores the most baskets wins![p]
 Now it's your turn![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Правила простые, такой ботан, как ты, без труда их поймёт![p]
+У каждого по три броска. Побеждает тот, кто забьёт больше мячей![p]
+Теперь твоя очередь![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -86,7 +101,7 @@ Farò del mio meglio anche se sono molto inesperto.[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -94,6 +109,20 @@ Farò del mio meglio anche se sono molto inesperto.[p]
 Okay, I'll try the first one.[p]
 I'll try my best even though I'm very inexperienced.[p]
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ладно, попробую первым.[p]
+Постараюсь изо всех сил, хоть опыта у меня почти нет.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -122,13 +151,25 @@ Porca puttana, ho già sbagliato il primo.[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 Holy shit, I already got the first one wrong.[p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+Вот чёрт, я уже промахнулся с первой попытки.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -157,7 +198,7 @@ Guarda come si fa.[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -167,6 +208,21 @@ Did you get fooled so easily by your emotions?[p]
 Watch how it's done.[p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Вот же новичок![p]
+Неужели ты так легко поддался эмоциям?[p]
+Смотри, как надо.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -205,7 +261,7 @@ Se sbagliassi anche questa, sarei già fuori dalla sfida.[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -213,6 +269,20 @@ Se sbagliassi anche questa, sarei già fuori dalla sfida.[p]
 Geez. I have to try my best with the second one.[p]
 If I get this one wrong too, I'd already be out of the challenge.[p]
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK:
+Чёрт. Со второй попыткой нужно постараться.[p]
+Если и сейчас промахнусь, то сразу проиграю.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -242,7 +312,7 @@ Ottimo lavoro, Zack![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -252,6 +322,21 @@ Yeah![p]
 Good job, Zack![p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Да![p]
+#OLIMPIA
+Отлично, Зак![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -323,13 +408,26 @@ Merda! Ora devo fare bene a tutti i costi, altrimenti ho perso automaticamente.[
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #ZACK
 Shit! Now I have to get this right at all costs, otherwise I've automatically lost.[p]
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт! Теперь мне нужно попасть любой ценой, иначе я автоматически проиграю.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -357,7 +455,7 @@ Non sono mai stato un buon atleta.[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -365,6 +463,19 @@ I knew it![p]
 I've never been a very good athlete.[p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+Так и знал![p]
+Я никогда не был хорош в спорте.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -424,7 +535,7 @@ Sono un asso in scienze, ma nello sport ho sempre fatto schifo![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -433,6 +544,20 @@ No way...[p]
 I'm an ace in science, but in sports I've always sucked![p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот незадача...[p]
+В естественных науках я ас, но в спорте всегда был полным нулём![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -457,13 +582,27 @@ La sto già trascurando molto, a dir poco....[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #ZACK
 The only alternative I have is to train hard, but that would take even more time away from my relationship with Lisa.[p]
 I'm already neglecting her a lot, to say the least....[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Остаётся только усердно тренироваться, но тогда у меня будет ещё меньше времени на отношения с Лизой.[p]
+Я и так уделяю ей слишком мало внимания...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -497,7 +636,7 @@ Ora tocca a te![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -505,6 +644,21 @@ Ora tocca a te![p]
 The rules are simple, a geek like you will have no trouble understanding them![p]
 Three shots each, whoever scores the most baskets wins![p]
 Now it's your turn![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Правила простые, такой ботан, как ты, без труда их поймёт![p]
+У каждого по три броска. Побеждает тот, кто забьёт больше мячей![p]
+Теперь твоя очередь![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -529,7 +683,7 @@ Farò del mio meglio anche se sono molto inesperto.[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -537,6 +691,20 @@ Farò del mio meglio anche se sono molto inesperto.[p]
 Okay, I'll try the first one.[p]
 I'll try my best even though I'm very inexperienced.[p]
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ладно, попробую первым.[p]
+Постараюсь изо всех сил, хоть опыта у меня почти нет.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -566,7 +734,7 @@ Ho iniziato alla grande. [p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -575,6 +743,20 @@ Good job big boy![p]
 I'm off to a great start. [p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Отлично, здоровяк![p]
+Я начал просто великолепно. [p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -601,7 +783,7 @@ Ma sarai in grado di reggere il confronto con me?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -611,6 +793,21 @@ You didn't pee in your underpants from the first minute.[p]
 But will you be able to hold your own against me?[p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Ого, вижу, ты уже добился прогресса.[p]
+На этот раз ты не обмочился в штаны с первой же минуты.[p]
+Но сможешь ли ты на равных соперничать со мной?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -648,7 +845,7 @@ Devo fare del mio meglio per non sbagliare questo secondo colpo![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -657,6 +854,20 @@ Shit! How did I even think of challenging this woman, she's a champion![p]
 I have to try my hardest not to miss this second shot![p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт! Как мне вообще пришло в голову вызвать её на соревнование? Она же чемпионка![p]
+Нужно изо всех сил постараться не промахнуться со второго броска![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -684,12 +895,25 @@ Sì! Ci sono riuscito, questa volta sto andando molto bene! [p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #ZACK
 Yes! I succeeded, I'm doing really well this time! [p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Да! Получилось! На этот раз я отлично справляюсь! [p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -715,7 +939,7 @@ Stai cercando di minare la mia fiducia per battermi così facilmente?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -724,6 +948,20 @@ Hey, you really leave me speechless, phenomenon![p]
 Are you trying to undermine my confidence to beat me so easily?[p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Эй, ты меня удивляешь, настоящий феномен![p]
+Ты что, пытаешься подорвать мою уверенность, чтобы так легко меня победить?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -763,7 +1001,7 @@ Ma anche un pareggio sembra una buona possibilità, data la mia abilità.[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -773,6 +1011,21 @@ Assuming she could fail.[p]
 But even a draw seems like a good possibility, given my skill.[p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт, она не сдаётся! Если и этот мяч попадёт в корзину, я могу победить.[p]
+Хотя вряд ли она вообще промахнётся.[p]
+Но с моими способностями даже ничья — вполне неплохой результат.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -803,7 +1056,7 @@ Lo sport non fa per me.[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -813,6 +1066,21 @@ I knew I shouldn't have let it go to my head.[p]
 Sports just aren't my thing.[p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+О нет, чёрт![p]
+Так и знал, что не стоило зазнаваться.[p]
+Спорт — явно не моё.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -842,7 +1110,7 @@ Devo solo sperare.[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -854,6 +1122,24 @@ Have you lost all your confidence, or are you hoping maybe I'll fail?[p]
 We can all make mistakes at least once in our lives![p]
 I just have to hope.[p]
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Что такое, здоровяк?[p]
+Уже потерял уверенность в себе или надеешься, что я промахнусь?[p]
+
+#ZACK
+Каждый из нас хотя бы раз в жизни может ошибиться![p]
+Остаётся только надеяться.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -887,11 +1173,23 @@ Oh no, anche questa volta ha fatto centro.[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 Oh no, she's hit the jackpot again this time.[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+О нет, она и на этот раз попала точно в цель.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -949,13 +1247,27 @@ La sto già trascurando molto, a dir poco....[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #ZACK
 The only alternative I have is to train hard, but that would take even more time away from my relationship with Lisa.[p]
 I'm already neglecting her a lot, to say the least....[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Остаётся только усердно тренироваться, но тогда у меня будет ещё меньше времени на отношения с Лизой.[p]
+Я и так уделяю ей слишком мало внимания...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -989,7 +1301,7 @@ Ora tocca a te![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -997,6 +1309,21 @@ Ora tocca a te![p]
 The rules are simple, a geek like you will have no trouble understanding them![p]
 Three shots each, whoever scores the most baskets wins![p]
 Now it's your turn![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Правила простые, такой ботан, как ты, без труда их поймёт![p]
+У каждого по три броска. Побеждает тот, кто забьёт больше мячей![p]
+Теперь твоя очередь![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1021,7 +1348,7 @@ Farò del mio meglio anche se sono molto inesperto.[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1029,6 +1356,20 @@ Farò del mio meglio anche se sono molto inesperto.[p]
 Okay, I'll try the first one.[p]
 I'll try my best even though I'm very inexperienced.[p]
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Ладно, попробую первым.[p]
+Постараюсь изо всех сил, хоть опыта у меня почти нет.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1059,7 +1400,7 @@ Ottimo lavoro, Zack![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1067,6 +1408,20 @@ Ottimo lavoro, Zack![p]
 Very good ... The results of my training are showing![p]
 Good job, Zack![p]
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Отлично... Результаты тренировок уже заметны![p]
+Молодец, Зак![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1136,7 +1491,7 @@ Devo impegnarmi al massimo![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1145,6 +1500,20 @@ Holy shit...never once does this woman make a mistake!!![p]
 I have to try my hardest![p]
 
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот чёрт... Эта женщина ни разу не ошиблась!!![p]
+Нужно выложиться по полной![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1173,11 +1542,23 @@ Super!!! 2 punti!!! Speriamo che lei sbagli ora!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 Super!!! 2 points!!! Let's hope she makes a mistake now!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+Супер!!! Два очка!!! Надеюсь, теперь она ошибётся!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1247,11 +1628,23 @@ AH AH AH!!! Invece no![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 AH AH AH!!! It doesn't![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+Ха-ха-ха!!! А вот и нет![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1279,7 +1672,7 @@ Sento che sbaglierò questo tiro!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1289,6 +1682,22 @@ Not only are we now even...[p]
 But this woman so aggressive has managed to make me anxious....[p]
 I feel like I'm going to miss this shot!!![p]
 
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт.[p]
+Теперь у нас не только равный счёт...[p]
+Эта напористая женщина ещё и заставила меня нервничать...[p]
+Чувствую, что промахнусь!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1319,7 +1728,7 @@ Non ero mai arrivato a questo punto contro di lei!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1327,6 +1736,21 @@ Oh... Wow!!![p]
 I can't believe it!!![p]
 3 points!!![p]
 I had never gotten this far against her!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+О... Вау!!![p]
+Не могу поверить!!![p]
+Три очка!!![p]
+Мне ещё никогда не удавалось зайти так далеко в соревновании с ней!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1350,12 +1774,25 @@ Riuscirà sicuramente a fare l’ultimo canestro![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 Unfortunately, I already know that I can only hope for a miracle....[p]
 She will surely manage to make the last dunk![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+К сожалению, мне остаётся только надеяться на чудо...[p]
+Она наверняка забросит последний мяч![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1396,11 +1833,23 @@ Oh no, anche questa volta ha fatto centro.[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 Oh no, she's hit the jackpot again this time.[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+О нет, она и на этот раз попала точно в цель.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1458,13 +1907,27 @@ La sto già trascurando molto, a dir poco....[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #ZACK
 The only alternative I have is to train hard, but that would take even more time away from my relationship with Lisa.[p]
 I'm already neglecting her a lot, to say the least....[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Остаётся только усердно тренироваться, но тогда у меня будет ещё меньше времени на отношения с Лизой.[p]
+Я и так уделяю ей слишком мало внимания...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1493,7 +1956,7 @@ Povera Lisa... Non merita tutto questo![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1504,6 +1967,24 @@ And the worst thing... I just can't tell anymore if I want it so badly to help f
 Or because I'm starting to have feelings for that bitchy professor![p]
 And for the kinky game being created with her...[p]
 Poor Lisa... She doesn't deserve this![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт...[p]
+Мне никогда не победить эту стерву...[p]
+И хуже всего то, что я уже не понимаю, так ли сильно хочу выиграть ради помощи ученицам...[p]
+Или потому, что начинаю испытывать чувства к этой стервозной преподавательнице![p]
+И мне нравится эта извращённая игра, которая между нами складывается...[p]
+Бедная Лиза... Она этого не заслужила![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1529,12 +2010,25 @@ O cazzo... Sta arrivando qualcuno![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #ZACK
 O fuck... Someone's coming!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+О чёрт... Кто-то идёт!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1573,13 +2067,27 @@ Ma cosa...???[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #ZACK
 Tonina....[p]
 But what...????[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Тонина...[p]
+Но что...???[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1614,7 +2122,7 @@ Ti vogliamo bene![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1627,6 +2135,26 @@ But we...[p]
 We really appreciate what you are doing for us, professor![p]
 Thank you...[p]
 We love you![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#TONINA
+Зак...[p]
+Не расстраивайся...[p]
+Олимпия — профессионал...[p]
+У тебя не было шансов...[p]
+Но мы...[p]
+Мы очень ценим всё, что ты для нас делаешь, профессор![p]
+Спасибо...[p]
+Мы тебя любим![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1667,13 +2195,27 @@ Ma cosa...???[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #ZACK
 Karolina....[p]
 But what...????[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Каролина...[p]
+Но что...???[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1708,7 +2250,7 @@ Ti vogliamo bene![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1721,6 +2263,26 @@ But we...[p]
 We really appreciate what you are doing for us, professor![p]
 Thank you...[p]
 We love you![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#KAROLINA
+Зак...[p]
+Не расстраивайся...[p]
+Олимпия — профессионал...[p]
+У тебя не было шансов...[p]
+Но мы...[p]
+Мы очень ценим всё, что ты для нас делаешь, профессор![p]
+Спасибо...[p]
+Мы тебя любим![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1759,13 +2321,27 @@ Ma cosa...???[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #ZACK
 Lilly....[p]
 But what...????[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Лилли...[p]
+Но что...???[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1804,7 +2380,7 @@ Ti vogliamo bene![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1817,6 +2393,26 @@ But we...[p]
 We really appreciate what you are doing for us, professor![p]
 Thank you...[p]
 We love you![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LILLY
+Зак...[p]
+Не расстраивайся...[p]
+Олимпия — профессионал...[p]
+У тебя не было шансов...[p]
+Но мы...[p]
+Мы очень ценим всё, что ты для нас делаешь, профессор![p]
+Спасибо...[p]
+Мы тебя любим![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1852,13 +2448,27 @@ Ma cosa...???[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #ZACK
 Ilary....[p]
 But what...????[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Илари...[p]
+Но что...???[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1899,7 +2509,7 @@ Ti vogliamo bene![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -1912,6 +2522,26 @@ But we...[p]
 We really appreciate what you are doing for us, professor![p]
 Thank you...[p]
 We love you![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ILARY
+Зак...[p]
+Не расстраивайся...[p]
+Олимпия — профессионал...[p]
+У тебя не было шансов...[p]
+Но мы...[p]
+Мы очень ценим всё, что ты для нас делаешь, профессор![p]
+Спасибо...[p]
+Мы тебя любим![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1938,12 +2568,25 @@ EH EH EH EH!!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 #ALL GIRLS
 EH EH EH EH!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ВСЕ ДЕВУШКИ
+Хе-хе-хе-хе!!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2033,11 +2676,23 @@ Ha sbagliato!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
 Oh no, she's hit the jackpot again this time.[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+О нет, она и на этот раз попала точно в цель.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]

@@ -33,6 +33,20 @@
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Уф... Урок литературы уже идёт...)[p]
+(Может, мне лучше зайти позже...)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -116,6 +130,20 @@ Did you do what we told you?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CLARISSA
+Ну что, мелкая дрянь.[p]
+Ты сделала, как мы велели?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -147,6 +175,21 @@ Please, Clarissa...[p]
 Leave me in peace...[p]
 This is bullying![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY.
+Пожалуйста, Кларисса...[p]
+Оставь меня в покое...[p]
+Это же травля![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -182,6 +225,22 @@ It's a fun game![p]
 And if you don't agree to participate, I'll tell Nancy....[p]
 And she will kick your ass!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CLARISSA
+Да хватит уже, дура![p]
+Это всего лишь весёлая игра![p]
+А если не согласишься участвовать, я расскажу Нэнси...[p]
+И она тебе задаст!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -226,6 +285,24 @@ Putting on sexy lingerie is your only chance![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CLARISSA
+Ты сделала, как мы приказали?[p]
+Надела самое сексуальное бельё?[p]
+Видишь, мы тебе помогаем, идиотка![p]
+С твоей застенчивостью... С твоими вечно опущенными глазами...[p]
+С тобой никто никогда не переспит![p]
+Сексуальное бельё — твой единственный шанс![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -257,6 +334,21 @@ Now get us checked out![p]
 Before the teacher stops talking, and catches us![p]
 I want you to show me...[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#CLARISSA
+А теперь дай нам посмотреть![p]
+Пока учитель не закончил говорить и не поймал нас![p]
+Я хочу, чтобы ты показала мне...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -313,6 +405,21 @@ Ugh... I... I...[p]
 Forgive me, Clarissa...[p]
 But...[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY.
+Уф... Я... Я...[p]
+Прости меня, Кларисса...[p]
+Но...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

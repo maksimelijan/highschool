@@ -6909,6 +6909,20 @@ You don't deserve to be called a scientist![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёртов ублюдок...[p]
+Ты не достоин называться учёным![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -6961,6 +6975,20 @@ Ugh...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+О боже!!![p]
+Ох...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -7010,6 +7038,20 @@ Very good!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Уже не можешь себя контролировать, да?[p]
+Отлично!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -7024,6 +7066,19 @@ Very good!!![p]
 #SALLY
 AAAAAHHHHH!!!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+А-А-А-А-А-А-А-А-А-А!!!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -7053,6 +7108,19 @@ AAAAAHHHHH!!!!![p]
 #PROF. FAHRENHEIT
 Mmm....?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FAHRENHEIT
+М-м...?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -7101,6 +7169,21 @@ Can I go to the bathroom, please?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+Профессор, извините...[p]
+Я плохо себя чувствую...[p]
+Можно мне, пожалуйста, выйти в туалет?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -7130,6 +7213,20 @@ Non puoi aspettare la fine della mia lezione?[p]
 Is this really necessary?[p]
 Can't you wait until the end of my lecture?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FAHRENHEIT
+Это действительно так необходимо?[p]
+Неужели нельзя подождать до конца моей лекции?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -7163,6 +7260,21 @@ Oh no, I'm very sorry...[p]
 They're... Um...[p]
 Female matters...[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+О нет, простите...[p]
+Просто... Эм...[p]
+Женские дела...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -7204,6 +7316,25 @@ All right, go to the bathroom![p]
 (What a piece of shit... You can't treat these girls so badly!)[p]
 (I'm already there for them! EH EH EH!!!)[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FAHRENHEIT
+Фу...[p]
+Мерзость...[p]
+Могла бы и не посвящать меня в такие подробности, глупышка...[p]
+Ладно, иди в туалет![p]
+#ZACK
+(Ну и мерзавец... Нельзя так обращаться с девушками!)[p]
+(Хорошо, что я уже готов прийти им на помощь! ХЕ-ХЕ-ХЕ!!!)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -7252,6 +7383,21 @@ Shit... It's not here!!![p]
 Where the fuck did she go???[p]
 I'll try to look for it in the teachers' bathroom, but I hope I didn't waste too much time![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Чёрт... Её здесь нет!!![p]
+Куда, чёрт возьми, она делась???[p]
+Попробую поискать её в учительском туалете, но надеюсь, что не потерял слишком много времени![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

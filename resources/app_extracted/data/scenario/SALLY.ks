@@ -9350,6 +9350,21 @@ How to say???[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LISA
+Надеюсь, пока ты этим занимался, ты думал обо мне...[p]
+Ну...[p]
+Как бы это сказать???[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -9389,6 +9404,24 @@ And it's all mine!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LISA
+О боже...[p]
+Ты же знаешь, Зак, я люблю в тебе всё...[p]
+Но этот прекрасный член...[p]
+Я просто обожаю его!!![p]
+Не могу отвести от него глаз!!![p]
+И он весь мой!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -9425,6 +9458,22 @@ Come to the bedroom!!![p]
 Don't keep me waiting!!![p]
 I want you!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#LISA
+Ну же, Зак...[p]
+Идём в спальню!!![p]
+Не заставляй меня ждать!!![p]
+Я хочу тебя!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -9485,6 +9534,20 @@ It's really too risky, but I can't ignore the possibility that...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот чёрт...[p]
+Это действительно слишком рискованно, но я не могу игнорировать возможность того, что...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -9516,6 +9579,20 @@ Che mi manda messaggi sul mio numero segreto!!![p]
 Hey... It's Sally's number[p]
 Who texts me on my secret number!!![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Эй... Это же номер Салли![p]
+Она пишет на мой секретный номер!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -9553,6 +9630,22 @@ Better let her know that the joke ends here![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Похоже, ей понравилась моя маленькая шутка с фотографиями членов...[p]
+Какого чёрта ты творишь, Зак?[p]
+Неужели ты не можешь отказаться от этой пикантной игры с ученицей?[p]
+Лучше дать ей понять, что на этом шутки заканчиваются![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -9583,6 +9676,19 @@ Hi... I didn't like your joke in class at all![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+Привет... Мне совсем не понравилась твоя шутка на уроке![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -9611,6 +9717,19 @@ Io sono una brava ragazza…[p]
 Whoever you are please don't do it again![p]
 I am a good girl...[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+Кто бы ты ни был, пожалуйста, больше так не делай![p]
+Я хорошая девушка...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -9644,6 +9763,19 @@ I hope I have made myself clear...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+И меня совершенно не интересуют такие непристойности![p]
+Надеюсь, я ясно выразилась...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -9675,6 +9807,21 @@ Ehy, you bitches![p]
 Are you still naked as worms on that fucking bench?[p]
 I already told you that you have to shower right after practice![[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#OLIMPIA
+Эй, вы, дряни![p]
+Вы всё ещё голые, как черви, на этой чёртовой скамейке?[p]
+Я же сказала, что после тренировки нужно сразу идти в душ![[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

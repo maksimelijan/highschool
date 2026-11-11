@@ -1041,7 +1041,19 @@ Do you think my sister will have heard everything?[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[glink  color="btn_17_black"  storage="004_NOTTE_HUB.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="ОЧЕНЬ&nbsp;НАДЕЮСЬ,&nbsp;ЧТО&nbsp;НЕТ!"  _clickable_img=""  target="*Risposta_Generica"  ]
+[glink  color="btn_17_black"  storage="004_NOTTE_HUB.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="ОНА&nbsp;ТОЧНО&nbsp;НАС&nbsp;СЛЫШАЛА!"  _clickable_img=""  target="*Risposta_Generica"  ]
+[glink  color="btn_17_black"  storage="004_NOTTE_HUB.ks"  size="20"  x="700"  y="140"  width="580"  height=""  text="НЕ&nbsp;В&nbsp;ПЕРВЫЙ&nbsp;РАЗ!"  _clickable_img=""  target="*Risposta_Generica"  ]
+[glink  color="btn_17_black"  storage="004_NOTTE_HUB.ks"  size="20"  x="700"  y="200"  width="580"  height=""  text="ОНА&nbsp;ВСЁ&nbsp;ЕЩЁ&nbsp;ТАКАЯ&nbsp;НЕВИННАЯ..."  _clickable_img=""  target="*Risposta_Generica"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="004_NOTTE_HUB.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="I&nbsp;REALLY&nbsp;HOPE&nbsp;NOT!"  _clickable_img=""  target="*Risposta_Generica"  ]
@@ -1262,7 +1274,16 @@ AAAAHHHH!!!!![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[glink  color="btn_17_black"  storage="004_NOTTE_HUB.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="ОТВЕТИТЬ&nbsp;ТЕМ&nbsp;ЖЕ!"  _clickable_img=""  target="*Ripaga_Favore"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="004_NOTTE_HUB.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="RETURN&nbsp;THE&nbsp;FAVOR!"  _clickable_img=""  target="*Ripaga_Favore"  ]
@@ -1394,7 +1415,17 @@ Do it faster![p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[glink  color="btn_17_black"  storage="004_NOTTE_HUB.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="НЕ&nbsp;ХОЧУ&nbsp;ЭТОГО&nbsp;ПРИ&nbsp;ЛИЛЛИ"  _clickable_img=""  target="*Smetti_Dita"  ]
+[glink  color="btn_17_black"  storage="004_NOTTE_HUB.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="ПРОДОЛЖИТЬ,&nbsp;ПОКА&nbsp;ЛИЛЛИ&nbsp;СМОТРИТ"  _clickable_img=""  target="*Continua_Dita"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="004_NOTTE_HUB.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="I&nbsp;DON'T&nbsp;WANT&nbsp;TO&nbsp;IN&nbsp;FRONT&nbsp;OF&nbsp;LILLY"  _clickable_img=""  target="*Smetti_Dita"  ]

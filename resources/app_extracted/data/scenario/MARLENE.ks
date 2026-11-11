@@ -2892,6 +2892,22 @@ EH EH EH!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Какого чёрта происходит?)[p]
+(Неужели с моей зарплатой действительно проблемы?)[p]
+(Это будет серьёзной проблемой...)[p]
+(Или эта разгорячённая кошечка просто играет со мной?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -2927,6 +2943,23 @@ Let's do it this way...[p]
 Sign these documents![p]
 Thanks to these I can try to solve the problem....[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+(Очень рискованная игра — особенно для меня.)[p]
+#MARLENE
+Давай поступим так...[p]
+Подпиши эти документы![p]
+С их помощью я попробую решить проблему...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -2983,6 +3016,20 @@ Io ti aspetterò qui...[p]
 Take your time...[p]
 I will wait for you here...[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Не торопись...[p]
+Я буду ждать тебя здесь...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -3172,6 +3219,23 @@ EH EH!!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+ХЕ-ХЕ!!!![p]
+#ZACK
+(Какого чёрта она делает?)[p]
+(Она просто хочет меня подразнить?)[p]
+(Или пытается втянуть меня в какой-то коварный, даже эротический план?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -3211,6 +3275,20 @@ Che ne pensi?[p]
 So, Zack.[p]
 What do you think?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Ну что, Зак.[p]
+Что скажешь?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -3254,6 +3332,25 @@ Is that true, pig?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Тебе нравится моя киска?[p]
+#ZACK
+Что???[p]
+#MARLENE
+Ты ведь хочешь её облизать, да?[p]
+Хочешь вылизывать мою киску, пока во рту не останется ни капли слюны?!!!![p]
+Это правда, свинья?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -3295,6 +3392,25 @@ And are you good at licking, little piggy?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Ох...[p]
+Мне нравится, когда мне вылизывают киску![p]
+А ты хорошо умеешь это делать, поросёнок?[p]
+#ZACK
+(Не могу поверить, что это происходит!!!)[p]
+(Что мне делать?)[p]
+(Что ответить?)[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -3328,6 +3444,21 @@ Show me that you are worthy of licking my snatch![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Покажи мне!!![p]
+Покажи, как ты облизываешь эту ручку![p]
+Докажи, что достоин вылизывать мою киску![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -3357,6 +3488,20 @@ Leccala ora![p]
 Lick it up, Zack![p]
 Lick it now![p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#MARLENE
+Оближи её, Зак![p]
+Немедленно![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

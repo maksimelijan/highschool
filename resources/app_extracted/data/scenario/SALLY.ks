@@ -6403,6 +6403,24 @@ Or steam keys to redeem them for free![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#DEV
+Дорогой игрок, для тебя приготовлено небольшое испытание...[p]
+Изображения пенисов, встречающиеся в игре, взяты из нескольких взрослых игр.[p]
+Сможешь узнать их все? (Всего их пять.)[p]
+Если хочешь принять участие, напиши мне названия игр в личном сообщении на Patreon.[p]
+Если угадаешь, я пришлю тебе ссылки для бесплатного скачивания этих игр![p]
+Или ключи Steam, которые можно активировать бесплатно![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -6444,6 +6462,21 @@ And let's see her reaction![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Что ж...[p]
+Начнём с этих двух...[p]
+Посмотрим на её реакцию![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -6479,6 +6512,22 @@ It is forbidden to check the phone![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+Ох...[p]
+Сообщение...??[p]
+Во время урока???[p]
+Проверять телефон запрещено![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -6512,6 +6561,21 @@ Who will this stranger be writing to me?[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+Что?[p]
+Неизвестный номер телефона???[p]
+Кто этот незнакомец, который мне пишет?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -6543,6 +6607,20 @@ Fall into my trap, Sally![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Отлично...[p]
+Попалась в мою ловушку, Салли![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -6572,6 +6650,20 @@ Dovrei fermarmi qui, ma...[p]
 She seems to have liked it![p]
 I should stop here, but...[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Похоже, ей понравилось![p]
+Мне бы на этом остановиться, но...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -6625,6 +6717,20 @@ EH EH EH!!![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Тебе ведь очень нравятся члены, да?[p]
+ХЕ-ХЕ-ХЕ!!![p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -6654,6 +6760,20 @@ Si sente poco bene?[p]
 Miss. Is there any problem...[p]
 Are you feeling unwell?[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FAHRENHEIT
+Мисс, что-то случилось...[p]
+Вы плохо себя чувствуете?[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]
@@ -6691,6 +6811,22 @@ It's okay...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#SALLY
+Ох...[p]
+Что????[p]
+О нет... Нет, простите, профессор...[p]
+Всё в порядке...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
 
@@ -6724,6 +6860,22 @@ I am here to explain to you how mitosis works...[p]
 If you don't stay focused you won't be able to take in all my teaching...[p]
 And you will come up short, in science as well as in life...[p]
 [_tb_end_text]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#PROF. FAHRENHEIT
+Тогда, может быть, ты сосредоточишься на уроке?[p]
+Я как раз объясняю, как происходит митоз...[p]
+Если не будешь внимательно слушать, то не усвоишь мой материал...[p]
+И в итоге ничего не добьёшься ни в науке, ни в жизни...[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
 [endif]

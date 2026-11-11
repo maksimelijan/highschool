@@ -17,11 +17,21 @@
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="BAGNO_CASA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="I&nbsp;REALLY&nbsp;WOULD&nbsp;LIKE..."  _clickable_img=""  target="*Usa_Cheats"  ]
 [glink  color="btn_17_black"  storage="BAGNO_CASA.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="I&nbsp;WANT&nbsp;TO&nbsp;TRY&nbsp;MY&nbsp;LUCK..."  _clickable_img=""  target="*Senza_Cheats"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[glink  color="btn_17_black"  storage="BAGNO_CASA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="Я&nbsp;ОЧЕНЬ&nbsp;ХОЧУ..."  _clickable_img=""  target="*Usa_Cheats"  ]
+[glink  color="btn_17_black"  storage="BAGNO_CASA.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="ХОЧУ&nbsp;ИСПЫТАТЬ&nbsp;УДАЧУ..."  _clickable_img=""  target="*Senza_Cheats"  ]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -45,12 +55,23 @@
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="BAGNO_CASA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="LILLY&nbsp;WHILE&nbsp;PEEING"  _clickable_img=""  target="*Lilly_Pipi"  ]
 [glink  color="btn_17_black"  storage="BAGNO_CASA.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="LILLY&nbsp;WITH&nbsp;NO&nbsp;PANTIES"  _clickable_img=""  target="*Lilly_Senza_Mutande"  ]
 [glink  color="btn_17_black"  storage="BAGNO_CASA.ks"  size="20"  x="700"  y="140"  width="580"  height=""  text="LILLY&nbsp;HAVING&nbsp;A&nbsp;SHOWER"  _clickable_img=""  target="*Lilly_Doccia"  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[glink  color="btn_17_black"  storage="BAGNO_CASA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="ЛИЛЛИ&nbsp;В&nbsp;ТУАЛЕТЕ"  _clickable_img=""  target="*Lilly_Pipi"  ]
+[glink  color="btn_17_black"  storage="BAGNO_CASA.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="ЛИЛЛИ&nbsp;БЕЗ&nbsp;ТРУСИКОВ"  _clickable_img=""  target="*Lilly_Senza_Mutande"  ]
+[glink  color="btn_17_black"  storage="BAGNO_CASA.ks"  size="20"  x="700"  y="140"  width="580"  height=""  text="ЛИЛЛИ&nbsp;В&nbsp;ДУШЕ"  _clickable_img=""  target="*Lilly_Doccia"  ]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -304,11 +325,21 @@ If Lisa ever catches me doing it....[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="BAGNO_CASA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="KEEP&nbsp;SPYING"  _clickable_img=""  target="*Continua_Spiare_Lilly"  ]
 [glink  color="btn_17_black"  storage="004_NOTTE_HUB.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="STOP&nbsp;NOW!"  _clickable_img=""  target=""  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[glink  color="btn_17_black"  storage="BAGNO_CASA.ks"  size="20"  x="700"  y="20"  width="580"  height=""  text="ПРОДОЛЖИТЬ&nbsp;ПОДГЛЯДЫВАТЬ"  _clickable_img=""  target="*Continua_Spiare_Lilly"  ]
+[glink  color="btn_17_black"  storage="004_NOTTE_HUB.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="НЕМЕДЛЕННО&nbsp;ПРЕКРАТИТЬ!"  _clickable_img=""  target=""  ]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -408,7 +439,7 @@ Se Lisa dovesse sorprendermi mentre lo faccio...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
@@ -417,6 +448,22 @@ Holy shit...[p]
 Lilly in the bathroom...[p]
 I really should stop spying on her![p]
 If Lisa ever catches me doing it....[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=1 ]
+#ZACK
+Вот чёрт...[p]
+Лилли в ванной...[p]
+Мне и правда пора перестать за ней подглядывать![p]
+Если Лиза когда-нибудь меня за этим застукает...
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -435,11 +482,21 @@ If Lisa ever catches me doing it....[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="BAGNO_CASA.ks"  size="20"  target="*Continua_Spiare_Lilly_B"  text="KEEP&nbsp;SPYING"  x="700"  y="20"  width="580"  ]
 [glink  color="btn_17_black"  storage="004_NOTTE_HUB.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="STOP&nbsp;NOW!"  _clickable_img=""  target=""  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[glink  color="btn_17_black"  storage="BAGNO_CASA.ks"  size="20"  target="*Continua_Spiare_Lilly_B"  text="ПРОДОЛЖИТЬ&nbsp;ПОДГЛЯДЫВАТЬ"  x="700"  y="20"  width="580"  ]
+[glink  color="btn_17_black"  storage="004_NOTTE_HUB.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="НЕМЕДЛЕННО&nbsp;ПРЕКРАТИТЬ!"  _clickable_img=""  target=""  ]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
@@ -680,11 +737,21 @@ She's my girlfriend little sister...[p]
 [_tb_end_tyrano_code]
 
 [tb_start_tyrano_code]
-[if exp="f.Lingua>0"]
+[if exp="f.Lingua>0 && f.Lingua!=3"]
 [_tb_end_tyrano_code]
 
 [glink  color="btn_17_black"  storage="BAGNO_CASA.ks"  size="20"  target="*Continua_Spiare_Lilly_Doccia"  text="KEEP&nbsp;SPYING"  x="700"  y="20"  width="580"  ]
 [glink  color="btn_17_black"  storage="004_NOTTE_HUB.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="STOP&nbsp;NOW!"  _clickable_img=""  target=""  ]
+[tb_start_tyrano_code]
+[endif]
+[_tb_end_tyrano_code]
+
+[tb_start_tyrano_code]
+[if exp="f.Lingua==3"]
+[_tb_end_tyrano_code]
+
+[glink  color="btn_17_black"  storage="BAGNO_CASA.ks"  size="20"  target="*Continua_Spiare_Lilly_Doccia"  text="ПРОДОЛЖИТЬ&nbsp;ПОДГЛЯДЫВАТЬ"  x="700"  y="20"  width="580"  ]
+[glink  color="btn_17_black"  storage="004_NOTTE_HUB.ks"  size="20"  x="700"  y="80"  width="580"  height=""  text="НЕМЕДЛЕННО&nbsp;ПРЕКРАТИТЬ!"  _clickable_img=""  target=""  ]
 [tb_start_tyrano_code]
 [endif]
 [_tb_end_tyrano_code]
